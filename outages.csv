@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,7/26/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Inspection Repair,7/26/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Minor Repair,7/26/24
-Benning Road,ELE / Elevator between mezzanine and platform,Service Call,7/26/24
 Benning Road,ESC / Escalator between mezzanine and platform,Walker,7/26/24
 Benning Road,ESC / Escalator between mezzanine and platform,Modernization,7/26/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,7/26/24
@@ -15,14 +15,13 @@ Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,
 Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,7/26/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Other,7/26/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Safety Inspection,7/26/24
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,7/26/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repair,7/26/24
 Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Inspection Repair,7/26/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/26/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
-McLean,ESC / Escalator - between mezzanine to grade/street,Preventive Maintenance Inspection,7/26/24
 McLean,ESC / Escalator - between mezzanine and platform,Inspection Repair,7/26/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,7/26/24
+Medical Center,ESC / Escalator between mezzanine and platform,Service Call,7/26/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Minor Repair,7/26/24
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Other,7/26/24
 Minnesota Ave,ESC / Escalator between street and mezzanine,Other,7/25/24
@@ -30,7 +29,6 @@ Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and plat
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Preventive Maintenance Inspection,7/26/24
 New Carrollton,ELE / Garage elevator,Minor Repair,7/26/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,7/29/24
-Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Inspection Repair,8/22/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/30/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/30/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/24
