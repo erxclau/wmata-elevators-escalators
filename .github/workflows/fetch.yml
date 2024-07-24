@@ -1,4 +1,4 @@
-name: Fetch DTE data
+name: Fetch WMATA elevator and escalator data
 
 on:
   push:
