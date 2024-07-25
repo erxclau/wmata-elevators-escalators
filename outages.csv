@@ -1,24 +1,27 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Inspection Repair,7/26/24
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Walker,7/27/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,7/27/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Service Call,
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Service Call,7/27/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,7/27/24
 Benning Road,ESC / Escalator between mezzanine and platform,Walker,7/26/24
 Benning Road,ESC / Escalator between mezzanine and platform,Modernization,7/26/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,7/26/24
-Capitol South,ESC / Escalator between street and mezzanine,Service Call,7/27/24
 Cheverly,ESC / Escalator between street and mezzanine,Service Call,7/27/24
-Crystal City,ESC / Escalator between street and middle landing,Other,7/27/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,7/27/24
+Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,7/27/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Eastern Market,ESC / Escalator between mezzanine and platform,Service Call,7/27/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Service Call,7/27/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Service Call,7/27/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repair,7/26/24
+Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Shady Grove 7th and G Street/Arena Entrance,Service Call,7/27/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,7/27/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Preventive Maintenance Inspection,7/27/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/27/24
+King St-Old Town,ELE / Elevator between mezzanine and platform,Service Call,7/27/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,7/27/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,8/1/24
 Medical Center,ESC / Escalator between mezzanine and platform,Service Call,7/27/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,7/27/24
@@ -40,5 +43,4 @@ U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzani
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Inspection Repair,7/31/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
-Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Service Call,7/27/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,7/25/24
