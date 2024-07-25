@@ -1,9 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Inspection Repair,7/26/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,7/27/24
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,7/27/24
 Benning Road,ESC / Escalator between mezzanine and platform,Walker,7/26/24
 Benning Road,ESC / Escalator between mezzanine and platform,Modernization,7/26/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,7/26/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,7/27/24
 Cheverly,ESC / Escalator between street and mezzanine,Service Call,7/27/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,7/26/24
@@ -11,14 +13,17 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repai
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,7/27/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Preventive Maintenance Inspection,7/27/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/27/24
+Greenbelt,ESC / Escalator between mezzanine and platform,Service Call,7/27/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,8/1/24
 Medical Center,ESC / Escalator between mezzanine and platform,Service Call,7/27/24
-Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Minor Repair,7/27/24
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Other,7/27/24
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Other,7/26/24
 Minnesota Ave,ESC / Escalator between street and mezzanine,Inspection Repair,7/27/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,7/29/24
+Pentagon,ESC / Escalator between upper and lower platforms,Service Call,7/27/24
 Pentagon City,"ELE / Elevator between street and mezzanine on west side of Hayes street, at The Fashion Center",Service Call,7/27/24
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,7/27/24
 Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,7/27/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/30/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/30/24
@@ -26,7 +31,8 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/
 Smithsonian,"ELE / Elevator between street, mezzanine, and platform to New Carrollton/Largo Town Center Independence Avenue Entrance",Inspection Repair,7/27/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,7/27/24
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,7/27/24
-U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Walker,7/27/24
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Service Call,7/27/24
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,7/27/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Inspection Repair,7/31/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
