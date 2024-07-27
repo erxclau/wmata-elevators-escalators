@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,7/29/24
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,7/29/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Inspection Repair,7/29/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,7/29/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,7/28/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repair,7/29/24
@@ -18,9 +17,9 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/30/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,7/28/24
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,7/29/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Service Call,7/29/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,7/29/24
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,7/29/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,7/29/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
