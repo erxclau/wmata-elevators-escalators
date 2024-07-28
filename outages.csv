@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,7/28/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,7/30/24
-Federal Triangle,ESC / Escalator between middle landing and mezzanine,Service Call,7/30/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repair,7/29/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/29/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/28/24
@@ -10,6 +9,7 @@ Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Se
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Minor Repair,7/29/24
 Metro Center,ELE / Elevator between street and mezzanine,Service Call,7/30/24
+Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Service Call,7/30/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,7/29/24
 Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Service Call,7/30/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/30/24
