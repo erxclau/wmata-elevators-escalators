@@ -1,11 +1,10 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Safety Inspection,3/31/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Walker,7/31/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,7/30/24
 Capitol South,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,7/21/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Service Call,7/30/24
+Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Safety Inspection,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
-Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,8/1/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,7/13/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repair,7/29/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/29/24
@@ -19,6 +18,8 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,7/24/24
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Minor Repair,7/29/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,7/29/24
+Potomac Ave,ESC / Escalator between street and mezzanine,Service Call,7/31/24
+Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,7/31/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/30/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/30/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/24
