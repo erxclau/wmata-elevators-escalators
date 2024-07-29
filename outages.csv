@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,8/2/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
-Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Major Repair,7/31/24
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Major Repair,8/2/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,7/31/24
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Service Call,7/31/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/28/24
@@ -9,7 +9,7 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and t
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Safety Inspection,8/1/24
 Greenbelt,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/31/24
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Service Call,7/31/24
-Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Customer Incident,7/31/24
+Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Customer Incident,8/2/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 New Carrollton,ELE / Elevator between mezzanine and street at Route 450,Service Call,7/31/24
 NoMa-Gallaudet U,ELE / Elevator between bike trail and mezzanine Florida Avenue Entrance,Minor Repair,7/31/24
@@ -21,4 +21,3 @@ Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. En
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Service Call,7/31/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,7/31/24
