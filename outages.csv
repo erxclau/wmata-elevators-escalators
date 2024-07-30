@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,8/1/24
 Benning Road,ESC / Escalator between street and mezzanine,Other,8/2/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,8/2/24
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,8/1/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/1/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,8/1/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,7/31/24
@@ -10,7 +9,6 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Major Repair,8/2/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Service Call,8/1/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,8/1/24
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,8/1/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/28/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,3/31/25
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Service Call,7/31/24
@@ -29,6 +27,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,7/31/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Minor Repair,8/1/24
 Smithsonian,"ELE / Elevator between street, mezzanine, and platform to New Carrollton/Largo Town Center Independence Avenue Entrance",Service Call,8/1/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,7/30/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,8/1/24
