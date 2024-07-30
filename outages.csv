@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,8/1/24
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,8/1/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,8/1/24
 Benning Road,ESC / Escalator between street and mezzanine,Other,7/31/24
 Benning Road,ESC / Escalator between mezzanine and platform,Service Call,8/1/24
@@ -16,7 +17,7 @@ Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Se
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,8/1/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Major Repair,8/2/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Service Call,8/1/24
-Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,8/1/24
+Federal Triangle,ESC / Escalator between street and middle landing,Other,8/1/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,8/1/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,8/1/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Service Call,7/31/24
@@ -47,7 +48,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/
 Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,8/1/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,7/31/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Inspection Repair,8/7/24
-Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Service Call,8/1/24
+Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Minor Repair,8/1/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,8/1/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,7/31/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
