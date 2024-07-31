@@ -1,11 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,8/1/24
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,8/2/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,8/1/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,8/14/24
 Benning Road,ESC / Escalator between street and mezzanine,Other,8/2/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,8/2/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Preventive Maintenance Inspection,8/1/24
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/1/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/1/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Safety Inspection,8/1/24
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Minor Repair,8/1/24
@@ -18,7 +18,7 @@ Federal Triangle,ESC / Escalator between middle landing and mezzanine,Service Ca
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,8/1/24
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Service Call,8/1/24
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Service Call,8/1/24
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Preventive Maintenance Inspection,8/1/24
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Preventive Maintenance Inspection,7/28/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/28/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,3/31/25
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Customer Incident,8/2/24
