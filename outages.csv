@@ -11,7 +11,6 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Minor Repair,8/2/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Major Repair,8/2/24
 Farragut West,ELE / Elevator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Inspection Repair,8/8/25
-Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Minor Repair,8/2/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Other,8/2/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/28/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,8/5/24
@@ -20,6 +19,7 @@ Judiciary Square,ELE / Elevator between street and platform to Shady Grove Build
 Judiciary Square,ELE / Elevator between street and platform to Glenmont Building Museum Entrance,Minor Repair,8/2/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Major Repair,8/2/24
+McLean,ELE / Elevator between mezzanine and platform,Service Call,8/2/24
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Other,8/2/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,8/5/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Other,8/2/24
@@ -32,4 +32,3 @@ Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, 
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,8/1/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
-Woodley Park-Zoo/Adams Morgan,"ELE / Elevator between street and mezzanine, SW corner of Woodley Rd. & Connecticut Ave., N.W.",Minor Repair,8/2/24
