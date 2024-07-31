@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,8/2/24
 Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,8/2/24
-Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,8/2/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,8/2/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,8/2/24
 Cheverly,ELE / Elevator between street and mezzanine,Service Call,8/2/24
@@ -14,11 +13,13 @@ Congress Heights,ESC / Escalator between mezzanine and platform,Service Call,8/2
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,8/2/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,8/2/24
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,8/2/24
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,8/2/24
+Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Service Call,8/2/24
+Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Service Call,8/2/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Minor Repair,8/2/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Major Repair,8/2/24
 Farragut West,ELE / Elevator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Inspection Repair,8/8/25
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,8/2/24
+Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Service Call,8/2/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,7/31/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,8/2/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Other,8/2/24
@@ -31,6 +32,7 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfan
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Major Repair,8/2/24
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Other,8/2/24
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,8/2/24
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Service Call,8/2/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,8/2/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,8/5/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,8/2/24
@@ -49,6 +51,8 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major Repair,8/1/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,8/2/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,8/2/24
+Suitland,ELE / Elevator between mezzanine and platform,Service Call,8/2/24
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,8/2/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,8/2/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,8/1/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
