@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,8/2/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,8/2/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Preventive Maintenance Inspection,8/2/24
 Braddock Road,ELE / Elevator between mezzanine and platform,Minor Repair,8/2/24
 Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,8/2/24
 Cleveland Park,ELE / Elevator between mezzanine and platform,Safety Inspection,8/2/24
@@ -8,15 +9,16 @@ College Park-U of Md,ESC / Escalator between mezzanine and platform,Preventive M
 Congress Heights,ESC / Escalator between mezzanine and platform,Service Call,8/2/24
 Crystal City,ESC / Escalator between street and middle landing,Service Call,8/2/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,8/2/24
+Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Minor Repair,8/2/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,8/2/24
 Eastern Market,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/2/24
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Service Call,8/2/24
-Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Service Call,8/2/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Minor Repair,8/2/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Major Repair,8/2/24
 Farragut West,ELE / Elevator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Inspection Repair,8/8/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,7/31/24
+Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Service Call,8/2/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Other,8/2/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,7/28/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,8/5/24
@@ -34,7 +36,6 @@ Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/La
 Potomac Ave,ESC / Escalator between street and mezzanine,Other,8/2/24
 Potomac Ave,ESC / Escalator between mezzanine and platform,Minor Repair,8/2/24
 Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Minor Repair,8/2/24
-Potomac Yard,ESC / Escalator between mezzanine and Franconia-Springfield and Huntington platform,Service Call,8/2/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Service Call,8/2/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
@@ -47,5 +48,6 @@ Southern Avenue,ESC / Escalator between mezzanine and garage,Minor Repair,8/2/24
 Suitland,ELE / Elevator between mezzanine and platform,Minor Repair,8/2/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,8/2/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,8/1/24
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Preventive Maintenance Inspection,8/2/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
