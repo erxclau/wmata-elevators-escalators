@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,8/5/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,8/4/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,8/5/24
-Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,8/4/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,8/4/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,8/4/24
 Deanwood,ESC / Escalator between street and mezzanine,Service Call,8/4/24
@@ -19,12 +18,10 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Ora
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Major Repair,8/5/24
 Landover,ESC / Escalator between mezzanine and platform,Minor Repair,8/3/24
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Other,8/5/24
-Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Major Repair,8/6/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,8/4/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Minor Repair,8/5/24
 Navy Yard-Ballpark,ELE / Elevator between mezzanine and platform Navy Yard West Entrance,Inspection Repair,8/30/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/8/24
-NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Service Call,8/4/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,8/5/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,8/4/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Other,8/5/24
@@ -32,6 +29,7 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major Repair,8/5/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,8/4/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Service Call,8/4/24
 Takoma,ELE / Elevator between mezzanine and platform,Service Call,8/4/24
 Tysons,ESC / Escalator - south entry pavilion,Other,8/5/24
