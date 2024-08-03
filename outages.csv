@@ -1,8 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,8/4/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,8/5/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,8/5/24
-Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,8/5/24
 Crystal City,ESC / Escalator between street and middle landing,Service Call,8/5/24
 Crystal City,ESC / Escalator between street and middle landing,Minor Repair,8/5/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,8/5/24
@@ -11,6 +9,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle E
 East Falls Church,ESC / Escalator between mezzanine and platform,Minor Repair,8/5/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Other,8/5/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Service Call,8/5/24
+Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,8/5/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/3/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,8/5/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,8/3/24
