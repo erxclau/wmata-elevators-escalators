@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/5/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Other,8/5/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,8/12/24
 Cheverly,ESC / Escalator between street and mezzanine,Service Call,8/7/24
 College Park-U of Md,ELE / Garage elevator,Service Call,8/7/24
@@ -29,7 +28,7 @@ Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,8/7/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,8/7/24
 Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,8/7/24
-Tysons,ESC / Escalator - south entry pavilion,Other,8/5/24
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,8/7/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Other,8/7/24
