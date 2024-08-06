@@ -2,7 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ELE / Garage elevator,Service Call,8/8/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/9/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,8/8/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Service Call,8/8/24
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,8/8/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,8/12/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,8/9/24
 Benning Road,ESC / Escalator between mezzanine and platform,Minor Repair,8/8/24
@@ -42,7 +42,7 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/24
 Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,8/8/24
-Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,8/8/24
+Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Other,8/8/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major Repair,8/9/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,8/9/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Service Call,8/8/24
