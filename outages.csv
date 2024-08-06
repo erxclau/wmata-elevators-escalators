@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Preventive Maintenance Inspection,8/7/24
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/6/24
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Preventive Maintenance Inspection,8/8/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,8/12/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,8/7/24
 Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Fire Alarm,8/8/24
@@ -9,19 +10,18 @@ Downtown Largo,ELE / Elevator between mezzanine and platform,Other,8/7/24
 Downtown Largo,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/8/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Preventive Maintenance Inspection,8/7/24
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,8/7/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/8/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Minor Repair,8/6/24
-Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Minor Repair,8/8/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/8/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Safety Inspection,8/8/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,8/7/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/7/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,8/7/24
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,8/7/24
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,8/8/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,8/7/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Preventive Maintenance Inspection,8/7/24
+Landover,ESC / Escalator between mezzanine and platform,Minor Repair,8/8/24
 Medical Center,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/8/24
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Other,8/7/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Minor Repair,8/7/24
@@ -31,7 +31,6 @@ NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue E
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Preventive Maintenance Inspection,8/8/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,12/4/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,8/7/24
-Potomac Ave,ESC / Escalator between mezzanine and platform,Major Repair,8/7/24
 Potomac Ave,ESC / Escalator between mezzanine and platform,Inspection Repair,8/7/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
