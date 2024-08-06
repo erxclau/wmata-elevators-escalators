@@ -1,11 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/6/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Preventive Maintenance Inspection,8/8/24
+Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,8/8/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,8/12/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,8/7/24
 Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Fire Alarm,8/8/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/7/24
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Major Repair,8/8/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
 Downtown Largo,ELE / Elevator between mezzanine and platform,Other,8/7/24
 Downtown Largo,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/8/24
@@ -14,6 +14,7 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Stree
 East Falls Church,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/8/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Minor Repair,8/6/24
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Minor Repair,8/8/24
+Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Other,8/8/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/8/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Safety Inspection,8/8/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/7/24
@@ -40,7 +41,6 @@ Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,8/6/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,8/7/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Service Call,8/7/24
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Minor Repair,8/7/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Walker,8/7/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Minor Repair,8/7/24
 Tysons,ELE / Elevator between mezzanine and platform,Service Call,8/8/24
