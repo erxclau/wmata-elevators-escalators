@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ELE / Garage elevator,Service Call,8/8/24
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,8/8/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/9/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,8/8/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Service Call,8/8/24
@@ -9,6 +8,7 @@ Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repai
 Benning Road,ESC / Escalator between mezzanine and platform,Minor Repair,8/8/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/9/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,8/8/24
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,8/8/24
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,8/8/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,8/8/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
