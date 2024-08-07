@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,8/8/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/9/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,8/8/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,8/12/24
@@ -17,16 +16,17 @@ Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,8/8/24
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Other,8/8/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,8/8/24
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,8/8/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,8/8/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/7/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,8/9/24
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,8/8/24
 Herndon,ELE / Elevator - north entry pavilion Herndon,Service Call,8/8/24
 Herndon,ELE / Elevator - south entry pavilion Herndon,Inspection Repair,8/8/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Other,8/8/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Service Call,8/8/24
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,8/8/24
+Medical Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/8/24
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Other,8/9/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/9/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,12/4/24
@@ -38,6 +38,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,8/8/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major Repair,8/9/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,8/9/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,8/8/24
 Suitland,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/8/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Other,8/9/24
 Tysons,ELE / Elevator between mezzanine and platform,Other,8/8/24
