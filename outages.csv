@@ -3,7 +3,6 @@ Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Me
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,8/8/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,8/9/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,8/12/24
-Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,8/9/24
 Benning Road,ESC / Escalator between mezzanine and platform,Minor Repair,8/8/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,8/9/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/9/24
@@ -28,10 +27,12 @@ Herndon,ELE / Elevator - south entry pavilion Herndon,Inspection Repair,8/8/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Other,8/8/24
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Minor Repair,8/8/24
+McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,8/9/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,8/9/24
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Other,8/9/24
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,8/9/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Service Call,8/8/24
+Naylor Road,ESC / Escalator between mezzanine and platform,Service Call,8/9/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/9/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,12/4/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,8/9/24
@@ -41,7 +42,7 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,8/8/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major Repair,8/9/24
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Major Repair,8/9/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,8/9/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Other,8/9/24
 Tysons,ELE / Elevator between mezzanine and platform,Other,8/8/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Minor Repair,8/9/24
