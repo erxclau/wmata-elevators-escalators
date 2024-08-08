@@ -1,9 +1,9 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/9/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,8/9/24
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,8/10/24
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,8/10/24
 Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,8/10/24
+Cleveland Park,ESC / Escalator between mezzanine and platform,Service Call,8/10/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,8/10/24
 Congress Heights,ELE / Elevator between mezzanine and street,Service Call,8/10/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Inspection Repair,8/10/24
@@ -25,8 +25,8 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th 
 King St-Old Town,ELE / Elevator between mezzanine and platform,Minor Repair,7/27/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to station entrance) 7th & D St (USDOT Entrance),Service Call,8/10/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Service Call,8/10/24
 McLean,ELE / Elevator - south entry pavilion,Service Call,8/10/24
+McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Vermont Ave./Veterans Administration Entrance,Service Call,8/10/24
 New Carrollton,ELE / Garage elevator,Service Call,8/10/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/15/24
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,8/10/24
