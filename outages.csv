@@ -2,15 +2,14 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,8/9/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/9/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,8/9/24
-Ballston-MU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,8/9/24
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Minor Repair,8/10/24
+Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,8/10/24
+Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,8/10/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/9/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Other,8/9/24
 Court House,ELE / Elevator between mezzanine and platform,Inspection Repair,8/13/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Deanwood,ELE / Elevator between street and mezzanine,Inspection Repair,8/9/24
-Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Preventive Maintenance Inspection,8/10/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Minor Repair,8/9/24
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Minor Repair,8/9/24
@@ -28,7 +27,7 @@ Minnesota Ave,ESC / Escalator between street and mezzanine,Service Call,8/9/24
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/10/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Service Call,8/9/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/10/24
-NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Safety Inspection,8/10/24
+NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/15/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,12/4/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,8/9/24
 Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Preventive Maintenance Inspection,8/10/24
@@ -46,9 +45,7 @@ Tysons,ELE / Elevator between mezzanine and platform,Other,8/9/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Minor Repair,8/9/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,8/9/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,8/9/24
-Van Ness-UDC,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,8/13/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Waterfront,ESC / Escalator between mezzanine and platform,Major Repair,8/12/24
-West Falls Church,ESC / Escalator between mezzanine and platform to New Carrolton,Preventive Maintenance Inspection,8/10/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,8/9/24
