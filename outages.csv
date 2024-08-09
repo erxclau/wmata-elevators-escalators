@@ -3,7 +3,6 @@ Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Me
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,8/9/24
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,8/10/24
 Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,8/10/24
-Clarendon,ELE / Elevator between mezzanine and platform to Vienna,Safety Inspection,8/11/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,8/10/24
 Columbia Heights,ELE / Elevator between mezzanine and platform,Service Call,8/9/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Inspection Repair,8/10/24
@@ -12,6 +11,7 @@ Crystal City,ESC / Escalator between street and middle landing,Modernization,11/
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Deanwood,ELE / Elevator between street and mezzanine,Inspection Repair,8/9/24
 Deanwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/11/24
+Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Service Call,8/11/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Minor Repair,8/9/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,8/9/24
@@ -21,6 +21,7 @@ Friendship Heights,ESC / Escalator between bus terminal and middle landing Weste
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,8/10/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,8/10/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
+L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Preventive Maintenance Inspection,8/11/24
 NoMa-Gallaudet U,ELE / Elevator between bike trail and mezzanine Florida Avenue Entrance,Other,8/11/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/15/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Inspection Repair,9/11/24
@@ -39,7 +40,6 @@ Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsi
 Tysons,ELE / Elevator between mezzanine and platform,Other,8/9/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,8/10/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,8/10/24
-Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Preventive Maintenance Inspection,8/14/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Waterfront,ESC / Escalator between mezzanine and platform,Major Repair,8/12/24
