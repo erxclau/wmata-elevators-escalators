@@ -9,7 +9,6 @@ Court House,ELE / Elevator between mezzanine and platform,Inspection Repair,8/13
 Crystal City,ELE / Elevator between street and mezzanine,Minor Repair,8/11/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
-Downtown Largo,ESC / Escalator between street and mezzanine,Service Call,8/11/24
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Service Call,8/11/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Major Repair,8/12/24
@@ -33,7 +32,6 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/15/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Inspection Repair,9/11/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,12/4/24
-Pentagon City,"ELE / Elevator between street and mezzanine on west side of Hayes street, at The Fashion Center",Water Leak/Intrusion,8/10/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,8/11/24
 Potomac Ave,ELE / Elevator between street and mezzanine,Minor Repair,8/12/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,8/12/24
@@ -51,7 +49,7 @@ Takoma,ELE / Elevator between mezzanine and platform,Service Call,8/11/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/12/24
 Tysons,ELE / Elevator between mezzanine and platform,Other,8/12/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,8/12/24
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,8/12/24
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Walker,8/11/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Waterfront,ESC / Escalator between street and mezzanine,Minor Repair,8/11/24
