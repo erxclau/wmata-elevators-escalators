@@ -3,19 +3,17 @@ Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Me
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,8/11/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,8/11/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,8/9/24
-Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,8/10/24
 Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,8/10/24
 Cheverly,ESC / Escalator between street and mezzanine,Minor Repair,8/11/24
 Columbia Heights,ELE / Elevator between mezzanine and platform,Service Call,8/9/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Inspection Repair,8/10/24
 Court House,ELE / Elevator between mezzanine and platform,Inspection Repair,8/13/25
+Crystal City,ELE / Elevator between street and mezzanine,Minor Repair,8/11/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Deanwood,ELE / Elevator between street and mezzanine,Inspection Repair,8/9/24
 Downtown Largo,ESC / Escalator between street and mezzanine,Service Call,8/11/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,8/11/24
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,8/11/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Minor Repair,8/9/24
 Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,8/11/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,8/9/24
@@ -25,6 +23,7 @@ Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th an
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,8/10/24
 King St-Old Town,ELE / Elevator between mezzanine and platform,Service Call,8/11/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,8/11/24
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,8/11/24
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Service Call,8/11/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,8/11/24
@@ -36,6 +35,7 @@ NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue E
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Inspection Repair,9/11/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,12/4/24
 Pentagon City,"ELE / Elevator between street and mezzanine on west side of Hayes street, at The Fashion Center",Water Leak/Intrusion,8/10/24
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,8/11/24
 Potomac Ave,ELE / Elevator between street and mezzanine,Minor Repair,8/10/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,8/9/24
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Service Call,8/11/24
@@ -48,7 +48,7 @@ Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Servi
 Southern Avenue,ESC / Escalator between mezzanine and garage,Other,8/10/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,8/11/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,8/11/24
-Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,8/11/24
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,8/11/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/9/24
 Tysons,ELE / Elevator between mezzanine and platform,Other,8/9/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,8/10/24
