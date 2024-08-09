@@ -1,8 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/9/24
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,8/11/24
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,8/11/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,8/9/24
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,8/10/24
 Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,8/10/24
+Cheverly,ESC / Escalator between street and mezzanine,Service Call,8/11/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,8/10/24
 Columbia Heights,ELE / Elevator between mezzanine and platform,Service Call,8/9/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Inspection Repair,8/10/24
@@ -10,7 +13,7 @@ Court House,ELE / Elevator between mezzanine and platform,Inspection Repair,8/13
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Deanwood,ELE / Elevator between street and mezzanine,Inspection Repair,8/9/24
-Deanwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/11/24
+Downtown Largo,ESC / Escalator between street and mezzanine,Service Call,8/11/24
 Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Service Call,8/11/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Minor Repair,8/9/24
@@ -22,6 +25,7 @@ Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th an
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,8/10/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Preventive Maintenance Inspection,8/11/24
+Minnesota Ave,ESC / Escalator between street and mezzanine,Service Call,8/11/24
 NoMa-Gallaudet U,ELE / Elevator between bike trail and mezzanine Florida Avenue Entrance,Other,8/11/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/15/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Inspection Repair,9/11/24
@@ -35,6 +39,7 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/24
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,8/11/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major Repair,8/9/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,8/11/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Other,8/10/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/9/24
 Tysons,ELE / Elevator between mezzanine and platform,Other,8/9/24
@@ -42,4 +47,4 @@ Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, 
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,8/10/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
-Waterfront,ESC / Escalator between mezzanine and platform,Major Repair,8/12/24
+Waterfront,ESC / Escalator between street and mezzanine,Service Call,8/11/24
