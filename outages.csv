@@ -1,16 +1,14 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/12/24
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,8/12/24
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,8/12/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,8/12/24
 Benning Road,ESC / Escalator between mezzanine and platform,Service Call,8/12/24
 Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Service Call,8/12/24
 Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,8/12/24
 Capitol South,ESC / Escalator between mezzanine and platform,Service Call,8/12/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/12/24
-Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,8/12/24
 Columbia Heights,"ELE /  Elevator between street and mezzanine, 14 Street, Southbound Entrance",Minor Repair,8/11/24
 Columbia Heights,ESC / Escalator between mezzanine and platform,Service Call,8/12/24
+Court House,ELE / Elevator between street and mezzanine,Service Call,8/12/24
 Court House,ELE / Elevator between mezzanine and platform,Inspection Repair,8/13/25
 Crystal City,ELE / Elevator between street and mezzanine,Minor Repair,8/11/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
@@ -54,6 +52,6 @@ U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzani
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,8/12/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
-Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Inspection Repair,8/12/24
+West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Service Call,8/12/24
 West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Minor Repair,8/11/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Minor Repair,8/11/24
