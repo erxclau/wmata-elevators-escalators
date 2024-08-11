@@ -1,10 +1,13 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/12/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,8/12/24
+Braddock Road,ELE / Elevator between mezzanine and platform,Service Call,8/13/24
 Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,8/12/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/12/24
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,8/13/24
 Columbia Heights,"ELE /  Elevator between street and mezzanine, 14 Street, Southbound Entrance",Minor Repair,8/12/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
+Crystal City,ESC / Escalator between street and middle landing,Service Call,8/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,8/13/24
@@ -21,17 +24,22 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,8/12/24
 Medical Center,ESC / Escalator between street and mezzanine,Other,8/11/24
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Other,8/11/24
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Service Call,8/13/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/15/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Inspection Repair,9/11/24
+North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Other,
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,12/4/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,8/12/24
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Service Call,8/11/24
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Minor Repair,8/12/24
+Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Preventive Maintenance Inspection,8/13/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/23/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major Repair,8/12/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,8/13/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Other,8/12/24
+Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,8/13/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Other,8/12/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/12/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,8/13/24
