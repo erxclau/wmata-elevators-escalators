@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,8/12/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,8/12/24
-Bethesda,ELE / Elevator between mezzanine and platform,Service Call,8/13/24
 Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,8/12/24
 Capitol South,ESC / Escalator between mezzanine and platform,Minor Repair,8/13/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/12/24
@@ -15,10 +14,9 @@ East Falls Church,ESC / Escalator between mezzanine and platform,Other,8/12/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,8/12/24
 Foggy Bottom-GWU,ELE / Elevator between mezzanine and platform,Service Call,8/13/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Minor Repair,8/13/24
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,8/13/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,8/12/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,8/13/24
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,8/13/24
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Safety Inspection,8/13/24
 Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Service Call,8/13/24
 Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Service Call,8/13/24
 Herndon,ESC / Escalator - south entry pavilion Herndon,Minor Repair,8/12/24
