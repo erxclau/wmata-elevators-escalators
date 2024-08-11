@@ -10,6 +10,7 @@ Columbia Heights,"ELE /  Elevator between street and mezzanine, 14 Street, South
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
 Crystal City,ESC / Escalator between street and middle landing,Service Call,8/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
+Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,8/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,8/13/24
 East Falls Church,ESC / Escalator between mezzanine and platform,Other,8/12/24
@@ -24,7 +25,6 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th 
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 Medical Center,ESC / Escalator between street and mezzanine,Other,8/11/24
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Other,8/11/24
-Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance,Service Call,8/13/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Service Call,8/13/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/15/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Inspection Repair,9/11/24
@@ -43,6 +43,7 @@ Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Servi
 Southern Avenue,ESC / Escalator between mezzanine and garage,Other,8/12/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Other,8/12/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/12/24
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,8/13/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Wiehle-Reston East,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,8/13/24
