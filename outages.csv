@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Cheverly,ESC / Escalator between street and mezzanine,Other,8/15/24
 Cheverly,ESC / Escalator between street and mezzanine,Service Call,8/15/24
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Inspection Repair,8/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -39,4 +38,3 @@ Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Major
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/16/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
-Wiehle-Reston East,ELE / Elevator between mezzanine and platform,Minor Repair,8/16/24
