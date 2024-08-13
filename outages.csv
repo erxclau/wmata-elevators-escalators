@@ -1,5 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,8/14/24
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,8/14/24
+Capitol South,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/14/24
 Capitol South,ESC / Escalator between mezzanine and platform,Other,8/16/24
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Inspection Repair,8/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/4/24
@@ -10,12 +12,13 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 East Falls Church,ESC / Escalator between mezzanine and platform,Other,8/16/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,8/16/24
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,8/14/24
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Preventive Maintenance Inspection,8/14/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,8/14/24
+Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/14/24
 Herndon,ESC / Escalator - south entry pavilion Herndon,Minor Repair,8/16/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,8/14/24
 Innovation Center,ELE / Elevator - south entry pavilion Innovation Center,Minor Repair,8/14/24
 King St-Old Town,ELE / Elevator between mezzanine and platform,Minor Repair,8/14/24
-King St-Old Town,ESC / Escalator between mezzanine and platform,Service Call,8/14/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,8/14/24
 Medical Center,ESC / Escalator between street and mezzanine,Other,8/16/24
@@ -26,11 +29,11 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,8/15/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Inspection Repair,9/11/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,12/4/24
+Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,8/14/24
 Potomac Ave,ELE / Elevator between mezzanine and platform,Inspection Repair,8/16/24
 Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,8/14/24
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Other,8/14/24
 Rhode Island Ave-Brentwood,ELE / Elevator between mezzanine and platform,Service Call,8/14/24
-Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,8/14/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Inspection Repair,8/20/24
 Rockville,ELE / Elevator between mezzanine and platform,Minor Repair,8/14/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
@@ -44,4 +47,5 @@ U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street 
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,8/14/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
+Virginia Square-GMU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/14/24
 Wiehle-Reston East,ELE / Elevator between mezzanine and platform,Minor Repair,8/14/24
