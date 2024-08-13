@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,8/15/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/15/24
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Inspection Repair,8/16/24
-Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Service Call,8/15/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
@@ -17,12 +16,11 @@ Innovation Center,ELE / Elevator - south entry pavilion Innovation Center,Minor 
 King St-Old Town,ELE / Elevator between mezzanine and platform,Minor Repair,8/16/24
 King St-Old Town,ESC / Escalator between mezzanine and platform,Other,8/15/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Service Call,8/15/24
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,8/15/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,8/15/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/12/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Inspection Repair,8/19/25
-Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,8/15/24
 Navy Yard-Ballpark,ELE / Elevator between mezzanine and platform Navy Yard Entrance,Inspection Repair,8/20/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Inspection Repair,9/11/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
