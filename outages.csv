@@ -1,11 +1,10 @@
 station,type_location,reason,estimated_return_to_service
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/18/24
-College Park-U of Md,ELE / Garage elevator,Service Call,8/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
+East Falls Church,ESC / Escalator between mezzanine and platform,Service Call,8/16/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Inspection Repair,8/20/24
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,8/15/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Minor Repair,8/15/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Minor Repair,8/16/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and platform to Greenbelt,Service Call,8/16/24
@@ -35,5 +34,7 @@ Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory E
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,8/16/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/18/24
 Tysons,ELE / Elevator between mezzanine to grade/street,Minor Repair,8/16/24
+Van Ness-UDC,ELE / Elevator between mezzanine and platform,Service Call,8/16/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
+Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/18/24
