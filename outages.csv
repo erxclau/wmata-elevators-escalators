@@ -1,7 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Capitol South,ESC / Escalator between mezzanine and platform,Minor Repair,8/15/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/15/24
-Congress Heights,ESC / Escalator between mezzanine and buses/parking,Inspection Repair,8/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
@@ -12,6 +10,7 @@ Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,8/16/
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,8/15/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Minor Repair,8/15/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Preventive Maintenance Inspection,8/16/24
+Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Service Call,8/16/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Minor Repair,8/14/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,8/16/24
 King St-Old Town,ELE / Elevator between mezzanine and platform,Minor Repair,8/16/24
