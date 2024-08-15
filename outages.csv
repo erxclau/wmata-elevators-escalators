@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/16/24
+Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,8/20/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between street and middle landing,Service Call,8/16/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
@@ -36,4 +37,4 @@ Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of W
 Tysons,ELE / Elevator between mezzanine to grade/street,Minor Repair,8/16/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
-Virginia Square-GMU,ESC / Escalator between mezzanine and platform to New Carrolton,Minor Repair,8/16/24
+West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Preventive Maintenance Inspection,8/16/24
