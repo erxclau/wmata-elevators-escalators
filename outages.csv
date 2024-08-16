@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,8/18/24
+Benning Road,ELE / Elevator between mezzanine and platform,Service Call,8/18/24
 Cheverly,ESC / Escalator between street and mezzanine,Other,8/19/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,8/19/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -36,7 +37,6 @@ U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street 
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,8/18/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
-Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Service Call,8/18/24
 Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/23/24
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,8/18/24
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Minor Repair,8/18/24
