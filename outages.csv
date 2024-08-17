@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,8/18/24
-Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,8/19/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,8/19/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
@@ -15,6 +14,7 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. V
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Service Call,8/18/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/12/24
+Metro Center,ELE / Elevator between upper platform to Glenmont and lower platform for Blue/Orange Lines,Service Call,8/19/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,8/19/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Minor Repair,8/19/24
