@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Capitol Heights,ELE / Elevator between mezzanine and platform,Service Call,8/20/24
+Capitol Heights,ELE / Elevator between mezzanine and platform,Other,8/20/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,8/19/24
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,8/20/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -25,6 +25,7 @@ Potomac Ave,ESC / Escalator between street and mezzanine,Other,8/20/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Modernization,8/19/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/26/24
+Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,8/20/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Minor Repair,8/19/24
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Other,8/20/24
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Other,8/20/24
