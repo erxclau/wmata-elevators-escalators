@@ -1,10 +1,8 @@
 station,type_location,reason,estimated_return_to_service
-Ballston-MU,ESC / Escalator between street and middle landing,Service Call,8/21/24
-Ballston-MU,ESC / Escalator between street and middle landing,Service Call,8/21/24
-Ballston-MU,ESC / Escalator between middle landing and mezzanine,Service Call,8/21/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,8/20/24
 Capitol Heights,ELE / Elevator between mezzanine and platform,Other,8/20/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,8/20/24
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
