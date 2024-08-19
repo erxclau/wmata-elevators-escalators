@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,8/20/24
 Capitol Heights,ELE / Elevator between mezzanine and platform,Other,8/20/24
 Capitol South,ESC / Escalator between mezzanine and platform,Service Call,8/21/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,8/20/24
@@ -18,7 +17,6 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Gro
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,8/22/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/20/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Preventive Maintenance Inspection,8/17/24
-Greenbelt,ESC / Escalator between mezzanine and platform,Service Call,8/21/24
 Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Minor Repair,8/21/24
 Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,8/21/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,8/20/24
@@ -36,6 +34,8 @@ Potomac Ave,ELE / Elevator between mezzanine and platform,Inspection Repair,8/20
 Reston Town Center,ESC / Escalator - south entry pavilion Reston Town Center,Preventive Maintenance Inspection,8/21/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,8/21/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/26/24
+Shaw-Howard U,ELE / Elevator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,8/21/24
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Minor Repair,8/21/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,8/21/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/19/24
 Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,8/21/24
