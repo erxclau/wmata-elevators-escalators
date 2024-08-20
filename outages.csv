@@ -1,6 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Preventive Maintenance Inspection,8/22/24
-Benning Road,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/22/24
 Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/22/24
 Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Scheduled Support,8/21/24
 Capitol Heights,ELE / Elevator between mezzanine and platform,Other,8/24/24
@@ -11,19 +9,17 @@ Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Preventive
 Court House,ELE / Elevator between street and mezzanine,Minor Repair,8/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
-Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Preventive Maintenance Inspection,8/22/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Inspection Repair,8/22/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Preventive Maintenance Inspection,9/8/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,8/24/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,8/24/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/24/24
-Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Preventive Maintenance Inspection,8/22/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,8/24/24
 Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Preventive Maintenance Inspection,8/22/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Preventive Maintenance Inspection,8/21/24
-McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Other,8/24/24
+Loudoun Gateway,ESC / Escalator - betweeen mezzanine and platform Loudoun Gateway,Preventive Maintenance Inspection,8/22/24
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Inspection Repair,8/26/24
 Medical Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/18/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
@@ -32,10 +28,9 @@ Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Pentagon City,"ELE / Elevator between street and mezzanine on west side of Hayes street, at The Fashion Center",Inspection Repair,8/27/24
 Potomac Ave,ELE / Elevator between mezzanine and platform,Inspection Repair,8/24/24
+Rhode Island Ave-Brentwood,ELE / Garage elevator,Inspection Repair,8/27/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/26/24
-Shaw-Howard U,ELE / Elevator between mezzanine and platform 7th and S St. N.W. Entrance,Minor Repair,8/21/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Preventive Maintenance Inspection,8/22/24
-Spring Hill,ESC / Escalator - north entry pavilion,Minor Repair,8/22/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/24/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Inspection Repair,8/24/24
 Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Other,8/21/24
