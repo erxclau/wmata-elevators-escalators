@@ -1,9 +1,10 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,8/22/24
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Preventive Maintenance Inspection,8/23/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,8/23/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,8/23/24
+Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Service Call,8/23/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Minor Repair,8/23/24
-Capitol Heights,ELE / Elevator between mezzanine and platform,Other,8/24/24
 Capitol South,ESC / Escalator between mezzanine and platform,Service Call,8/23/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,8/20/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -19,11 +20,10 @@ Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/24/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,8/24/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Safety Inspection,8/23/24
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Service Call,8/23/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,8/23/24
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,8/23/24
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Service Call,8/23/24
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,8/22/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,8/23/24
@@ -37,6 +37,7 @@ Rockville,ESC / Escalator between mezzanine and platform,Preventive Maintenance 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/26/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Service Call,8/23/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,8/23/24
+Spring Hill,ESC / Escalator - south entry pavilion,Safety Inspection,8/23/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/24/24
 Tysons,ELE / Elevator between mezzanine to grade/street,Minor Repair,8/23/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Minor Repair,8/22/24
@@ -46,4 +47,3 @@ Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,8/23/24
 West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Walker,8/22/24
-West Hyattsville,ELE / Elevator between mezzanine and platform to Branch Ave,Service Call,8/23/24
