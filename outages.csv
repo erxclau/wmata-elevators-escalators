@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Major Repair,8/22/24
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,8/23/24
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,8/24/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/23/24
 Capitol South,ESC / Escalator between street and mezzanine,Service Call,8/24/24
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,8/24/24
@@ -9,11 +10,9 @@ Crystal City,ESC / Escalator between street and middle landing,Minor Repair,8/23
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,8/23/24
-Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,8/24/24
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Inspection Repair,8/29/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,8/24/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/24/24
-Grosvenor-Strathmore,ELE / Elevator between mezzanine and platform,Safety Inspection,8/23/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,8/24/24
 Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Service Call,8/24/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
@@ -29,6 +28,7 @@ Rhode Island Ave-Brentwood,ELE / Garage elevator,Inspection Repair,8/27/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Minor Repair,8/24/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/26/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Minor Repair,8/23/24
+Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Other,8/24/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,8/24/24
 Tysons,ELE / Elevator between mezzanine to grade/street,Minor Repair,8/23/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Minor Repair,8/22/24
