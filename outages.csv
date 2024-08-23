@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,8/30/24
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,8/30/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/28/24
-Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,8/25/24
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,8/30/24
 Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Service Call,8/25/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/25/24
@@ -11,7 +10,7 @@ Crystal City,ESC / Escalator between street and middle landing,Modernization,11/
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,8/30/24
-Federal Triangle,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/25/24
+Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,8/25/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,8/30/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,8/30/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,8/30/24
@@ -32,7 +31,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/2
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,8/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
-Pentagon City,ELE / Elevator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,8/25/24
 Pentagon City,ELE / Elevator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,8/25/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,8/30/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Service Call,8/25/24
@@ -41,7 +39,7 @@ Rosslyn,"ELE / Elevator between street, and upper platform",Service Call,8/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/30/24
 Shaw-Howard U,ELE / Elevator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,8/30/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,8/30/24
-Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,8/25/24
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,8/25/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Service Call,
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,8/25/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
