@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,8/30/24
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,8/30/24
-Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Service Call,8/26/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/28/24
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,8/30/24
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,8/25/24
@@ -13,6 +12,7 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,8/30/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Preventive Maintenance Inspection,8/26/24
+Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,8/26/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,8/30/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,8/26/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,8/30/24
@@ -35,6 +35,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,8/30/
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,8/30/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,8/26/24
 Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,8/26/24
+U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between mezzanine and platform 13th and U St Entrance,Service Call,8/26/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/26/24
