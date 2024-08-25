@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Other,8/30/24
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,8/27/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/28/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,8/26/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,8/27/24
@@ -10,7 +11,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle E
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,8/26/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,8/30/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/30/24
-Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Minor Repair,8/30/24
+Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Major Repair,8/30/24
 Innovation Center,ELE / Elevator - between mezzanine and platform Innovation Center,Inspection Repair,8/26/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,8/25/24
