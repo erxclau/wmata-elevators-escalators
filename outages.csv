@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Other,8/30/24
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Major Repair,8/28/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/28/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,8/26/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,8/27/24
@@ -20,7 +21,7 @@ Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,8/28/24
 Federal Triangle,ESC / Escalator between street and middle landing,Major Repair,8/28/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,8/28/24
-Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,8/28/24
+Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,8/28/24
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Walker,8/28/24
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Preventive Maintenance Inspection,8/28/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,8/26/24
@@ -33,7 +34,7 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove B
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,8/28/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,8/28/24
-McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Safety Inspection,8/27/24
+McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Inspection Repair,9/2/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Walker,8/27/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Inspection Repair,8/30/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
@@ -56,6 +57,7 @@ Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Other
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Service Call,8/28/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Major Repair,8/28/24
 Spring Hill,ELE / Elevator - north entry pavilion,Other,8/28/24
+Spring Hill,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,8/28/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,8/28/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Inspection Repair,8/28/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Minor Repair,8/27/24
@@ -63,5 +65,4 @@ U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzan
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Waterfront,ESC / Escalator between street and mezzanine,Other,8/26/24
-Waterfront,ESC / Escalator between street and mezzanine,Minor Repair,8/28/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Service Call,8/28/24
