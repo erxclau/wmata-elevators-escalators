@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,8/29/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Walker,8/28/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Major Repair,8/28/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/28/24
@@ -37,7 +36,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Other,8/27/24
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Minor Repair,8/28/24
-Navy Yard-Ballpark,ELE / Elevator between mezzanine and platform Navy Yard Entrance,Scheduled Support,8/28/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Inspection Repair,8/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Other,8/27/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
@@ -49,7 +47,6 @@ Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Level
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Other,8/29/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Major Repair,8/28/24
 Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,8/29/24
-Stadium-Armory,ELE / Elevator between street and mezzanine D.C. General Hospital Entrance,Service Call,8/29/24
 Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,8/29/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Walker,8/29/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,8/29/24
