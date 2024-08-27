@@ -8,12 +8,10 @@ Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,8
 Court House,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,8/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
+Dunn Loring-Merrifield,ELE / Elevator between mezzanine and platform,Service Call,8/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/17/24
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Other,8/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,8/30/24
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,8/29/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,8/28/24
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,8/28/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,8/27/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,9/2/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/30/24
@@ -25,9 +23,11 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove B
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont Building Museum Entrance,Walker,8/29/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,8/28/24
+Loudoun Gateway,ESC / Escalator - betweeen mezzanine and platform Loudoun Gateway,Preventive Maintenance Inspection,8/29/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Inspection Repair,9/2/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Walker,8/27/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Inspection Repair,8/30/24
+Medical Center,ESC / Escalator between street and mezzanine,Safety Inspection,8/29/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Other,8/27/24
@@ -45,6 +45,7 @@ Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Other,8/
 Southern Avenue,ESC / Escalator between mezzanine and garage,Major Repair,8/28/24
 Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,8/29/24
 Stadium-Armory,ELE / Elevator between street and mezzanine D.C. General Hospital Entrance,Service Call,8/29/24
+Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,8/29/24
 Takoma,ELE / Elevator between mezzanine and platform,Minor Repair,8/29/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Walker,8/29/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,8/29/24
