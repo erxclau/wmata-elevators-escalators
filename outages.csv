@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,8/29/24
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,3/31/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Preventive Maintenance Inspection,8/29/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Walker,8/28/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Major Repair,8/28/24
@@ -8,11 +9,9 @@ Capitol Heights,ELE / Elevator between mezzanine and platform,Service Call,8/29/
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,8/29/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,8/27/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
-Crystal City,ESC / Escalator between street and middle landing,Inspection Repair,5/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Downtown Largo,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/6/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/17/24
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Preventive Maintenance Inspection,8/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,8/30/24
 Federal Triangle,ESC / Escalator between street and middle landing,Service Call,8/30/24
 Federal Triangle,ESC / Escalator between street and middle landing,Service Call,8/30/24
@@ -24,7 +23,7 @@ Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and 
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,8/29/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,9/2/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,8/30/24
-Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Preventive Maintenance Inspection,8/29/24
+Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/29/24
 Glenmont,ELE / Garage elevator,Minor Repair,8/9/24
 Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Major Repair,8/30/24
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Minor Repair,8/29/24
@@ -56,9 +55,11 @@ Southern Avenue,ESC / Escalator between mezzanine and garage,Major Repair,8/28/2
 Southern Avenue,ESC / Escalator between mezzanine and platform,Other,8/29/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Preventive Maintenance Inspection,8/29/24
 Suitland,ELE / Elevator between mezzanine and garage,Minor Repair,8/29/24
+Takoma,ELE / Elevator between mezzanine and platform,Service Call,8/30/24
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,8/30/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Inspection Repair,8/28/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Preventive Maintenance Inspection,8/29/24
+Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Preventive Maintenance Inspection,8/27/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Waterfront,ESC / Escalator between street and mezzanine,Other,8/28/24
