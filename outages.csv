@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,8/30/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/29/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,8/30/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,8/30/24
@@ -8,6 +7,7 @@ Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,9
 Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,8/30/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,8/30/24
 Deanwood,ESC / Escalator between mezzanine and platform,Service Call,8/30/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/17/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/2/24
