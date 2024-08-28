@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,8/30/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/29/24
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,8/30/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,8/30/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,9/2/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,9/2/24
@@ -22,10 +21,10 @@ Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Major Repair,9/2/24
 Innovation Center,ELE / Elevator - between mezzanine and platform Innovation Center,Inspection Repair,9/2/24
 Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Inspection Repair,8/29/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont Building Museum Entrance,Walker,8/28/24
+King St-Old Town,ESC / Escalator between mezzanine and platform,Service Call,8/30/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,9/2/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,8/30/24
-McLean,ELE / Elevator - south entry pavilion,Service Call,8/30/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Walker,8/30/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Minor Repair,8/30/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
@@ -38,13 +37,11 @@ Potomac Ave,ESC / Escalator between mezzanine and platform,Minor Repair,9/2/24
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Minor Repair,9/2/24
 Rockville,ELE / Elevator between pedestrian bridge and mezzanine,Service Call,8/30/24
 Rockville,ELE / Elevator between mezzanine and platform,Service Call,8/30/24
-Rockville,ESC / Escalator between mezzanine and platform,Service Call,8/30/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Other,8/30/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,9/2/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Preventive Maintenance Inspection,8/29/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Preventive Maintenance Inspection,8/30/24
-U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street and mezzanine 13th and U St Entrance,Service Call,8/30/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Inspection Repair,9/2/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Service Call,8/30/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,9/2/24
