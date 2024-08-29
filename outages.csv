@@ -1,5 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/29/24
+Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,8/30/24
+Bethesda,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,8/30/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,8/30/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,9/2/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,9/2/24
@@ -14,7 +16,6 @@ Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,
 Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Inspection Repair,9/4/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,8/30/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,9/2/24
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,9/2/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,9/2/24
 Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Major Repair,9/2/24
 Innovation Center,ELE / Elevator - between mezzanine and platform Innovation Center,Inspection Repair,9/2/24
@@ -36,9 +37,12 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,8/30/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,9/2/24
+Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Preventive Maintenance Inspection,8/30/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Preventive Maintenance Inspection,8/29/24
+Tysons,ESC / Escalator - between mezzanine and platform,Service Call,8/30/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Inspection Repair,9/2/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Minor Repair,8/30/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,9/2/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,8/30/24
