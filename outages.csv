@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,8/29/24
+Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,8/31/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,8/30/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,9/2/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,9/2/24
@@ -14,6 +15,7 @@ Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, 
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,8/31/24
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,8/31/24
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Minor Repair,9/2/24
+Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Preventive Maintenance Inspection,8/31/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,8/31/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,8/31/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,8/31/24
