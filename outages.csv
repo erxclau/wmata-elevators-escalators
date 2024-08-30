@@ -19,11 +19,10 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the 
 Herndon,ELE / Elevator - south entry pavilion Herndon,Service Call,9/1/24
 Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Major Repair,9/3/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,9/1/24
-Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Inspection Repair,9/3/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Safety Inspection,9/1/24
 Judiciary Square,ESC / Escalator between street and mezzanine 4th St/Courthouse Entrance,Inspection Repair,9/3/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Other,9/1/24
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,9/1/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,9/1/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Walker,8/30/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Major Repair,9/3/24
@@ -36,6 +35,7 @@ Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Oth
 Rhode Island Ave-Brentwood,ELE / Garage elevator,Inspection Repair,9/3/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,9/3/24
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,9/1/24
 Smithsonian,"ELE / Elevator between street, mezzanine, and platform to New Carrollton/Largo Town Center Independence Avenue Entrance",Scheduled Support,8/31/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Minor Repair,9/1/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Minor Repair,9/1/24
@@ -45,3 +45,4 @@ Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, 
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,9/1/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
+West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Service Call,9/1/24
