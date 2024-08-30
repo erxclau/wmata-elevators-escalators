@@ -1,13 +1,13 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,9/1/24
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Inspection Repair,9/3/24
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,9/1/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,8/30/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Service Call,9/1/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/17/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/3/24
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Other,9/1/24
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Other,9/3/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,9/1/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Other,9/3/24
@@ -21,9 +21,9 @@ Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Major Repair,9/3/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,9/1/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Safety Inspection,9/1/24
 Judiciary Square,ESC / Escalator between street and mezzanine 4th St/Courthouse Entrance,Inspection Repair,9/3/24
+L'Enfant Plaza,ELE / Elevator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,9/1/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,9/16/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,9/1/24
-McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,9/1/24
+McPherson Square,ELE / Elevator between street and mezzanine Franklin Square/14th St. Entrance,Minor Repair,9/1/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Walker,8/30/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Major Repair,9/3/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
@@ -34,9 +34,9 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Other,9/3/24
 Rhode Island Ave-Brentwood,ELE / Garage elevator,Inspection Repair,9/3/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
+Shaw-Howard U,ELE / Elevator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,9/1/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,9/3/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,9/1/24
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Minor Repair,9/1/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Minor Repair,9/1/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Inspection Repair,9/3/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,9/1/24
