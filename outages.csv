@@ -1,8 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Safety Inspection,9/2/24
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,9/3/24
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,9/3/24
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,9/3/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Service Call,9/3/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
@@ -10,8 +7,8 @@ Deanwood,ESC / Escalator between street and mezzanine,Service Call,9/3/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/17/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/3/24
 Federal Triangle,ESC / Escalator between street and middle landing,Service Call,9/3/24
-Federal Triangle,ESC / Escalator between middle landing and mezzanine,Other,9/3/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,9/3/24
+Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Minor Repair,9/3/24
 Greensboro,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,9/3/24
 Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Major Repair,9/3/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Safety Inspection,9/2/24
@@ -30,6 +27,7 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),S
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Service Call,9/3/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,9/3/24
+Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Service Call,9/3/24
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Other,9/3/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,9/3/24
