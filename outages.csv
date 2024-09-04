@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,9/6/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,9/5/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/25/24
@@ -22,6 +23,7 @@ McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollto
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Major Repair,9/5/24
+North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Preventive Maintenance Inspection,9/6/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,9/3/24
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Minor Repair,9/5/24
