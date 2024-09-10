@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,9/11/24
+Capitol South,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,9/12/24
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Minor Repair,9/11/24
 College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Minor Repair,9/11/24
 Congress Heights,ELE / Elevator between mezzanine and street,Minor Repair,9/13/24
@@ -8,7 +9,6 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Crystal City,ESC / Escalator between middle landing and mezzanine,Minor Repair,9/11/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/17/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/13/24
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Preventive Maintenance Inspection,9/11/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Preventive Maintenance Inspection,9/6/24
 Federal Triangle,ESC / Escalator between street and middle landing,Service Call,9/12/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Inspection Repair,9/13/24
@@ -35,6 +35,7 @@ Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Safety Inspection,9/11/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,9/11/24
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between mezzanine and platform,Minor Repair,9/11/24
+New Carrollton,ESC / Escalator between mezzanine and street at Route 450,Preventive Maintenance Inspection,9/12/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Inspection Repair,9/15/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Preventive Maintenance Inspection,9/12/24
