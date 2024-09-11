@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Major Repair,9/13/24
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,9/13/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,9/13/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Service Call,9/13/24
@@ -8,7 +9,7 @@ Downtown Largo,ESC / Escalator between street and mezzanine,Service Call,9/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/13/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repair,9/13/24
-Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Other,9/12/24
+Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Preventive Maintenance Inspection,9/13/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,9/12/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,9/13/24
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,9/13/24
@@ -35,6 +36,7 @@ Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Level
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Minor Repair,9/12/24
 Takoma,ELE / Elevator between mezzanine and platform,Service Call,9/13/24
 Takoma,ESC / Escalator between mezzanine and platform,Service Call,9/13/24
+Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,9/13/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,9/13/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
