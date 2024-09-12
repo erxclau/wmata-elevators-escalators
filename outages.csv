@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Inspection Repair,9/16/24
 Braddock Road,ELE / Elevator between mezzanine and platform,Service Call,9/14/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Other,9/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -7,7 +6,9 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Downtown Largo,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/14/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/16/24
+Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Preventive Maintenance Inspection,9/14/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,9/14/24
+Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,9/14/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repair,9/16/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Preventive Maintenance Inspection,9/14/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Service Call,9/14/24
@@ -28,7 +29,6 @@ Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,9/13/2
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Reston Town Center,ESC / Escalator - south entry pavilion Reston Town Center,Preventive Maintenance Inspection,9/14/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
-Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,9/14/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Major Repair,9/14/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,9/14/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Minor Repair,9/16/24
