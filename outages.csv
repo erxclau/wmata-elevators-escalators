@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,9/14/24
+Cheverly,ESC / Escalator between street and mezzanine,Service Call,9/14/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Other,9/16/24
 Court House,ESC / Escalator between mezzanine and platform,Minor Repair,9/14/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -37,6 +38,7 @@ Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Minor
 Stadium-Armory,ELE / Elevator between street and mezzanine D.C. General Hospital Entrance,Safety Inspection,9/14/24
 Tysons,ESC / Escalator - south entry pavilion,Other,9/14/24
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Preventive Maintenance Inspection,9/14/24
+Tysons,ESC / Escalator - between intermidiat level to grade/street,Walker,9/14/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Preventive Maintenance Inspection,9/13/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
