@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Branch Ave,ESC / Escalator between mezzanine and platform,Service Call,9/14/24
 Cheverly,ESC / Escalator between street and mezzanine,Minor Repair,9/14/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Other,9/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -10,6 +9,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle E
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Preventive Maintenance Inspection,9/14/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Preventive Maintenance Inspection,9/14/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Service Call,9/14/24
+Federal Triangle,ESC / Escalator between middle landing and mezzanine,Service Call,9/14/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,9/14/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Major Repair,9/16/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Preventive Maintenance Inspection,9/14/24
