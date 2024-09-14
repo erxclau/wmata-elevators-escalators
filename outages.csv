@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Other,9/15/24
+Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Service Call,9/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/22/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Minor Repair,9/15/24
@@ -19,7 +20,6 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Major Repair,9/16/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Preventive Maintenance Inspection,9/13/24
-Van Ness-UDC,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,9/15/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,9/16/24
