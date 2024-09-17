@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ELE / Elevator between mezzanine and platform,Service Call,9/18/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Preventive Maintenance Inspection,9/27/24
 Cheverly,ESC / Escalator between street and mezzanine,Walker,9/18/24
 Cheverly,ESC / Escalator between street and mezzanine,Major Repair,9/20/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -26,12 +25,13 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Minor Repair,9/20/24
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Safety Inspection,8/25/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,9/19/24
+Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Preventive Maintenance Inspection,9/13/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,9/18/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Safety Inspection,9/19/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Safety Inspection,9/20/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Safety Inspection,9/19/24
-Rosslyn,"ELE / Elevator between upper, and lower platform",Inspection Repair,6/29/25
+Rosslyn,"ELE / Elevator between upper, and lower platform",Inspection Repair,9/28/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Minor Repair,9/18/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,9/28/24
