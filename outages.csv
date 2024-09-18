@@ -1,30 +1,29 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Preventive Maintenance Inspection,9/20/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Walker,9/20/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,9/23/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Service Call,9/20/24
 Cheverly,ESC / Escalator between street and mezzanine,Walker,9/23/24
+Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Inspection Repair,9/20/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,9/20/24
-Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,9/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Other,9/23/24
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Service Call,9/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/23/24
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Preventive Maintenance Inspection,9/20/24
 Farragut West,ELE / Elevator between street and mezzanine 18th Street Entrance,Minor Repair,9/23/24
-Federal Center SW,ESC / Escalator between mezzanine and platform,Service Call,9/20/24
+Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Preventive Maintenance Inspection,9/20/24
+Federal Center SW,ESC / Escalator between mezzanine and platform,Other,9/20/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Walker,9/20/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/20/24
-Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,9/20/24
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Minor Repair,9/20/24
 Fort Totten,"ELE / Elevator between mezzanine, upper platform to Red Line, and lower platform for Green Line",Inspection Repair,9/20/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,9/20/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,9/23/24
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,9/20/24
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,9/20/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Preventive Maintenance Inspection,9/20/24
-Judiciary Square,ELE / Elevator between street and platform to Shady Grove Building Museum Entrance,Service Call,9/20/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Service Call,9/20/24
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,9/20/24
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,9/20/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,9/23/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,9/23/24
@@ -39,9 +38,9 @@ Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Servic
 Rosslyn,"ELE / Elevator between upper, and lower platform",Other,9/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Major Repair,9/19/24
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Walker,9/20/24
 Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,9/20/24
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,9/20/24
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,9/20/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Service Call,9/20/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Other,9/20/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,9/20/24
