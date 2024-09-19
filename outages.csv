@@ -1,10 +1,9 @@
 station,type_location,reason,estimated_return_to_service
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,9/21/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,9/21/24
 Columbia Heights,ELE / Elevator between mezzanine and platform,Service Call,9/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/21/24
-Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,9/21/24
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,9/21/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/23/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Service Call,9/21/24
@@ -19,7 +18,7 @@ Glenmont,"ESC / Escalator between street and mezzanine, west side of station at 
 Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,9/21/24
 Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Service Call,9/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
-McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,9/21/24
+McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Major Repair,9/21/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Major Repair,9/21/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,9/23/24
