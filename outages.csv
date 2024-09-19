@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,9/20/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Walker,9/20/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,9/23/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,9/21/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,9/21/24
 Columbia Heights,ELE / Elevator between mezzanine and platform,Service Call,9/21/24
@@ -10,6 +9,7 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/23/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Service Call,9/21/24
+Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,9/21/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Preventive Maintenance Inspection,9/21/24
 Federal Center SW,ESC / Escalator between street and mezzanine,Major Repair,9/21/24
 Federal Triangle,ESC / Escalator between street and middle landing,Inspection Repair,9/21/24
@@ -38,6 +38,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,9/21/24
 Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,9/21/24
 Spring Hill,ELE / Elevator between mezzanine and platform,Minor Repair,9/20/24
+Spring Hill,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,9/21/24
 Tysons,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,9/21/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Other,9/21/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
