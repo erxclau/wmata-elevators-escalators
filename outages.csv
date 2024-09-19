@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Service Call,9/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/21/24
-Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,9/21/24
 Deanwood,ESC / Escalator between street and mezzanine,Service Call,9/21/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/23/24
@@ -11,11 +10,9 @@ Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,
 Federal Triangle,ESC / Escalator between street and middle landing,Inspection Repair,9/23/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,9/21/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,9/21/24
-Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,9/21/24
-Herndon,ESC / Escalator - north entry pavilion Herndon,Preventive Maintenance Inspection,9/21/24
 Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Service Call,9/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
-McLean,ESC / Escalator - between mezzanine to grade/street,Safety Inspection,9/21/24
+McLean,ESC / Escalator - between mezzanine to grade/street,Inspection Repair,8/25/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Major Repair,9/21/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,9/23/24
@@ -29,10 +26,10 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
 Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/21/24
-Spring Hill,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,9/21/24
 Tysons,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,9/21/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Walker,9/21/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Other,9/21/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,9/21/24
+Wheaton,ESC / Escalator between mezzanine and platform,Service Call,9/21/24
