@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Ballston-MU,ESC / Escalator between middle landing and mezzanine,Service Call,
 Cleveland Park,ESC / Escalator between mezzanine and platform,Service Call,9/21/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,9/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -12,9 +13,7 @@ Federal Triangle,ESC / Escalator between street and middle landing,Other,9/23/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,9/21/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Other,9/21/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,9/21/24
-Grosvenor-Strathmore,ELE / Elevator between mezzanine and platform,Service Call,9/21/24
 Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Service Call,9/21/24
-Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,9/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McLean,ESC / Escalator - between mezzanine to grade/street,Inspection Repair,8/25/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Major Repair,9/21/24
