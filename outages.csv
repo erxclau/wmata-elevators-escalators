@@ -1,10 +1,9 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,9/20/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Walker,9/20/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,9/21/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,9/21/24
 Columbia Heights,ELE / Elevator between mezzanine and platform,Service Call,9/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
+Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/21/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,9/21/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/23/24
@@ -21,6 +20,7 @@ Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance In
 Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Service Call,9/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,9/21/24
+McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Major Repair,9/21/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,9/23/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,9/23/24
@@ -35,9 +35,8 @@ Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Servic
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Service Call,9/21/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
-Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,9/21/24
-Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,9/21/24
-Spring Hill,ELE / Elevator between mezzanine and platform,Minor Repair,9/20/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,9/21/24
+Spring Hill,ELE / Elevator between mezzanine and platform,Minor Repair,9/23/24
 Spring Hill,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,9/21/24
 Tysons,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,9/21/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Other,9/21/24
