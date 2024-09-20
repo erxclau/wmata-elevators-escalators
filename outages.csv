@@ -1,8 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,9/21/24
-Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,
-Benning Road,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,9/22/24
-Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/22/24
+Capitol South,ELE / Elevator between street and mezzanine,Scheduled Support,9/22/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/21/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,9/21/24
@@ -10,17 +8,19 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/23/24
 Federal Triangle,ESC / Escalator between street and middle landing,Other,9/23/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,9/21/24
+Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,9/22/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,9/21/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Inspection Repair,9/22/24
+Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,9/22/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,9/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McLean,ESC / Escalator - between mezzanine to grade/street,Inspection Repair,8/25/24
-McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Safety Inspection,
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Major Repair,9/21/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Minor Repair,9/21/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Inspection Repair,9/26/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,9/21/24
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,9/22/24
 Naylor Road,ESC / Escalator between mezzanine and platform,Major Repair,9/21/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Potomac Ave,ESC / Escalator between mezzanine and platform,Minor Repair,9/22/24
