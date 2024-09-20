@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,9/21/24
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,9/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -8,14 +9,16 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/23/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Major Repair,9/21/24
 Federal Triangle,ESC / Escalator between street and middle landing,Other,9/23/24
+Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,9/21/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,9/21/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,9/21/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,9/21/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,9/21/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Service Call,9/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,9/18/24
+L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,9/21/24
 McLean,ESC / Escalator - between mezzanine to grade/street,Inspection Repair,8/25/24
+McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Safety Inspection,
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Major Repair,9/21/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Minor Repair,9/21/24
@@ -30,5 +33,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,9/21/24
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,9/21/24
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Preventive Maintenance Inspection,9/21/24
+Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,9/21/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
