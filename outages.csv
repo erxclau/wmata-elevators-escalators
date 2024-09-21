@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,9/23/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,9/23/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,9/23/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -6,13 +7,12 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,9/24/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/24/24
-Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Major Repair,9/24/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,9/21/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Inspection Repair,9/22/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,9/23/24
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,9/22/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,9/23/24
+McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,9/23/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Navy Yard-Ballpark,ELE / Elevator between mezzanine and platform Navy Yard Entrance,Inspection Repair,9/24/24
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Minor Repair,9/24/24
@@ -22,7 +22,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
 Rosslyn,ESC / Escalator between upper platform and lower platform,Safety Inspection,9/24/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Other,9/27/24
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Walker,9/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Minor Repair,9/22/24
