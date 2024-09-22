@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,9/24/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,9/23/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/22/24
@@ -9,10 +10,16 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q St
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/24/24
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Service Call,9/24/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Service Call,9/24/24
+Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,9/24/24
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,9/24/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,9/22/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Inspection Repair,9/22/24
+Glenmont,ESC / Escalator between mezzanine and platform,Service Call,9/24/24
+Glenmont,ESC / Escalator between mezzanine and platform,Service Call,9/24/24
 Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,9/24/24
+Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,9/24/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,9/24/24
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,9/23/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Service Call,9/23/24
@@ -22,6 +29,7 @@ Naylor Road,ESC / Escalator between mezzanine and platform,Other,9/24/24
 New Carrollton,ELE / Elevator between mezzanine and platform,Service Call,9/24/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,9/23/24
+Rosslyn,"ELE / Elevator between street, and upper platform",Service Call,9/24/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Minor Repair,9/23/24
@@ -31,6 +39,7 @@ Southern Avenue,ESC / Escalator between mezzanine and garage,Minor Repair,9/23/2
 Spring Hill,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,9/24/24
 Takoma,ESC / Escalator between mezzanine and platform,Service Call,9/24/24
 Tysons,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,9/24/24
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,9/24/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Minor Repair,9/22/24
