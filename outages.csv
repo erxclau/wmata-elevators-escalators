@@ -2,12 +2,12 @@ station,type_location,reason,estimated_return_to_service
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,9/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/22/24
+Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,9/25/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,9/25/24
 Downtown Largo,ESC / Escalator between street and mezzanine,Minor Repair,9/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/24/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Service Call,9/25/24
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Service Call,9/25/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Minor Repair,9/25/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Other,9/25/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,9/25/24
@@ -36,4 +36,5 @@ Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospi
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Minor Repair,9/25/24
+Wheaton,ESC / Escalator between mezzanine and platform,Service Call,9/25/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,9/23/24
