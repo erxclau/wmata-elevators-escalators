@@ -1,10 +1,12 @@
 station,type_location,reason,estimated_return_to_service
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,9/25/24
+Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,9/25/24
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,9/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/22/24
 Downtown Largo,ESC / Escalator between street and mezzanine,Minor Repair,9/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/24/24
+East Falls Church,ESC / Escalator between mezzanine and platform,Service Call,9/25/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Other,9/25/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,9/25/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Service Call,9/25/24
@@ -29,7 +31,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,9/25/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,9/25/24
-Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Preventive Maintenance Inspection,10/2/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Other,9/25/24
