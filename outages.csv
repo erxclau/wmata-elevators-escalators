@@ -1,28 +1,24 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,9/23/24
-Cheverly,ESC / Escalator between street and mezzanine,Service Call,9/24/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/22/24
-Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,9/24/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,9/23/24
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Preventive Maintenance Inspection,9/22/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/24/24
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Minor Repair,9/24/24
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Other,9/23/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,9/24/24
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Inspection Repair,9/22/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Service Call,9/24/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,9/23/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
-Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Service Call,9/24/24
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Minor Repair,9/24/24
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Other,9/24/24
 Naylor Road,ESC / Escalator between mezzanine and platform,Other,9/24/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Service Call,9/24/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
-Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,9/24/24
-Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Preventive Maintenance Inspection,9/24/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
-Virginia Square-GMU,ESC / Escalator between mezzanine and platform to New Carrolton,Other,9/24/24
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Minor Repair,9/22/24
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,9/22/24
