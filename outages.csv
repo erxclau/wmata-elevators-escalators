@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Cheverly,ESC / Escalator between street and mezzanine,Service Call,9/25/24
 Court House,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,9/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/22/24
@@ -13,9 +12,9 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove B
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Major Repair,9/25/24
 McLean,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,9/25/24
-McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,9/25/24
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,9/23/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,9/25/24
+McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Preventive Maintenance Inspection,9/25/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Service Call,9/25/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,11/29/24
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Minor Repair,9/24/24
@@ -27,6 +26,7 @@ NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entranc
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
+Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,9/25/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,9/25/24
 Van Ness-UDC,ESC / Escalator between middle landing and mezzanine,Service Call,9/25/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
