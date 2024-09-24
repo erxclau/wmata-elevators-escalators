@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Major Repair,9/26/24
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,9/26/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,9/26/24
-Ballston-MU,ELE / Elevator between street and mezzanine to Vienna,Service Call,9/25/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,9/26/24
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,9/26/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,9/25/24
@@ -12,6 +11,9 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Downtown Largo,ESC / Escalator between street and mezzanine,Minor Repair,9/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/24/24
+Eastern Market,ESC / Escalator between street and mezzanine,Service Call,9/26/24
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Service Call,9/26/24
+Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,9/26/24
 Friendship Heights,ESC / Escalator between Hecht Co. and street Western Avenue Entrance,Preventive Maintenance Inspection,9/26/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,9/25/24
 Glenmont,ELE / Garage elevator,Other,9/25/24
@@ -27,6 +29,7 @@ Metro Center,ESC / Escalator between upper platform and lower platform to Blue/O
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Other,9/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,9/25/24
+Rockville,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/26/24
 Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Huntington/Franconia-Springfield South Entrance,Inspection Repair,9/30/24
 Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Inspection Repair,9/26/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Service Call,9/26/24
