@@ -1,15 +1,20 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Major Repair,9/26/24
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,9/26/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,9/26/24
+Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,9/26/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,9/25/24
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Preventive Maintenance Inspection,9/26/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/24/24
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Service Call,9/26/24
 Eastern Market,ESC / Escalator between street and mezzanine,Service Call,9/26/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Service Call,9/26/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,9/26/24
+Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Service Call,9/26/24
+Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Other,9/26/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,9/26/24
 Friendship Heights,ESC / Escalator between Hecht Co. and street Western Avenue Entrance,Preventive Maintenance Inspection,9/26/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Walker,9/26/24
@@ -35,6 +40,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,9/26/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Major Repair,9/25/24
+Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,9/26/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Minor Repair,9/25/24
