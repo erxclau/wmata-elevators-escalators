@@ -6,7 +6,6 @@ Ballston-MU,ELE / Elevator between street and mezzanine to Vienna,Service Call,9
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,9/26/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,9/26/24
 Cheverly,ESC / Escalator between street and mezzanine,Service Call,9/26/24
-Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,9/26/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,9/25/24
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Preventive Maintenance Inspection,9/26/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
@@ -21,6 +20,7 @@ Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/L
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Service Call,9/26/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,9/26/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Safety Inspection,9/26/24
+Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,9/26/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,9/26/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Walker,9/26/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,9/26/24
@@ -40,10 +40,9 @@ NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entranc
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,9/25/24
 Rockville,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/26/24
-Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Huntington/Franconia-Springfield South Entrance,Inspection Repair,9/30/24
-Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Inspection Repair,9/26/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,9/26/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Major Repair,9/25/24
 Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,9/26/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
