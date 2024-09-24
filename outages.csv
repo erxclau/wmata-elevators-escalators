@@ -1,8 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Major Repair,9/26/24
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,9/26/24
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,9/26/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Safety Inspection,9/26/24
+Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,9/26/24
 Cheverly,ESC / Escalator between street and mezzanine,Minor Repair,9/26/24
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,9/26/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,9/25/24
@@ -13,9 +13,6 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/24/24
 Eastern Market,ESC / Escalator between street and mezzanine,Minor Repair,9/26/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,9/26/24
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,9/26/24
-Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,9/26/24
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,9/26/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,9/26/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Service Call,9/26/24
 Glenmont,ELE / Garage elevator,Other,9/25/24
@@ -30,6 +27,7 @@ Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzani
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Other,9/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/25/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,9/25/24
+Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,9/26/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,12/16/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,9/26/24
@@ -38,6 +36,7 @@ Stadium-Armory,ELE / Elevator between street and mezzanine D.C. General Hospital
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Preventive Maintenance Inspection,10/5/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,9/26/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Major Repair,9/25/24
+Tenleytown-AU,ESC / Escalator between mezzanine and platform,Service Call,9/26/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,9/26/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,9/26/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,9/26/24
