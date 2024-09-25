@@ -1,4 +1,6 @@
 station,type_location,reason,estimated_return_to_service
+Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/27/24
+Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/27/24
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Major Repair,9/26/24
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,9/26/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,9/26/24
@@ -15,8 +17,6 @@ College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,9/25/2
 Court House,ELE / Elevator between street and mezzanine,Safety Inspection,9/27/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/25/24
-Deanwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/26/24
-Deanwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/27/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/26/24
 Eastern Market,ESC / Escalator between street and mezzanine,Minor Repair,9/26/24
@@ -24,6 +24,7 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,9/26/24
 Glenmont,ELE / Garage elevator,Other,9/25/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Other,9/25/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Preventive Maintenance Inspection,9/27/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Major Repair,9/25/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,9/26/24
