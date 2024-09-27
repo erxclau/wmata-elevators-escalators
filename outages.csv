@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,9/30/24
-Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Service Call,9/29/24
 Benning Road,ESC / Escalator between street and mezzanine,Safety Inspection,9/29/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,9/30/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,9/28/24
@@ -20,7 +19,6 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and t
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,9/30/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,9/29/24
 Herndon,ELE / Elevator - south entry pavilion Herndon,Safety Inspection,9/28/24
-Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Service Call,9/29/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,9/29/24
 McLean,ELE / Elevator - south entry pavilion,Other,9/29/24
@@ -33,12 +31,10 @@ Minnesota Ave,ESC / Escalator between mezzanine and platform,Other,9/30/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,9/29/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Major Repair,9/30/24
-Potomac Ave,ESC / Escalator between mezzanine and platform,Other,9/30/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,9/29/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Other,9/30/24
-Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Minor Repair,9/30/24
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street and mezzanine 13th and U St Entrance,Minor Repair,9/29/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,9/29/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,9/30/24
