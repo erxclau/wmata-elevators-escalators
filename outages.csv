@@ -1,8 +1,8 @@
 station,type_location,reason,estimated_return_to_service
-Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,9/30/24
 Benning Road,ESC / Escalator between street and mezzanine,Safety Inspection,9/29/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,9/30/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,9/28/24
+Congress Heights,ESC / Escalator between mezzanine and platform,Other,9/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/22/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -31,6 +31,7 @@ Minnesota Ave,ESC / Escalator between mezzanine and platform,Other,9/30/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,9/29/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Major Repair,9/30/24
+Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Service Call,9/29/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,9/29/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
