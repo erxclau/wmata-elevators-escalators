@@ -5,6 +5,7 @@ Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Nort
 Congress Heights,ESC / Escalator between mezzanine and platform,Other,9/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/22/24
+Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,9/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/30/24
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Minor Repair,9/29/24
@@ -26,7 +27,6 @@ McLean,ELE / Elevator - south entry pavilion,Other,9/29/24
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Inspection Repair,9/29/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,9/29/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Other,9/30/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,9/29/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
@@ -39,8 +39,8 @@ Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street and mezzanine 13th and U St Entrance,Minor Repair,9/29/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,9/29/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,9/30/24
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,9/29/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Wheaton,ELE / Garage elevator,Minor Repair,9/30/24
-Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,9/30/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,9/30/24
