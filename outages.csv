@@ -2,7 +2,9 @@ station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,9/28/24
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Minor Repair,9/28/24
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,9/28/24
-Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,9/29/24
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,9/29/24
+Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,9/29/24
+Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,9/29/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,9/30/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,9/28/24
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Other,9/28/24
@@ -18,8 +20,8 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Service Call,9/28/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Service Call,9/28/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,9/30/24
+Glenmont,ESC / Escalator between mezzanine and platform,Service Call,9/29/24
 Herndon,ELE / Elevator - south entry pavilion Herndon,Safety Inspection,9/28/24
-Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Preventive Maintenance Inspection,9/28/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to station entrance) 7th & D St (USDOT Entrance),Preventive Maintenance Inspection,9/28/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Other,9/28/24
@@ -30,8 +32,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Other,9/30/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Other,9/26/24
-NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Preventive Maintenance Inspection,9/29/24
-Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Preventive Maintenance Inspection,9/29/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Major Repair,9/30/24
 Pentagon City,"ELE / Elevator between street and mezzanine on west side of Hayes street, at The Fashion Center",Other,9/29/24
@@ -39,8 +39,11 @@ Potomac Ave,ESC / Escalator between mezzanine and platform,Minor Repair,9/30/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,9/28/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,9/29/24
+Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,9/29/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Other,9/30/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Minor Repair,9/28/24
+Suitland,ESC / Escalator between mezzanine and garage,Service Call,9/29/24
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street and mezzanine 13th and U St Entrance,Service Call,9/29/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Inspection Repair,10/3/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,9/27/24
