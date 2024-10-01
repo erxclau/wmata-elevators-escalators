@@ -2,13 +2,13 @@ station,type_location,reason,estimated_return_to_service
 Ashburn,ELE / Elevator - south entry pavilion Ashburn,Service Call,10/2/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,10/3/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Minor Repair,10/2/24
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Minor Repair,10/2/24
+Brookland-CUA,ESC / Escalator between mezzanine and platform,Minor Repair,10/4/24
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,10/3/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/22/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/1/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,10/1/24
-Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Minor Repair,10/2/24
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,10/4/24
+Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Minor Repair,10/4/24
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Service Call,10/3/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,10/3/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,10/3/24
@@ -27,21 +27,22 @@ Minnesota Ave,ESC / Escalator between street and mezzanine,Service Call,10/3/24
 Minnesota Ave,ESC / Escalator between street and mezzanine,Service Call,10/3/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ESC / Escalator between mezzanine and street at Route 450,Service Call,10/2/24
-NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Major Repair,10/2/24
+NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Major Repair,10/4/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Service Call,10/3/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,10/3/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,10/2/24
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,10/2/24
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,10/4/24
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Inspection Repair,10/2/25
-Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Minor Repair,10/2/24
+Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,10/3/24
+Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Minor Repair,10/4/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,10/3/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Inspection Repair,10/3/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Waterfront,ESC / Escalator between mezzanine and platform,Service Call,10/2/24
-Wheaton,ELE / Garage elevator,Minor Repair,10/2/24
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,10/1/24
+Wheaton,ELE / Garage elevator,Minor Repair,10/4/24
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,10/4/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Minor Repair,10/2/24
