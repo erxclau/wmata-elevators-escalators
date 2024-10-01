@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Minor Repair,10/2/24
 Ashburn,ELE / Elevator - south entry pavilion Ashburn,Service Call,10/2/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Preventive Maintenance Inspection,10/2/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Minor Repair,10/2/24
@@ -13,7 +12,6 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,9/30/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,10/3/24
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Minor Repair,10/2/24
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,10/1/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,9/30/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,10/3/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
@@ -28,6 +26,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 New Carrollton,ESC / Escalator between mezzanine and street at Route 450,Service Call,10/2/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Major Repair,10/2/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
+Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,10/3/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Preventive Maintenance Inspection,10/3/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,10/2/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
