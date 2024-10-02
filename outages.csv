@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,10/4/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,10/4/24
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,10/4/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Preventive Maintenance Inspection,10/4/24
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Major Repair,10/3/24
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,10/4/24
@@ -39,13 +38,13 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street En
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Major Repair,10/4/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Minor Repair,10/4/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
-Rosslyn,ESC / Escalator between mezzanine and upper platform,Service Call,10/4/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,10/2/24
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
 Shady Grove,ELE / Elevator between east side parking/Kiss & Ride and mezzanine,Service Call,10/4/24
 Shady Grove,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/4/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,10/4/24
+Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/4/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Other,10/3/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Preventive Maintenance Inspection,10/4/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Walker,10/4/24
