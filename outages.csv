@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Cheverly,ELE / Elevator between mezzanine and platform Vienna,Minor Repair,10/6/24
-Congress Heights,ELE / Elevator between mezzanine and platform,Service Call,10/6/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,11/25/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,11/22/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -25,8 +24,6 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,10/6/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
-Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Service Call,10/6/24
-Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Service Call,10/6/24
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Service Call,10/6/24
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Inspection Repair,6/9/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,10/6/24
