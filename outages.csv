@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between street and middle landing,Service Call,10/9/24
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,10/9/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,10/9/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Other,10/9/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,10/9/24
@@ -23,6 +22,7 @@ Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,10/9/2
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,10/9/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,10/9/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,10/9/24
 North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Major Repair,10/11/24
 North Bethesda,ESC / Escalator between mezzanine and platform,Other,10/10/24
 Pentagon,ELE / Elevator between the bus bay and the mezzanine,Minor Repair,10/9/24
