@@ -11,16 +11,13 @@ Farragut North,"ELE / Elevator between street and mezzanine, east side of Connec
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Other,10/9/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Service Call,10/9/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Minor Repair,10/9/24
-Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Major Repair,10/9/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Inspection Repair,10/6/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/5/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/5/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,10/9/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,10/9/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Service Call,10/9/24
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,10/9/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,10/9/24
-Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Major Repair,10/9/24
 Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Service Call,10/9/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 Landover,ESC / Escalator between mezzanine and platform,Minor Repair,10/11/24
@@ -33,7 +30,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Other,10/11/24
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/11/24
 North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Major Repair,10/11/24
-North Bethesda,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/9/24
+North Bethesda,ESC / Escalator between mezzanine and platform,Other,10/10/24
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,10/9/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Preventive Maintenance Inspection,10/9/24
@@ -43,8 +40,8 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Other,10/9/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,10/9/24
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,10/9/24
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Other,
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,10/9/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,10/9/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
