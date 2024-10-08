@@ -2,18 +2,17 @@ station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Safety Inspection,10/10/24
 Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Minor Repair,10/8/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/10/24
+Capitol Heights,ESC / Escalator between mezzanine and platform,Walker,10/10/24
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Customer Incident,10/10/24
-College Park-U of Md,ELE / Elevator between street and mezzanine on east side of station at Kiss & Ride,Service Call,10/10/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,10/10/24
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Preventive Maintenance Inspection,10/10/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,10/10/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,10/14/24
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Other,10/10/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Other,10/10/24
-Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,10/10/24
+Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,10/11/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,10/10/24
@@ -40,7 +39,7 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Rosslyn,"ELE / Elevator between street, and upper platform",Minor Repair,10/10/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
-Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,10/10/24
+Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,10/11/24
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Minor Repair,10/9/24
 Suitland,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/10/24
 Takoma,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/10/24
