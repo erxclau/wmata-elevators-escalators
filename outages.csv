@@ -1,9 +1,6 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Minor Repair,10/11/24
 Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Minor Repair,10/14/24
-Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/11/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/11/24
-Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Other,10/11/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -11,13 +8,10 @@ Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle E
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Other,10/11/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Preventive Maintenance Inspection,10/11/24
 Federal Center SW,ESC / Escalator between street and mezzanine,Other,10/14/24
-Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,10/11/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Inspection Repair,10/11/24
 Glenmont,ELE / Garage elevator,Minor Repair,10/11/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Minor Repair,10/11/24
-Glenmont,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/11/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 Landover,ESC / Escalator between mezzanine and platform,Other,10/11/24
 Loudoun Gateway,ELE / Elevator - north entry pavilion Loudoun Gateway,Inspection Repair,10/10/25
@@ -28,7 +22,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance,Minor Repair,10/10/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,10/10/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Other,10/14/24
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,10/14/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,10/11/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,10/14/24
@@ -38,11 +31,9 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/11/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
-Suitland,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/11/24
+Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Service Call,10/11/24
 Union Station,"ELE / Elevator between Amtrak station and mezzanine 1st Street, NW/Amtrak Station Entrance",Inspection Repair,10/16/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
-Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,10/11/24
+Waterfront,ESC / Escalator between mezzanine and platform,Service Call,10/11/24
 Wheaton,ELE / Garage elevator,Minor Repair,10/14/24
-Wheaton,ESC / Escalator between mezzanine and platform,Service Call,10/11/24
-Wiehle-Reston East,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,10/11/24
