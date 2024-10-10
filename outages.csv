@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Minor Repair,10/14/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Preventive Maintenance Inspection,10/11/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -12,6 +13,7 @@ Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Preventive Mainten
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,10/11/24
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,10/11/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Preventive Maintenance Inspection,10/11/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Preventive Maintenance Inspection,10/11/24
