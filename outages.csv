@@ -1,12 +1,10 @@
 station,type_location,reason,estimated_return_to_service
-Columbia Heights,ESC / Escalator between mezzanine and platform,Service Call,10/13/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Other,10/14/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Eastern Market,ESC / Escalator between street and mezzanine,Service Call,10/13/24
-Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,10/13/24
 Federal Center SW,ESC / Escalator between street and mezzanine,Other,10/14/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -19,6 +17,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,10/13/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Major Repair,10/14/24
+Potomac Ave,ESC / Escalator between mezzanine and platform,Other,10/13/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Service Call,10/13/24
