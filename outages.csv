@@ -1,13 +1,12 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/13/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,10/13/24
-Clarendon,ESC / Escalator between mezzanine and platform to Vienna,Service Call,10/13/24
+Columbia Heights,ESC / Escalator between mezzanine and platform,Service Call,10/13/24
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,10/13/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Other,10/14/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,10/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Eastern Market,ESC / Escalator between street and mezzanine,Service Call,10/13/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Service Call,10/13/24
@@ -17,7 +16,6 @@ Federal Center SW,ESC / Escalator between street and mezzanine,Other,10/14/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,10/13/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Preventive Maintenance Inspection,10/13/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Service Call,10/13/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,10/13/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Service Call,10/13/24
