@@ -1,14 +1,13 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,10/13/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,10/13/24
-Benning Road,ELE / Elevator between mezzanine and platform,Service Call,10/13/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Other,10/14/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Service Call,10/13/24
 Federal Center SW,ESC / Escalator between street and mezzanine,Other,10/14/24
-Franconia-Springfield,ELE / Elevator between ground and pedestrian bridge,Safety Inspection,10/13/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
@@ -22,6 +21,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
 Tysons,ELE / Elevator between mezzanine to grade/street,Minor Repair,10/13/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,10/13/24
+Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Preventive Maintenance Inspection,10/18/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Wheaton,ELE / Garage elevator,Minor Repair,10/14/24
