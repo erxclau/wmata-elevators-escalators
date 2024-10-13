@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,10/13/24
+Cleveland Park,ESC / Escalator between mezzanine and platform,Service Call,10/15/24
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Preventive Maintenance Inspection,10/15/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
@@ -25,12 +26,9 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,10/14/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/15/24
-North Bethesda,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/15/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
-Reston Town Center,ESC / Escalator - south entry pavilion Reston Town Center,Preventive Maintenance Inspection,10/15/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,2/28/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/6/25
-Shady Grove,ELE / Elevator between east side parking/Kiss & Ride and mezzanine,Service Call,10/15/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Wheaton,ELE / Garage elevator,Minor Repair,10/14/24
