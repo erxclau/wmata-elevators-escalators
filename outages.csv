@@ -1,8 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Walker,10/16/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,10/13/24
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,10/16/24
-Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,10/16/24
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
@@ -12,6 +9,7 @@ Federal Center SW,ESC / Escalator between street and mezzanine,Service Call,10/1
 Federal Center SW,ESC / Escalator between street and mezzanine,Other,10/14/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
+Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,10/16/24
 Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Preventive Maintenance Inspection,10/16/24
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Shady Grove 7th and G Street/Arena Entrance,Other,11/21/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Minor Repair,10/16/24
@@ -35,6 +33,5 @@ Southern Avenue,ESC / Escalator between mezzanine and garage,Preventive Maintena
 Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,10/16/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
-Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,10/16/24
 Wheaton,ELE / Garage elevator,Minor Repair,10/14/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,10/14/24
