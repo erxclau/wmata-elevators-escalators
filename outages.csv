@@ -1,10 +1,11 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/17/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Eastern Market,ELE / Elevator between mezzanine and platform,Minor Repair,10/17/24
-Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,10/17/24
+Federal Center SW,ESC / Escalator between street and mezzanine,Service Call,10/17/24
 Federal Center SW,ESC / Escalator between street and mezzanine,Other,10/16/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Service Call,10/17/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Major Repair,10/17/24
@@ -21,7 +22,6 @@ Loudoun Gateway,ELE / Elevator - north entry pavilion Loudoun Gateway,Other,10/1
 McLean,ELE / Elevator between mezzanine and platform,Minor Repair,10/17/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
-Minnesota Ave,ESC / Escalator between street and mezzanine,Service Call,10/17/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,10/17/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/16/24
