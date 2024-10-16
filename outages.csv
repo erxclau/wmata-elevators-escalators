@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Benning Road,ELE / Elevator between mezzanine and platform,Service Call,10/18/24
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/18/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,10/18/24
@@ -28,7 +28,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Inspection Repair,8/25/24
 Minnesota Ave,ESC / Escalator between street and mezzanine,Minor Repair,10/17/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,10/18/24
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/16/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,10/18/24
@@ -45,4 +44,5 @@ Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amt
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Wheaton,ELE / Garage elevator,Minor Repair,10/16/24
+Wheaton,ESC / Escalator between mezzanine and platform,Safety Inspection,10/18/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,10/23/24
