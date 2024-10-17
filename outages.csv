@@ -1,18 +1,20 @@
 station,type_location,reason,estimated_return_to_service
+Ballston-MU,ESC / Escalator between middle landing and mezzanine,Other,10/19/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Minor Repair,10/18/24
+Federal Triangle,ESC / Escalator between middle landing and mezzanine,Service Call,10/19/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
+Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,10/19/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,10/18/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Service Call,10/19/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/17/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/17/24
 Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,10/19/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Minor Repair,10/18/24
-Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,10/19/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 Loudoun Gateway,ELE / Elevator - north entry pavilion Loudoun Gateway,Other,10/16/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Other,11/23/24
@@ -32,7 +34,6 @@ Spring Hill,ELE / Elevator - south entry pavilion,Service Call,10/19/24
 Spring Hill,ESC / Escalator - between mezzanine and platform,Other,10/19/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Scheduled Support,10/19/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,10/19/24
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Preventive Maintenance Inspection,10/19/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Service Call,10/19/24
