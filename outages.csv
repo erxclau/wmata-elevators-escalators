@@ -1,17 +1,15 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,10/20/24
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,10/20/24
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,10/19/24
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,10/20/24
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,10/20/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Service Call,10/20/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Downtown Largo,ESC / Escalator between mezzanine and platform,Other,10/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
-Farragut North,ELE / Elevator between mezzanine and platform K Street Entrance,Service Call,10/20/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,10/20/24
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,10/20/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,10/18/24
@@ -29,6 +27,7 @@ McLean,ESC / Escalator - south entry pavilion,Service Call,10/20/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Other,11/23/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
+Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Minor Repair,10/20/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,10/20/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/17/24
