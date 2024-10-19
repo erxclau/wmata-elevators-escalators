@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,10/21/24
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,10/21/24
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,10/20/24
 Congress Heights,ELE / Elevator between mezzanine and street,Other,10/21/24
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repair,10/21/24
@@ -10,6 +10,7 @@ Downtown Largo,ESC / Escalator between mezzanine and platform,Other,10/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Service Call,10/21/24
+Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,10/21/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,10/21/24
@@ -22,6 +23,7 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Lin
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Other,11/23/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,10/21/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,10/21/24
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/20/24
