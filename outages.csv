@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,10/20/24
-Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,10/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,10/21/24
@@ -15,7 +14,6 @@ Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Ge
 Glenmont,ELE / Garage elevator,Inspection Repair,10/17/24
 Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,10/21/24
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,10/18/24
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Other,10/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,10/20/24
 Loudoun Gateway,ELE / Elevator - north entry pavilion Loudoun Gateway,Other,10/16/25
@@ -29,7 +27,6 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entr
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/20/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Pentagon,ESC / Escalator between upper and lower platforms,Service Call,10/21/24
-Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Service Call,10/21/24
 Potomac Ave,ESC / Escalator between mezzanine and platform,Major Repair,10/19/24
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Service Call,10/21/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,10/20/24
@@ -40,7 +37,6 @@ Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-S
 Spring Hill,ELE / Elevator - north entry pavilion,Service Call,10/21/24
 Takoma,ESC / Escalator between mezzanine and platform,Service Call,10/21/24
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,10/20/24
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,10/21/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Minor Repair,10/20/24
