@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,10/25/24
+Capitol South,ESC / Escalator between mezzanine and platform,Other,10/22/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Other,10/21/24
@@ -13,7 +14,6 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Service Call,10/21/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/21/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
-Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,10/22/24
 L'Enfant Plaza,ELE / Elevator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,10/22/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Other,10/23/24
