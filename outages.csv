@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,10/25/24
-Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repair,10/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Minor Repair,10/21/24
@@ -14,6 +13,7 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Service Call,10/21/24
 Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Service Call,10/22/24
+Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,10/22/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/21/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,10/22/24
@@ -30,12 +30,10 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/20/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Preventive Maintenance Inspection,10/22/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
-Potomac Ave,ESC / Escalator between street and mezzanine,Service Call,10/22/24
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/21/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,10/22/24
-Takoma,ESC / Escalator between mezzanine and platform,Minor Repair,10/21/24
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,10/20/24
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Minor Repair,10/21/24
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Service Call,10/21/24
@@ -46,4 +44,3 @@ Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and
 Waterfront,ESC / Escalator between mezzanine and platform,Service Call,10/21/24
 Wheaton,ELE / Garage elevator,Scheduled Support,10/21/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,10/23/24
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Service Call,10/22/24
