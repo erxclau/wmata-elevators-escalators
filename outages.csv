@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Service Call,10/22/24
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,10/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
@@ -13,7 +12,6 @@ Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Minor Repair,10/22
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Service Call,10/21/24
-Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Service Call,10/22/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/21/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,10/22/24
@@ -27,6 +25,7 @@ Metro Center,ELE / Elevator between street and mezzanine,Safety Inspection,10/21
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,10/21/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/20/24
+NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Preventive Maintenance Inspection,10/22/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/21/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
