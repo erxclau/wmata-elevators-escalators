@@ -1,13 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Preventive Maintenance Inspection,10/23/24
-Capitol Heights,ESC / Escalator between mezzanine and platform,Other,10/23/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Preventive Maintenance Inspection,10/25/24
-Federal Center SW,ESC / Escalator between mezzanine and platform,Other,10/23/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,10/25/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -27,7 +25,6 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,11/4/24
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/25/24
-Potomac Yard,ESC / Escalator between mezzanine and Franconia-Springfield and Huntington platform,Major Repair,10/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Inspection Repair,11/28/25
