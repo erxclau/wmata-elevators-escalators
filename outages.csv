@@ -1,12 +1,10 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Preventive Maintenance Inspection,10/23/24
-Ballston-MU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,10/25/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Other,10/23/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,10/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Preventive Maintenance Inspection,10/25/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Other,10/23/24
@@ -18,7 +16,6 @@ Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and 
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,10/21/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/25/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Other,10/23/24
 L'Enfant Plaza,ELE / Elevator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,10/22/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Other,10/23/24
