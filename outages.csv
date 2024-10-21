@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/23/24
+Capitol Heights,ESC / Escalator between mezzanine and platform,Other,10/23/24
 Capitol South,ESC / Escalator between street and mezzanine,Service Call,10/23/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
@@ -13,8 +14,6 @@ Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Ot
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,10/21/24
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,10/23/24
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,10/23/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/25/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,10/23/24
@@ -33,6 +32,7 @@ Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon 
 Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Service Call,10/23/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
+Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,10/30/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Wheaton,ELE / Garage elevator,Scheduled Support,10/25/24
