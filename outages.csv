@@ -1,6 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,10/23/24
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/24/24
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Minor Repair,10/24/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,10/24/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
@@ -33,7 +33,10 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,10/21/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,10/24/24
+Spring Hill,ELE / Elevator - south entry pavilion,Service Call,10/24/24
+Spring Hill,ELE / Elevator - south entry pavilion,Service Call,10/24/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Preventive Maintenance Inspection,10/29/24
 Takoma,ELE / Elevator between mezzanine and platform,Inspection Repair,11/28/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
