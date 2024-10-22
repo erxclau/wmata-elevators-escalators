@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,10/23/24
+Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Customer Incident,10/24/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
@@ -9,9 +10,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle E
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Inspection Repair,11/28/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Preventive Maintenance Inspection,10/24/24
-Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,10/23/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,10/25/24
-Fort Totten,"ELE / Elevator between mezzanine, upper platform to Red Line, and lower platform for Green Line",Inspection Repair,11/28/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,10/24/24
@@ -22,12 +21,15 @@ Herndon,ESC / Escalator - north entry pavilion Herndon,Preventive Maintenance In
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Customer Incident,10/24/24
 Judiciary Square,ESC / Escalator between street and mezzanine 4th St/Courthouse Entrance,Inspection Repair,
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
+McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,10/24/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Other,10/23/24
+McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Walker,10/24/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,10/24/24
 Minnesota Ave,ELE / Elevator between street and mezzanine,Safety Inspection,10/24/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Inspection Repair,10/24/24
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,10/23/24
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/25/24
@@ -39,7 +41,6 @@ Takoma,ELE / Elevator between mezzanine and platform,Inspection Repair,11/28/24
 Tysons,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,10/24/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
-Virginia Square-GMU,ESC / Escalator between mezzanine and platform to New Carrolton,Minor Repair,10/24/24
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Safety Inspection,10/23/24
 Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,10/24/24
 Wheaton,ELE / Garage elevator,Scheduled Support,10/25/24
