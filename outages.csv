@@ -4,7 +4,6 @@ Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Mi
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,10/25/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/25/24
 Cheverly,ESC / Escalator between street and mezzanine,Service Call,10/25/24
-Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,10/25/24
 Court House,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
@@ -30,7 +29,10 @@ Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance
 Minnesota Ave,ELE / Elevator between street and mezzanine,Inspection Repair,10/24/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/25/24
+New Carrollton,ELE / Elevator between mezzanine and street at Route 450,Service Call,10/25/24
+New Carrollton,ELE / Garage elevator,Service Call,10/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,1/22/25
+Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Inspection Repair,10/25/24
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/25/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Minor Repair,10/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
