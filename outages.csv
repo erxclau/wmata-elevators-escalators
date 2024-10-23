@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,10/23/24
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,10/25/24
-Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,10/25/24
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Other,10/25/24
 Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/25/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/25/24
 Columbia Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/25/24
@@ -11,11 +10,10 @@ Dunn Loring-Merrifield,ELE / Garage elevator,Minor Repair,10/24/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/1/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Preventive Maintenance Inspection,10/25/24
+Federal Center SW,ESC / Escalator between street and mezzanine,Service Call,10/25/24
 Federal Triangle,ESC / Escalator between street and middle landing,Inspection Repair,10/25/24
-Franconia-Springfield,ELE / Elevator between ground and pedestrian bridge,Service Call,10/25/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
-Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,10/25/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,10/23/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/25/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
@@ -32,8 +30,6 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Inspection Repair,10/25/24
-Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Service Call,10/25/24
 Suitland,ESC / Escalator between mezzanine and platform,Safety Inspection,10/25/24
 Takoma,ELE / Elevator between mezzanine and platform,Inspection Repair,11/28/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,10/25/24
