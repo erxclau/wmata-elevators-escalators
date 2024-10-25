@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/27/24
-Archives-Navy Memorial-Penn Quarter,ELE / Elevator between mezzanine and platform,Service Call,10/27/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
@@ -15,6 +14,7 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/28/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
 Greensboro,ELE / Elevator between mezzanine and platform,Service Call,10/27/24
+Herndon,ESC / Escalator - south entry pavilion Herndon,Service Call,10/27/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Preventive Maintenance Inspection,10/27/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Walker,10/27/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
@@ -29,9 +29,9 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/28/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/25/24
-Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Other,10/27/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
+Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,10/27/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,10/27/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
