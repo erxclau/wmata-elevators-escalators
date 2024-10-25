@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/27/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/28/24
-Capitol South,ESC / Escalator between mezzanine and platform,Service Call,10/27/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -10,7 +9,6 @@ Federal Triangle,ESC / Escalator between middle landing and mezzanine,Minor Repa
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Major Repair,10/27/24
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Other,10/27/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Inspection Repair,10/27/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Inspection Repair,10/26/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,10/27/24
@@ -35,7 +33,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/28/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/25/24
-Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Minor Repair,10/27/24
+Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Other,10/27/24
 Rhode Island Ave-Brentwood,ELE / Garage elevator,Service Call,10/27/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
