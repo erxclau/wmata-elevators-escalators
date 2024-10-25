@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/27/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,10/27/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
@@ -29,7 +28,6 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/28/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Service Call,10/27/24
-Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,10/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,10/27/24
