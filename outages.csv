@@ -1,6 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/26/24
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,10/27/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
@@ -18,12 +16,14 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the 
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,10/28/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
 Greensboro,ELE / Elevator between mezzanine and platform,Service Call,10/27/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Walker,10/27/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Preventive Maintenance Inspection,10/27/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Inspection Repair,10/27/24
 McLean,ESC / Escalator - between mezzanine to grade/street,Inspection Repair,10/27/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Walker,
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Other,10/28/24
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Other,10/30/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Minor Repair,10/28/24
