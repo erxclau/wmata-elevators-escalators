@@ -1,6 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,10/29/24
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,10/29/24
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,10/28/24
+Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,10/29/24
 Capitol South,ESC / Escalator between mezzanine and platform,Inspection Repair,10/28/24
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repair,10/27/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
@@ -24,7 +26,6 @@ Glenmont,ELE / Garage elevator,Inspection Repair,10/24/24
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,10/29/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,10/28/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,10/28/24
-Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,10/28/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,10/28/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,10/29/24
@@ -35,11 +36,12 @@ Minnesota Ave,ESC / Escalator between mezzanine and platform,Minor Repair,10/28/
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,10/28/24
 NoMa-Gallaudet U,ELE / Elevator between platform and mezzanine Florida Avenue Entrance,Minor Repair,10/28/24
+Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Service Call,10/29/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Ave,ELE / Elevator between mezzanine and platform,Minor Repair,10/28/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Spring Hill,ELE / Elevator - north entry pavilion,Service Call,10/29/24
+Spring Hill,ELE / Elevator - north entry pavilion,Minor Repair,10/29/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,10/29/24
