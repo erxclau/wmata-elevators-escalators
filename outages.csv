@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,10/31/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,10/31/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,10/31/24
-Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,10/31/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,10/31/24
@@ -23,17 +22,14 @@ Glenmont,ELE / Garage elevator,Inspection Repair,10/29/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,10/31/24
 Greensboro,ELE / Elevator - south entry pavilion,Safety Inspection,10/31/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/1/24
-Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Major Repair,10/31/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,10/31/24
 Loudoun Gateway,ESC / Escalator - betweeen mezzanine and platform Loudoun Gateway,Preventive Maintenance Inspection,10/31/24
-McLean,ESC / Escalator - between mezzanine to grade/street,Preventive Maintenance Inspection,10/31/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,10/31/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Other,10/30/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Major Repair,10/31/24
-Minnesota Ave,ESC / Escalator between mezzanine and platform,Other,11/1/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Elevator between mezzanine and platform,Minor Repair,11/1/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
@@ -44,7 +40,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/1/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,11/4/24
-Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Safety Inspection,10/31/24
 Spring Hill,ELE / Elevator between mezzanine and platform,Minor Repair,10/31/24
 Spring Hill,ESC / Escalator - between mezzanine and platform,Other,10/31/24
 Tysons,ELE / Elevator - south entry pavilion,Minor Repair,10/30/24
