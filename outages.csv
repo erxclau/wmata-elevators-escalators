@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,10/31/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
+Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,10/31/24
 Deanwood,ESC / Escalator between street and mezzanine,Minor Repair,10/31/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/4/24
@@ -29,7 +30,6 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/1/24
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,11/4/24
 Spring Hill,ELE / Elevator between mezzanine and platform,Minor Repair,10/31/24
 Tysons,ELE / Elevator - south entry pavilion,Minor Repair,10/30/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Other,11/3/24
@@ -39,6 +39,5 @@ Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. En
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Other,10/31/24
-Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Other,10/31/24
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Preventive Maintenance Inspection,10/31/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,11/1/24
