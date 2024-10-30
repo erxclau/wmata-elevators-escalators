@@ -10,7 +10,7 @@ on:
 
 jobs:
   fetch:
-    name: Fetch DTE data
+    name: Fetch WMATA data
     runs-on: ubuntu-latest
 
     steps:
