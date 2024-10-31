@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
+Bethesda,ELE / Elevator between mezzanine and platform,Service Call,11/2/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Scheduled Support,11/2/24
-Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Service Call,11/2/24
+Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Other,11/2/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -30,6 +31,7 @@ Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/1/24
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Other,11/2/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Walker,11/1/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Inspection Repair,11/5/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Inspection Repair,11/2/24
