@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Bethesda,ELE / Elevator between mezzanine and platform,Service Call,11/2/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,11/2/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Scheduled Support,11/2/24
 Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Other,11/2/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
@@ -12,7 +13,9 @@ Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Walker,11/4/24
 Glenmont,ELE / Garage elevator,Inspection Repair,11/1/24
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Safety Inspection,11/2/24
+Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,11/2/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and platform to Branch Ave,Minor Repair,11/1/24
+Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Service Call,11/2/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/1/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,11/2/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Service Call,11/2/24
@@ -31,7 +34,6 @@ Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/1/24
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Other,11/2/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Walker,11/1/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Inspection Repair,11/5/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Inspection Repair,11/2/24
