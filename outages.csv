@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,11/2/24
 Cheverly,ESC / Escalator between street and mezzanine,Minor Repair,11/2/24
 Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Service Call,11/2/24
 Cleveland Park,ESC / Escalator between mezzanine and platform,Service Call,11/2/24
@@ -12,7 +11,6 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Walker,11/4/24
 Glenmont,ELE / Garage elevator,Inspection Repair,11/1/24
-Greenbelt,ESC / Escalator between mezzanine and platform,Safety Inspection,11/2/24
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Safety Inspection,11/2/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and platform to Branch Ave,Minor Repair,11/1/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/1/24
@@ -28,7 +26,7 @@ Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Preven
 Rosslyn,"ELE / Elevator between street, and upper platform",Minor Repair,11/2/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Shady Grove,ELE / Garage elevator,Minor Repair,11/2/24
+Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/1/24
@@ -38,4 +36,5 @@ Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. En
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Safety Inspection,11/1/24
+Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,11/2/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,11/9/24
