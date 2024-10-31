@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,11/1/24
+Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,11/2/24
 Ballston-MU,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,11/2/24
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,11/4/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Other,11/1/24
@@ -14,13 +15,14 @@ Dupont Circle,ELE / Elevator between mezzanine and platform to Shady Grove Q Str
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Preventive Maintenance Inspection,11/2/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,11/4/24
+Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Preventive Maintenance Inspection,11/2/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Preventive Maintenance Inspection,11/2/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Preventive Maintenance Inspection,11/1/24
 Federal Center SW,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/2/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,11/1/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Preventive Maintenance Inspection,11/5/24
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Preventive Maintenance Inspection,11/2/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Walker,11/4/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Inspection Repair,11/4/24
 Glenmont,ELE / Garage elevator,Inspection Repair,10/29/24
@@ -51,5 +53,6 @@ Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. En
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Safety Inspection,11/2/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
+Virginia Square-GMU,ESC / Escalator between street and mezzanine,Minor Repair,11/2/24
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Safety Inspection,11/1/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,11/9/24
