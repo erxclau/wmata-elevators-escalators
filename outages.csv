@@ -1,16 +1,16 @@
 station,type_location,reason,estimated_return_to_service
 Bethesda,ELE / Elevator between mezzanine and platform,Service Call,11/2/24
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,11/2/24
 Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Other,11/2/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,11/2/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,11/2/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Walker,11/4/24
 Glenmont,ELE / Garage elevator,Inspection Repair,11/1/24
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Safety Inspection,11/2/24
-Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,11/2/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and platform to Branch Ave,Minor Repair,11/1/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Service Call,11/2/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/1/24
@@ -19,7 +19,7 @@ Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Se
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
-Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Service Call,11/2/24
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Minor Repair,11/2/24
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Other,11/6/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
