@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Branch Ave,ESC / Escalator between mezzanine and platform,Service Call,11/3/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -7,8 +8,6 @@ Eastern Market,ELE / Elevator between street and mezzanine,Service Call,11/3/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Inspection Repair,11/3/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,11/3/24
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,11/3/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,11/3/24
 Glenmont,ELE / Garage elevator,Inspection Repair,11/1/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,11/3/24
@@ -26,7 +25,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/1/24
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,11/3/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Inspection Repair,11/2/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
