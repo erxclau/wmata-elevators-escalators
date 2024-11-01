@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,11/3/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,11/3/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/3/24
-Capitol South,ESC / Escalator between mezzanine and platform,Service Call,11/3/24
 Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Other,11/2/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/3/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
@@ -31,6 +30,7 @@ Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Servic
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shady Grove,ELE / Garage elevator,Other,11/2/24
+Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,11/3/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/1/24
 Tysons,ESC / Escalator - south entry pavilion,Service Call,11/3/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Inspection Repair,11/5/25
@@ -40,4 +40,5 @@ Van Ness-UDC,ESC / Escalator between street and middle landing on west side of C
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Safety Inspection,11/4/24
+West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Minor Repair,11/3/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,11/9/24
