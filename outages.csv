@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,11/3/24
-Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,11/3/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/3/24
 Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Other,11/2/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/3/24
@@ -31,7 +30,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shady Grove,ELE / Garage elevator,Other,11/2/24
 Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,11/3/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/1/24
-Tysons,ESC / Escalator - south entry pavilion,Service Call,11/3/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Inspection Repair,11/5/25
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,11/3/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Inspection Repair,11/2/24
