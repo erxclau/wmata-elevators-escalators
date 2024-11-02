@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Branch Ave,ESC / Escalator between mezzanine and platform,Service Call,11/3/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
+Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,11/4/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,11/3/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Inspection Repair,11/3/24
@@ -19,6 +20,7 @@ Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entran
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/3/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Service Call,11/4/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,11/4/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Other,11/6/24
