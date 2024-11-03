@@ -2,7 +2,7 @@ station,type_location,reason,estimated_return_to_service
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/5/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
-Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,11/5/24
+Crystal City,ESC / Escalator between middle landing and mezzanine,Minor Repair,11/5/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,11/4/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,11/5/24
@@ -33,8 +33,6 @@ Shady Grove,ESC / Escalator between mezzanine and platform,Minor Repair,11/5/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/4/24
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,11/5/24
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,11/5/24
-Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,11/5/24
-Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,11/5/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Inspection Repair,11/4/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
