@@ -2,10 +2,10 @@ station,type_location,reason,estimated_return_to_service
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,11/5/24
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,11/4/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,11/5/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Inspection Repair,11/4/24
+Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,11/5/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Minor Repair,11/5/24
@@ -20,14 +20,14 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. V
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Other,11/6/24
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,11/5/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
+Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/5/24
 Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Other,11/5/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/4/24
-Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Service Call,11/5/24
+Takoma,ESC / Escalator between mezzanine and platform,Other,11/5/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Inspection Repair,11/4/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
