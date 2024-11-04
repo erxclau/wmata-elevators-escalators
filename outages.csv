@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Other,11/6/24
-Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Preventive Maintenance Inspection,11/8/24
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/6/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Other,11/8/24
@@ -23,6 +22,7 @@ Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Minor Repair,11/6/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
+Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,11/6/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Other,11/6/24
 Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/6/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
@@ -30,6 +30,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shady Grove,ESC / Escalator between mezzanine and platform,Other,11/8/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/8/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,11/8/24
+Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,11/6/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,11/9/24
