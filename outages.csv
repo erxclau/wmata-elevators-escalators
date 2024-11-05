@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,11/7/24
 Benning Road,ESC / Escalator between street and mezzanine,Minor Repair,11/5/24
-Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Service Call,11/7/24
+Clarendon,ESC / Escalator between mezzanine and platform to Vienna,Service Call,11/7/24
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,11/7/24
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,11/7/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
@@ -14,6 +14,7 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the 
 Glenmont,ELE / Garage elevator,Inspection Repair,11/4/24
 Greensboro,ELE / Elevator - south entry pavilion,Major Repair,11/8/24
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Inspection Repair,11/8/24
+Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,11/7/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/4/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Service Call,11/7/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
