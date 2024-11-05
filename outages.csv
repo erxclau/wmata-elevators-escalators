@@ -6,9 +6,9 @@ Crystal City,ELE / Elevator between street and mezzanine,Safety Inspection,11/7/
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,11/7/24
-Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,11/7/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Fort Totten,"ELE / Elevator between mezzanine, upper platform to Red Line, and lower platform for Green Line",Inspection Repair,11/6/24
+Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,11/7/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,11/7/24
@@ -25,7 +25,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,11/9/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Other,11/8/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-Naylor Road,ELE / Elevator between mezzanine and platform,Service Call,11/7/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
