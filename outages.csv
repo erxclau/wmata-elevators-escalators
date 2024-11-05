@@ -1,8 +1,9 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Scheduled Support,11/6/24
-Crystal City,ELE / Elevator between street and mezzanine,Safety Inspection,11/7/24
+Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,11/7/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,11/7/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Preventive Maintenance Inspection,11/6/24
 Fort Totten,"ELE / Elevator between mezzanine, upper platform to Red Line, and lower platform for Green Line",Inspection Repair,11/6/24
@@ -22,10 +23,12 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,4/4/25
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Minor Repair,11/6/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,11/6/24
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield South Entrance,Service Call,11/7/24
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Service Call,11/7/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/8/24
+Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,11/7/24
 Suitland,ESC / Escalator between mezzanine and garage,Other,11/7/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,11/6/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
