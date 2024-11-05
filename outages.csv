@@ -1,8 +1,11 @@
 station,type_location,reason,estimated_return_to_service
+Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,11/1/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/6/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/9/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Other,11/8/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Preventive Maintenance Inspection,11/6/24
+East Falls Church,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/9/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,11/8/24
 Fort Totten,"ELE / Elevator between mezzanine, upper platform to Red Line, and lower platform for Green Line",Inspection Repair,11/6/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Inspection Repair,11/11/24
@@ -28,6 +31,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shady Grove,ESC / Escalator between mezzanine and platform,Other,11/8/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Other,11/8/24
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Other,11/8/24
+Tenleytown-AU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/6/24
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Service Call,11/6/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,11/6/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
