@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,11/8/24
+Benning Road,ELE / Elevator between mezzanine and platform,Service Call,11/8/24
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Minor Repair,11/8/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -14,7 +15,6 @@ Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,11/8/24
 Glenmont,ELE / Garage elevator,Inspection Repair,11/7/24
 Greensboro,ELE / Elevator - south entry pavilion,Major Repair,11/8/24
-Greensboro,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,11/7/24
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Inspection Repair,11/8/24
 Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,11/8/24
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Other,11/8/24
@@ -26,7 +26,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,11/9/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,11/8/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Preventive Maintenance Inspection,11/8/24
+Potomac Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/8/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Other,11/8/24
@@ -42,5 +42,4 @@ Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,11/11/24
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,11/11/24
-West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,11/8/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,11/9/24
