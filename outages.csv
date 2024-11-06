@@ -1,14 +1,14 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,11/8/24
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Other,11/11/24
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/8/24
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/11/24
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Preventive Maintenance Inspection,11/8/24
 Court House,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,11/8/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,11/8/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-East Falls Church,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/7/24
+Federal Triangle,ESC / Escalator between mezzanine and platform,Inspection Repair,11/8/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Preventive Maintenance Inspection,11/9/24
@@ -18,6 +18,7 @@ Greensboro,ELE / Elevator - south entry pavilion,Major Repair,11/8/24
 Greensboro,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,11/7/24
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Inspection Repair,11/8/24
 Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,11/8/24
+Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Other,11/8/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/7/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Preventive Maintenance Inspection,11/11/24
@@ -26,7 +27,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,11/9/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,11/8/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,11/8/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-New Carrollton,ESC / Escalator between mezzanine and street at Route 450,Minor Repair,11/8/24
+New Carrollton,ESC / Escalator between mezzanine and street at Route 450,Minor Repair,11/11/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Preventive Maintenance Inspection,11/8/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
@@ -36,7 +37,8 @@ Shady Grove,ESC / Escalator between mezzanine and platform,Other,11/11/24
 Shaw-Howard U,ELE / Elevator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,11/8/24
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Safety Inspection,12/6/24
 Southern Avenue,ESC / Escalator between mezzanine and garage,Walker,11/8/24
-Southern Avenue,ESC / Escalator between mezzanine and garage,Minor Repair,
+Southern Avenue,ESC / Escalator between mezzanine and garage,Other,11/11/24
+Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,11/9/24
 Suitland,ESC / Escalator between mezzanine and platform,Other,11/11/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Service Call,11/8/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,11/8/24
