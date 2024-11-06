@@ -1,6 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Minor Repair,11/7/24
-Benning Road,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/8/24
+Benning Road,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/22/24
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repair,11/7/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -29,7 +29,9 @@ Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield South Entrance,Preventive Maintenance Inspection,11/8/24
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield South Entrance,Preventive Maintenance Inspection,11/16/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Preventive Maintenance Inspection,11/8/24
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Preventive Maintenance Inspection,11/16/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Other,11/7/24
