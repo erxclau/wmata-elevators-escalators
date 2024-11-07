@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,11/11/24
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,11/9/24
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Preventive Maintenance Inspection,11/9/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -11,12 +12,10 @@ Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Mi
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/11/24
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Service Call,11/9/24
 Greensboro,ELE / Elevator - south entry pavilion,Minor Repair,11/9/24
 Greensboro,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,11/9/24
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Inspection Repair,11/11/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/11/24
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Service Call,11/9/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,11/9/24
 Medical Center,ESC / Escalator between street and mezzanine,Walker,11/9/24
@@ -37,6 +36,8 @@ Shady Grove,ESC / Escalator between mezzanine and platform,Preventive Maintenanc
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Inspection Repair,11/13/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Safety Inspection,11/9/24
 Southern Avenue,ESC / Escalator between mezzanine and platform,Other,11/9/24
+Suitland,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/9/24
+Tysons,ELE / Elevator - south entry pavilion,Service Call,11/9/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,11/11/24
