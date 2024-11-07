@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,11/5/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,11/9/24
@@ -18,6 +17,7 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave.
 Medical Center,ESC / Escalator between street and mezzanine,Safety Inspection,11/11/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,11/9/24
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/9/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Other,11/9/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Other,11/11/24
