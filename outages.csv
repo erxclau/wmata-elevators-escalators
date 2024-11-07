@@ -1,10 +1,9 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,11/11/24
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,11/9/24
-Congress Heights,ESC / Escalator between mezzanine and buses/parking,Preventive Maintenance Inspection,11/9/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,11/9/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,11/8/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,11/9/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -23,16 +22,15 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Service Call,11/9/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Other,11/11/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Preventive Maintenance Inspection,11/9/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/9/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/9/24
-Southern Avenue,ESC / Escalator between mezzanine and platform,Other,11/9/24
 Suitland,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/9/24
 Tysons,ELE / Elevator - south entry pavilion,Other,11/9/24
 Union Station,"ELE / Elevator between Amtrak station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,11/9/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,11/11/24
+West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,11/9/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,11/9/24
