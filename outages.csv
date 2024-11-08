@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,11/9/24
+Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Preventive Maintenance Inspection,11/9/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/9/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -35,6 +36,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Safety Inspection,11/9/24
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Preventive Maintenance Inspection,11/9/24
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Service Call,11/9/24
 Tysons,ELE / Elevator - south entry pavilion,Other,11/9/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,11/9/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
