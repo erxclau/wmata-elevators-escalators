@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Benning Road,ELE / Elevator between mezzanine and platform,Service Call,11/10/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -20,13 +21,15 @@ Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,11/11/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Other,11/11/24
+New Carrollton,ESC / Escalator between mezzanine and street at Route 450,Service Call,11/10/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Service Call,11/10/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Inspection Repair,11/11/24
 Smithsonian,ELE / Elevator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Service Call,11/10/24
-Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,11/10/24
+U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street and mezzanine 13th and U St Entrance,Service Call,11/10/24
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,11/10/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,11/11/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
