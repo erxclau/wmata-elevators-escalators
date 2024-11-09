@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,11/10/24
+Capitol Heights,ESC / Escalator between mezzanine and platform,Walker,11/11/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -7,11 +8,10 @@ Federal Triangle,ESC / Escalator between mezzanine and platform,Other,11/8/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/11/24
+Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Other,11/11/24
 Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Service Call,11/11/24
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont Building Museum Entrance,Service Call,11/11/24
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Service Call,11/11/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,11/11/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
-McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,11/11/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,4/4/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
@@ -21,6 +21,7 @@ Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. En
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,11/10/24
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street and mezzanine 13th and U St Entrance,Minor Repair,11/10/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,11/11/24
+Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Other,11/11/24
 Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Other,11/11/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
