@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Preventive Maintenance Inspection,11/24/24
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Minor Repair,11/13/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,11/3/24
+Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,11/3/24
 Columbia Heights,ESC / Escalator between mezzanine and platform,Other,11/15/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -30,8 +31,8 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon,ESC / Escalator between upper and lower platforms,Walker,11/13/24
 Pentagon,ESC / Escalator between upper and lower platforms,Major Repair,11/15/24
+Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Preventive Maintenance Inspection,11/14/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,11/13/24
-Rockville,ESC / Escalator between mezzanine and platform,Major Repair,11/14/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shady Grove,ELE / Elevator between east side parking/Kiss & Ride and mezzanine,Other,11/13/24
