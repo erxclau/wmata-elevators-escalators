@@ -2,20 +2,20 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Preventive Maintenance Inspection,11/24/24
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Minor Repair,11/13/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,11/3/24
-Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,11/3/24
 Columbia Heights,ESC / Escalator between mezzanine and platform,Other,11/15/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
+Crystal City,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,11/23/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
+Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Preventive Maintenance Inspection,11/14/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,11/14/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Preventive Maintenance Inspection,11/14/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,11/18/24
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Other,11/15/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/15/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,11/14/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,11/14/24
+Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Preventive Maintenance Inspection,11/14/24
 Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/13/24
 Huntington,ESC / Escalator to station entrance North Kings Hwy Entrance,Preventive Maintenance Inspection,11/25/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
@@ -33,6 +33,7 @@ Pentagon,ESC / Escalator between upper and lower platforms,Walker,11/13/24
 Pentagon,ESC / Escalator between upper and lower platforms,Major Repair,11/15/24
 Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Preventive Maintenance Inspection,11/14/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,11/13/24
+Rockville,ESC / Escalator between mezzanine and platform,Major Repair,11/14/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shady Grove,ELE / Elevator between east side parking/Kiss & Ride and mezzanine,Other,11/13/24
