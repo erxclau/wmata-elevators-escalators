@@ -1,5 +1,7 @@
 station,type_location,reason,estimated_return_to_service
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Preventive Maintenance Inspection,11/13/24
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Minor Repair,11/13/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Preventive Maintenance Inspection,11/13/24
 Columbia Heights,ESC / Escalator between mezzanine and platform,Other,11/15/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -29,7 +31,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,11/15/24
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shady Grove,ELE / Elevator between east side parking/Kiss & Ride and mezzanine,Other,11/13/24
-Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,11/13/24
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Inspection Repair,11/13/24
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,11/15/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,11/15/24
@@ -38,6 +39,6 @@ Vienna/Fairfax-GMU,ELE / Garage,Other,11/15/24
 Vienna/Fairfax-GMU,ELE / Garage,Other,11/15/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
-West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,11/13/24
+West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Minor Repair,11/13/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Minor Repair,11/15/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Major Repair,11/15/24
