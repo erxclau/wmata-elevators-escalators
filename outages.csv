@@ -1,7 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,11/16/24
 Capitol South,ESC / Escalator between street and mezzanine,Safety Inspection,11/16/24
-Congress Heights,ESC / Escalator between mezzanine and buses/parking,Preventive Maintenance Inspection,11/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -12,11 +10,11 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,11/16/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/13/25
-Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Shady Grove 7th and G Street/Arena Entrance,Inspection Repair,11/16/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/18/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Walker,11/15/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Inspection Repair,11/18/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,11/16/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Preventive Maintenance Inspection,11/17/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -29,11 +27,16 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Major Repair,11/18/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
+Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,11/16/24
+Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,3/31/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Walker,11/16/24
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Service Call,11/16/24
 Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,11/16/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,11/18/24
+Takoma,ESC / Escalator between mezzanine and platform,Service Call,11/16/24
+Takoma,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/17/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Major Repair,11/18/24
+Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Service Call,11/16/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Major Repair,11/18/24
