@@ -1,14 +1,14 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Preventive Maintenance Inspection,11/15/24
+Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,11/16/24
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Safety Inspection,11/16/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Preventive Maintenance Inspection,11/15/24
-Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,11/7/24
+Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,11/16/24
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Safety Inspection,11/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Preventive Maintenance Inspection,11/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Inspection Repair,11/15/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,8/25/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,11/18/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -37,7 +37,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Inspection Repair,11/13/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,11/15/24
-Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,11/15/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Preventive Maintenance Inspection,11/15/24
 Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Safety Inspection,11/15/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
