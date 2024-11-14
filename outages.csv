@@ -1,14 +1,12 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,11/16/24
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Safety Inspection,11/16/24
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Preventive Maintenance Inspection,11/15/24
-Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,11/16/24
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Safety Inspection,11/16/24
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
-Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Preventive Maintenance Inspection,11/16/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Federal Triangle,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,8/25/24
+Federal Triangle,ESC / Escalator between middle landing and mezzanine,Safety Inspection,8/25/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,11/18/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -41,6 +39,5 @@ Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtr
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/10/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,11/15/24
-Waterfront,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/22/24
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Major Repair,11/15/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,11/15/24
