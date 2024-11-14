@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Capitol South,ESC / Escalator between street and mezzanine,Safety Inspection,11/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -16,11 +15,9 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch A
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
-Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,11/16/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,11/15/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Walker,11/16/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-Naylor Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/16/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Major Repair,11/18/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
@@ -30,9 +27,8 @@ Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Level
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Walker,11/16/24
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Service Call,11/16/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,11/18/24
-Takoma,ESC / Escalator between mezzanine and platform,Service Call,11/16/24
+Takoma,ESC / Escalator between mezzanine and platform,Minor Repair,11/16/24
 Takoma,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/17/24
-Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Service Call,11/16/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Major Repair,11/18/24
