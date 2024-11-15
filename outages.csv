@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,11/17/24
+Ashburn,ELE / Elevator - north entry pavilion Ashburn,Safety Inspection,11/17/24
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,11/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -11,6 +11,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/18/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Walker,11/15/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Inspection Repair,11/18/24
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,11/17/24
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,11/17/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,11/17/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Service Call,11/16/24
