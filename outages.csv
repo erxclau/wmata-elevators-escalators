@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Other,11/17/24
-Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,11/16/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -33,7 +32,6 @@ Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and p
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Inspection Repair,12/5/24
-Spring Hill,ELE / Elevator - south entry pavilion,Other,11/17/24
 Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,11/17/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
