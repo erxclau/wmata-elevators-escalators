@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,11/18/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
+Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,11/18/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,11/24/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -17,10 +18,10 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Preventive Maintenance Inspection,11/18/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Service Call,11/18/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,11/18/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,11/18/24
-Potomac Ave,ESC / Escalator between street and mezzanine,Service Call,11/18/24
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Minor Repair,11/16/24
 Rockville,ESC / Escalator between mezzanine and platform,Minor Repair,11/18/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
