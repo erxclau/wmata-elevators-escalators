@@ -1,4 +1,6 @@
 station,type_location,reason,estimated_return_to_service
+Cleveland Park,ESC / Escalator between mezzanine and platform,Other,11/19/24
+Court House,ESC / Escalator between mezzanine and platform,Other,11/19/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -19,7 +21,7 @@ Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Ent
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,11/19/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Minor Repair,11/16/24
+Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Major Repair,11/16/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,11/19/24
@@ -31,4 +33,4 @@ Van Ness-UDC,ESC / Escalator between street and middle landing at on east side o
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Walker,11/19/24
-West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Minor Repair,11/19/24
+West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Major Repair,11/19/24
