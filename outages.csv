@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/19/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,11/19/24
@@ -12,10 +11,12 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/18/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Minor Repair,11/18/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Service Call,11/19/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,11/19/24
 Medical Center,ESC / Escalator between street and mezzanine,Minor Repair,11/19/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,11/19/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,11/19/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,11/19/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
@@ -23,10 +24,9 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Minor Repair,11/16/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Service Call,11/19/24
+Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,11/19/24
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Inspection Repair,11/19/24
 Spring Hill,ELE / Elevator - north entry pavilion,Inspection Repair,11/18/24
-Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,11/17/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Minor Repair,11/17/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,11/17/24
 Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Minor Repair,11/18/24
