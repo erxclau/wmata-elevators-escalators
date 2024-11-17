@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,11/19/24
-Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,11/19/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,11/19/24
@@ -14,6 +13,8 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/18/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Inspection Repair,11/19/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Minor Repair,11/17/24
+Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,11/19/24
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,11/19/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,11/19/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McLean,ELE / Elevator between mezzanine to grade/street,Minor Repair,11/17/24
@@ -22,6 +23,7 @@ McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franco
 Medical Center,ESC / Escalator between street and mezzanine,Service Call,11/19/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,11/19/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Preventive Maintenance Inspection,11/18/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 North Bethesda,ESC / Escalator between mezzanine and platform,Walker,11/19/24
