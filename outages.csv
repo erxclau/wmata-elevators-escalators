@@ -5,15 +5,15 @@ Court House,ESC / Escalator between middle landing and mezzanine,Preventive Main
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Foggy Bottom-GWU,ELE / Elevator between mezzanine and platform,Service Call,11/20/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,11/20/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Preventive Maintenance Inspection,11/20/24
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/18/24
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Minor Repair,11/18/24
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,11/22/24
+Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Minor Repair,11/20/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Preventive Maintenance Inspection,11/20/24
-Greenbelt,ESC / Escalator between mezzanine and platform,Service Call,11/20/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,11/19/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/19/24
@@ -24,9 +24,9 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Garage elevator,Service Call,11/20/24
 New Carrollton,ELE / Garage elevator,Service Call,11/20/24
+North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Service Call,11/20/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,11/19/24
-Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Major Repair,11/18/24
+Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Major Repair,11/22/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Other,11/19/24
@@ -37,10 +37,9 @@ Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of W
 Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,11/20/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,11/20/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Inspection Repair,11/20/24
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,11/18/24
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,11/22/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
-Virginia Square-GMU,ESC / Escalator between mezzanine and platform to New Carrolton,Service Call,11/20/24
 Waterfront,ESC / Escalator between street and mezzanine,Minor Repair,11/20/24
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Walker,11/19/24
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Major Repair,11/19/24
