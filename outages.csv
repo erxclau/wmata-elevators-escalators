@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/21/24
+Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,11/15/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -31,6 +32,7 @@ Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Larg
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,11/21/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,11/22/24
 Van Ness-UDC,ELE / Elevator between mezzanine and platform,Other,11/22/24
+Van Ness-UDC,ESC / Escalator between mezzanine and platform,Walker,11/21/24
 Van Ness-UDC,ESC / Escalator between mezzanine and platform,Major Repair,11/25/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
