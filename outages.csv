@@ -2,7 +2,9 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/21/24
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,11/22/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,11/21/24
+Ashburn,ESC / Escalator - north entry pavilion Ashburn,Service Call,11/21/24
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,11/20/24
+Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,11/21/24
 Court House,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,11/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -11,7 +13,6 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Preventive Maintenance Inspection,11/9/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Eastern Market,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/20/24
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/21/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
@@ -21,7 +22,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,11/21/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/22/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Walker,11/20/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,11/20/24
 Medical Center,ESC / Escalator between street and mezzanine,Minor Repair,11/22/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -30,17 +30,13 @@ Morgan Boulevard,ESC / Escalator between mezzanine and platform,Preventive Maint
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,11/20/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Preventive Maintenance Inspection,11/15/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Preventive Maintenance Inspection,11/20/24
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,11/21/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Preventive Maintenance Inspection,11/21/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,11/20/24
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Preventive Maintenance Inspection,11/19/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,11/22/24
 Van Ness-UDC,ESC / Escalator between mezzanine and platform,Major Repair,11/20/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to New Carrolton,Minor Repair,11/20/24
-Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,11/20/24
