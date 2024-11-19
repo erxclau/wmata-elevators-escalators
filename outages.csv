@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Benning Road,ELE / Elevator between mezzanine and platform,Service Call,11/21/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/21/24
 Capitol South,ELE / Elevator between street and mezzanine,Service Call,11/21/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,11/21/24
@@ -12,8 +13,8 @@ Eastern Market,ESC / Escalator between street and mezzanine,Preventive Maintenan
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Preventive Maintenance Inspection,11/21/24
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Walker,11/21/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,11/21/24
-Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Walker,11/21/24
-Federal Triangle,ELE / Elevator between street and mezzanine,Inspection Repair,11/21/24
+Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,11/21/24
+Federal Triangle,ELE / Elevator between street and mezzanine,Inspection Repair,11/22/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,11/19/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -28,6 +29,7 @@ McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollto
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,11/21/24
+Minnesota Ave,ELE / Elevator between street and mezzanine,Inspection Repair,11/22/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,11/20/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Naylor Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/23/24
@@ -37,9 +39,8 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,11/21/24
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Service Call,11/21/24
-Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,11/21/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,11/22/24
-Van Ness-UDC,ELE / Elevator between mezzanine and platform,Service Call,11/21/24
+Van Ness-UDC,ELE / Elevator between mezzanine and platform,Minor Repair,11/22/24
 Van Ness-UDC,ESC / Escalator between mezzanine and platform,Major Repair,11/25/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
