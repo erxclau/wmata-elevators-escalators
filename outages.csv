@@ -1,9 +1,8 @@
 station,type_location,reason,estimated_return_to_service
+Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,11/21/24
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,11/22/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,11/21/24
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Service Call,11/21/24
-Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,11/20/24
-Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,11/21/24
+Congress Heights,ELE / Elevator between mezzanine and platform,Service Call,11/21/24
 Court House,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,11/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/13/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/13/24
@@ -22,12 +21,14 @@ Medical Center,ESC / Escalator between street and mezzanine,Minor Repair,11/22/2
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Service Call,11/20/24
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,11/21/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,11/20/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,11/21/24
+Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,11/21/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,11/22/24
 Van Ness-UDC,ESC / Escalator between mezzanine and platform,Major Repair,11/20/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
