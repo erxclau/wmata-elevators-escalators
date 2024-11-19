@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Benning Road,ELE / Elevator between mezzanine and platform,Service Call,11/21/24
 Capitol Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/21/24
 Capitol South,ELE / Elevator between street and mezzanine,Minor Repair,11/21/24
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,11/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -10,7 +9,6 @@ Eastern Market,ESC / Escalator between street and mezzanine,Preventive Maintenan
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Walker,11/21/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,11/21/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,11/21/24
-Federal Triangle,ELE / Elevator between street and mezzanine,Inspection Repair,11/22/24
 Foggy Bottom-GWU,ELE / Elevator between mezzanine and platform,Service Call,11/21/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -20,12 +18,12 @@ Greensboro,ELE / Elevator between mezzanine and platform,Inspection Repair,11/26
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,11/22/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/22/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Service Call,11/21/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,11/21/24
 Minnesota Ave,ELE / Elevator between street and mezzanine,Inspection Repair,11/22/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,11/21/24
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/21/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
