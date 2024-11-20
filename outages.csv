@@ -1,18 +1,20 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,11/21/24
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,11/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,11/21/24
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,11/21/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Preventive Maintenance Inspection,11/21/24
 Eastern Market,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/20/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,11/21/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,11/21/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/21/24
-Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,11/21/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
+Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/21/24
 Greensboro,ELE / Elevator between mezzanine and platform,Inspection Repair,11/26/24
 Huntington,ESC / Escalator to station entrance North Kings Hwy Entrance,Safety Inspection,11/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
@@ -24,6 +26,7 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Hunt
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,11/21/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Preventive Maintenance Inspection,11/21/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,11/21/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,11/21/24
 Minnesota Ave,ELE / Elevator between street and mezzanine,Safety Inspection,11/21/24
