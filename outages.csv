@@ -2,10 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,11/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
-Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,11/21/24
-Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,11/21/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Preventive Maintenance Inspection,11/21/24
 Eastern Market,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/20/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,11/21/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,11/21/24
@@ -13,15 +10,12 @@ Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Inspection Repai
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,11/23/24
 Greensboro,ELE / Elevator between mezzanine and platform,Inspection Repair,11/26/24
 Huntington,ESC / Escalator to station entrance North Kings Hwy Entrance,Safety Inspection,11/21/24
-Judiciary Square,ESC / Escalator between street and mezzanine 4th St/Courthouse Entrance,Preventive Maintenance Inspection,11/26/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/22/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,11/21/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Walker,11/21/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Walker,11/21/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,11/21/24
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,11/22/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
@@ -39,7 +33,6 @@ Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Servic
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,11/21/24
-U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Preventive Maintenance Inspection,11/17/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,11/22/24
 Van Ness-UDC,ELE / Elevator between mezzanine and platform,Other,11/22/24
 Van Ness-UDC,ESC / Escalator between mezzanine and platform,Major Repair,11/25/24
