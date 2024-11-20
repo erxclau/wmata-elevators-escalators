@@ -1,6 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Preventive Maintenance Inspection,11/28/24
-Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Safety Inspection,11/22/24
+Ashburn,ELE / Elevator - between mezzanine and platform Ashburn,Service Call,11/22/24
+Ashburn,ELE / Elevator - north entry pavilion Ashburn,Service Call,11/22/24
+Ashburn,ELE / Elevator - south entry pavilion Ashburn,Service Call,11/22/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -10,7 +12,6 @@ Federal Center SW,ESC / Escalator between mezzanine and platform,Service Call,11
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Preventive Maintenance Inspection,11/22/24
 Greensboro,ELE / Elevator between mezzanine and platform,Inspection Repair,11/26/24
 Herndon,ESC / Escalator - north entry pavilion Herndon,Preventive Maintenance Inspection,11/24/24
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Service Call,11/22/24
@@ -21,8 +22,6 @@ McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veter
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,11/21/24
-Minnesota Ave,ELE / Elevator between street and mezzanine,Safety Inspection,11/21/24
-Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,11/22/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Other,11/20/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ESC / Escalator between mezzanine and platform,Other,11/22/24
@@ -32,7 +31,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Shaw-Howard U,ELE / Elevator between mezzanine and platform 7th and S St. N.W. Entrance,Minor Repair,11/22/24
 Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/22/24
-Spring Hill,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,11/30/24
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Other,11/22/24
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Preventive Maintenance Inspection,11/22/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Inspection Repair,11/22/24
