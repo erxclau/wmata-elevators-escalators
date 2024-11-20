@@ -1,9 +1,12 @@
 station,type_location,reason,estimated_return_to_service
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,11/22/24
+Cheverly,ESC / Escalator between street and mezzanine,Major Repair,11/22/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,11/22/24
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,11/22/24
+East Falls Church,ESC / Escalator between mezzanine and platform,Major Repair,11/22/24
+Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,11/22/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,11/21/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,11/21/24
 Federal Center SW,ESC / Escalator between street and mezzanine,Major Repair,11/22/24
@@ -11,24 +14,22 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Preventive Maintenance Inspection,11/22/24
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Service Call,11/22/24
 Greensboro,ELE / Elevator between mezzanine and platform,Inspection Repair,11/26/24
 Huntington,ESC / Escalator to station entrance North Kings Hwy Entrance,Safety Inspection,11/21/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Service Call,11/22/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/22/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Major Repair,11/22/24
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,11/22/24
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,11/22/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,11/22/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,11/21/24
 Minnesota Ave,ELE / Elevator between street and mezzanine,Safety Inspection,11/21/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ESC / Escalator between mezzanine and platform,Other,11/22/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,11/22/24
-Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,11/21/24
+Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,11/22/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,11/21/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
