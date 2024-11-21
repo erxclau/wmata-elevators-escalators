@@ -1,10 +1,10 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,11/23/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,11/23/24
-Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,11/23/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,11/25/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,11/21/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,11/23/24
@@ -19,15 +19,17 @@ Hyattsville Crossing,ELE / Elevator between mezzanine and platform to Branch Ave
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Service Call,11/23/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Service Call,11/23/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,11/23/24
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/23/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/23/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,11/23/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Walker,11/23/24
+McLean,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,12/5/24
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Preventive Maintenance Inspection,11/24/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Inspection Repair,11/23/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Other,11/21/24
+Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Other,11/23/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,11/23/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
@@ -35,6 +37,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Inspection Repair,11/22/24
 Spring Hill,ESC / Escalator - south entry pavilion,Service Call,11/23/24
+Tysons,ESC / Escalator - between intermidiat level to grade/street,Preventive Maintenance Inspection,11/24/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Inspection Repair,11/22/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
