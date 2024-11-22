@@ -1,13 +1,12 @@
 station,type_location,reason,estimated_return_to_service
-Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,11/24/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,11/24/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Inspection Repair,11/24/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/23/24
+Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Service Call,11/24/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,11/24/24
-Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,11/24/24
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,11/24/24
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Major Repair,11/23/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,11/25/24
@@ -35,3 +34,4 @@ Spring Hill,ESC / Escalator - south entry pavilion,Service Call,11/24/24
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Service Call,11/24/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
+Wheaton,ELE / Elevator between mezzanine and platform,Service Call,11/24/24
