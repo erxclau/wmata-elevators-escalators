@@ -1,6 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,11/24/24
-Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/24/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/23/24
@@ -14,6 +12,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Greensboro,ELE / Elevator - south entry pavilion,Major Repair,11/24/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/23/24
+McLean,ELE / Elevator between mezzanine to grade/street,Service Call,11/24/24
 McLean,ESC / Escalator - between mezzanine to grade/street,Other,11/24/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -23,7 +22,6 @@ Minnesota Ave,ESC / Escalator between street and mezzanine,Preventive Maintenanc
 Minnesota Ave,ESC / Escalator between street and mezzanine,Walker,11/24/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,11/24/24
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Other,
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
