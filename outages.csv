@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,11/25/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/24/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -10,18 +11,17 @@ Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Inspection Repair,11/25/24
 Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,11/24/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,11/25/24
-Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/24/24
+Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/25/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
-Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,11/25/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,11/24/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/24/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,11/25/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,11/25/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Service Call,11/24/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Safety Inspection,11/24/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,11/25/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/23/24
 McLean,ELE / Elevator between mezzanine to grade/street,Other,11/24/24
 McLean,ESC / Escalator - between mezzanine to grade/street,Minor Repair,11/24/24
@@ -35,7 +35,7 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,11/22/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,11/22/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Other,11/25/24
-Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Minor Repair,
+Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Minor Repair,11/26/24
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between mezzanine and platform,Minor Repair,11/24/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,11/25/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,11/25/24
@@ -51,6 +51,6 @@ Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. En
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,11/25/24
-Waterfront,ESC / Escalator between street and mezzanine,Service Call,11/25/24
 Waterfront,ESC / Escalator between mezzanine and platform,Service Call,11/25/24
+West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Service Call,11/25/24
 Wheaton,ELE / Elevator between mezzanine and platform,Minor Repair,11/24/24
