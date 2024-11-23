@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Other,11/25/24
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,11/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/23/24
@@ -14,30 +14,31 @@ Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/25/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,11/24/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/24/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Other,11/25/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/23/24
 McLean,ELE / Elevator between mezzanine to grade/street,Other,11/24/24
 McLean,ESC / Escalator - between mezzanine to grade/street,Minor Repair,11/24/24
-McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,11/25/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Inspection Repair,11/25/24
-Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Other,11/25/24
+Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,11/25/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Minor Repair,11/26/24
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between mezzanine and platform,Minor Repair,11/24/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,11/25/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,11/26/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
+Potomac Yard,ELE / Elevator between mezzanine and Franconia-Springfield and Huntington platform,Service Call,11/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Minor Repair,11/25/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Minor Repair,11/24/24
+Tenleytown-AU,ESC / Escalator between mezzanine and platform,Service Call,11/25/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
+Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,11/25/24
 Waterfront,ESC / Escalator between mezzanine and platform,Service Call,11/25/24
 Wheaton,ELE / Elevator between mezzanine and platform,Minor Repair,11/24/24
 Woodley Park-Zoo/Adams Morgan,ELE / Elevator between mezzanine and platform,Service Call,11/25/24
