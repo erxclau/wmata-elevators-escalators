@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Inspection Repair,11/26/24
+Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,11/26/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/26/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -26,7 +27,6 @@ Metro Center,ESC / Escalator between upper platform and lower platform to Blue/O
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,11/25/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,11/26/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Service Call,11/26/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
