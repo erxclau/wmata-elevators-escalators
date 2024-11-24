@@ -1,29 +1,25 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,11/26/24
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Inspection Repair,11/26/24
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,11/26/24
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,11/26/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/26/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
-Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,11/25/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,11/26/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,11/26/24
 Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,11/24/24
 Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/25/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,11/26/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/24/24
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,11/26/24
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,11/25/24
+Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Service Call,11/26/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/26/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/23/24
-L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,11/26/24
 McLean,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,11/26/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -33,19 +29,17 @@ Metro Center,ESC / Escalator between upper platform and lower platform to Blue/O
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,11/25/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,11/26/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Service Call,11/26/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,11/26/24
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,11/26/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Minor Repair,11/25/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Minor Repair,11/24/24
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,11/26/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,11/26/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Walker,11/26/24
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Preventive Maintenance Inspection,11/26/24
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Walker,11/26/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
-Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,11/26/24
 Waterfront,ESC / Escalator between street and mezzanine,Service Call,11/25/24
 Wheaton,ELE / Elevator between mezzanine and platform,Minor Repair,11/24/24
