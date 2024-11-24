@@ -1,10 +1,9 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/26/24
-Capitol South,ESC / Escalator between mezzanine and platform,Service Call,11/26/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/26/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
-Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,11/26/24
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,11/26/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/23/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/25/24
@@ -19,15 +18,14 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Ora
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Inspection Repair,11/25/24
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,11/26/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,11/25/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Other,11/26/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Minor Repair,11/25/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Minor Repair,11/24/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 Wheaton,ELE / Elevator between mezzanine and platform,Minor Repair,11/24/24
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Other,11/26/24
