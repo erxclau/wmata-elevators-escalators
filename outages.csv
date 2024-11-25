@@ -1,9 +1,6 @@
 station,type_location,reason,estimated_return_to_service
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,11/26/24
-Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/26/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Minor Repair,11/26/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/26/24
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/26/24
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Service Call,11/26/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,11/26/24
@@ -16,10 +13,11 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Inspection Repair,11/26/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/24/24
+Herndon,ELE / Elevator - between mezzanine and platform Herndon,Service Call,11/26/24
 L'Enfant Plaza,ELE / Elevator between mezzanine and platform to Greenbelt/Mt. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,11/26/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/23/24
-McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,11/26/24
+McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,11/26/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Inspection Repair,11/25/24
@@ -30,6 +28,8 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Minor Repair,11/25/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Minor Repair,11/24/24
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,11/26/24
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,11/26/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 Wheaton,ELE / Elevator between mezzanine and platform,Minor Repair,11/24/24
