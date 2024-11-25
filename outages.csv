@@ -1,8 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Other,11/27/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,11/29/24
-Benning Road,ESC / Escalator between street and mezzanine,Minor Repair,11/27/24
-Benning Road,ESC / Escalator between street and mezzanine,Minor Repair,11/27/24
 Bethesda,ELE / Elevator between mezzanine and platform,Safety Inspection,11/27/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Other,11/27/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/27/24
@@ -21,9 +19,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Walker,11/27/24
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Preventive Maintenance Inspection,11/27/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,11/27/24
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,11/27/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Minor Repair,11/27/24
-Glenmont,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/27/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/27/24
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Service Call,11/27/24
 L'Enfant Plaza,ELE / Elevator between mezzanine and platform to Greenbelt/Mt. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,11/26/24
@@ -32,7 +28,6 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Ora
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/28/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,11/27/24
 Loudoun Gateway,ESC / Escalator - betweeen mezzanine and platform Loudoun Gateway,Preventive Maintenance Inspection,11/27/24
-McLean,ESC / Escalator - between mezzanine to grade/street,Preventive Maintenance Inspection,11/27/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Inspection Repair,11/29/24
@@ -48,6 +43,7 @@ Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-S
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Other,11/27/24
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,11/27/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Minor Repair,11/27/24
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,9/16/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 Wheaton,ELE / Elevator between mezzanine and platform,Minor Repair,11/27/24
