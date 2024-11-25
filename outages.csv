@@ -2,11 +2,9 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,11/29/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Other,11/27/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/27/24
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/27/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,11/27/24
-Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,11/27/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Inspection Repair,12/22/25
@@ -15,6 +13,7 @@ Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/28/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
+Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Other,11/27/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,11/27/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Minor Repair,11/27/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,11/27/24
@@ -26,7 +25,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Inspection Repair,11/29/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Minor Repair,11/27/24
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,11/27/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Minor Repair,11/27/24
 Minnesota Ave,ESC / Escalator between street and mezzanine,Walker,11/27/24
 Minnesota Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/27/24
