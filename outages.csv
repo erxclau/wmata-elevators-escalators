@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Service Call,11/28/24
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,11/29/24
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,12/7/24
 Ballston-MU,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,12/2/24
 Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,11/29/24
@@ -35,7 +34,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/
 Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance,Service Call,11/28/24
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Inspection Repair,11/29/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,11/27/24
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Minor Repair,11/27/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Minor Repair,11/27/24
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Minor Repair,11/27/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
