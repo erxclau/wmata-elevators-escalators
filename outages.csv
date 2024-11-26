@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Service Call,11/28/24
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,11/29/24
+Ballston-MU,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,12/2/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Other,11/27/24
 Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,11/27/24
 Capitol South,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/27/24
@@ -12,6 +13,7 @@ Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,11/27/24
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Service Call,11/27/24
+Federal Center SW,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,11/14/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Inspection Repair,12/22/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,11/27/24
 Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/28/24
@@ -21,6 +23,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Minor Repair,11/27/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/27/24
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Preventive Maintenance Inspection,11/17/24
+Innovation Center,ESC / Escalator - betweeen mezzanine and platform Innovation Center,Service Call,11/28/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,11/28/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,11/27/24
@@ -40,9 +43,12 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),P
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon,ESC / Escalator between upper and lower platforms,Service Call,11/27/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,11/27/24
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Preventive Maintenance Inspection,12/1/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Preventive Maintenance Inspection,12/3/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Inspection Repair,11/27/24
+Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Preventive Maintenance Inspection,12/3/24
 Twinbrook,ESC / Escalator between mezzanine and platform,Service Call,11/27/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Minor Repair,11/27/24
 Van Ness-UDC,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,11/27/24
