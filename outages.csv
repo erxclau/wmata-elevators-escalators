@@ -1,10 +1,6 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,11/26/24
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,11/28/24
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Minor Repair,11/28/24
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,11/28/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,11/28/24
-Bethesda,ESC / Escalator between mezzanine and platform,Safety Inspection,11/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/29/24
@@ -26,6 +22,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/
 Metro Center,ELE / Elevator between upper platform to Glenmont and lower platform for Blue/Orange Lines,Service Call,11/28/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,11/28/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,11/28/24
+Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard Entrance,Other,11/28/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Preventive Maintenance Inspection,11/28/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
@@ -33,8 +30,8 @@ Potomac Ave,ESC / Escalator between street and mezzanine,Other,11/28/24
 Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,11/28/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,11/28/24
 Shady Grove,ELE / Elevator between mezzanine and platform,Service Call,11/28/24
+Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,11/28/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,11/28/24
 Spring Hill,ELE / Elevator - south entry pavilion,Minor Repair,11/28/24
 Twinbrook,ESC / Escalator between mezzanine and platform,Minor Repair,11/27/24
