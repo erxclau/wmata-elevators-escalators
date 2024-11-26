@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Minor Repair,11/28/24
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,11/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/29/24
@@ -17,6 +16,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/29/24
 Innovation Center,ELE / Elevator - between mezzanine and platform Innovation Center,Minor Repair,11/29/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,11/28/24
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,11/28/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ELE / Elevator between upper platform to Glenmont and lower platform for Blue/Orange Lines,Service Call,11/28/24
