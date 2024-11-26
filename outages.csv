@@ -1,15 +1,16 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Service Call,11/28/24
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Other,11/27/24
-Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,11/27/24
+Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,12/7/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Other,11/29/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,11/28/24
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,11/27/24
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,11/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Preventive Maintenance Inspection,11/28/24
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,11/28/24
-Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/28/24
+Franconia-Springfield,ELE / Garage elevator,Safety Inspection,11/29/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
@@ -20,25 +21,23 @@ L'Enfant Plaza,ELE / Elevator between mezzanine/upper platform to Branch Ave/Hun
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
-Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance,Service Call,11/28/24
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Inspection Repair,11/29/24
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,11/27/24
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Minor Repair,11/28/24
+Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,11/28/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,11/28/24
-Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Minor Repair,11/27/24
+Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Other,11/29/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
+Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Other,11/28/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,12/4/24
 Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,11/28/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Inspection Repair,11/27/24
 Twinbrook,ESC / Escalator between mezzanine and platform,Service Call,11/27/24
-U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Minor Repair,11/27/24
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Minor Repair,11/29/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,11/29/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,11/28/24
 West Falls Church,ESC / Escalator between mezzanine and platform to New Carrolton,Service Call,11/28/24
 Wheaton,ELE / Elevator between mezzanine and platform,Minor Repair,11/27/24
-Wiehle-Reston East,ESC / Escalator - between mezzanine and platform,Minor Repair,11/28/24
