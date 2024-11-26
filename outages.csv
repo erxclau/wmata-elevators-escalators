@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,11/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/29/24
@@ -13,6 +12,7 @@ Franconia-Springfield,ELE / Garage elevator,Service Call,11/28/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,11/28/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,11/28/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,11/28/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,11/28/24
@@ -30,16 +30,15 @@ Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Ent
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,
-Potomac Ave,ESC / Escalator between street and mezzanine,Service Call,11/28/24
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Scheduled Support,11/28/24
 Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,11/28/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,11/28/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,11/28/24
 Spring Hill,ELE / Elevator - south entry pavilion,Minor Repair,11/28/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,11/28/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Service Call,11/28/24
-Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,11/28/24
 Twinbrook,ESC / Escalator between mezzanine and platform,Minor Repair,11/27/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,11/28/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Minor Repair,11/29/24
