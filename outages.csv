@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Other,11/28/24
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Major Repair,11/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Inspection Repair,11/28/24
@@ -30,7 +29,6 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 Minnesota Ave,ESC / Escalator between street and mezzanine,Service Call,11/29/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Preventive Maintenance Inspection,11/29/24
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Scheduled Support,11/28/24
 Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,11/28/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Preventive Maintenance Inspection,11/29/24
