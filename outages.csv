@@ -1,13 +1,13 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Other,11/29/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,11/29/24
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,11/29/24
-Crystal City,ELE / Elevator between street and mezzanine,Inspection Repair,11/29/24
+Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,12/6/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,11/29/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Minor Repair,11/29/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Major Repair,11/29/24
 Franconia-Springfield,ELE / Garage elevator,Minor Repair,12/2/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -21,14 +21,11 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,12/2/24
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,11/29/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Preventive Maintenance Inspection,11/29/24
-New Carrollton,ESC / Escalator between mezzanine and platform,Safety Inspection,11/29/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Scheduled Support,11/28/24
 Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Other,12/2/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
-Spring Hill,ELE / Elevator - south entry pavilion,Safety Inspection,11/29/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Minor Repair,11/29/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,11/29/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
