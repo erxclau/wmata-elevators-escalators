@@ -2,7 +2,7 @@ station,type_location,reason,estimated_return_to_service
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,11/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
-Downtown Largo,ESC / Escalator between street and mezzanine,Service Call,11/28/24
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Inspection Repair,8/21/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Scheduled Support,11/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Preventive Maintenance Inspection,11/29/24
@@ -13,6 +13,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/29/24
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Minor Repair,11/28/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Walker,11/28/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Preventive Maintenance Inspection,12/2/24
 McLean,ELE / Elevator between mezzanine to grade/street,Other,11/28/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -22,6 +23,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Scheduled Support,11/28/24
 Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Minor Repair,11/28/24
+Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,11/28/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Preventive Maintenance Inspection,11/28/24
@@ -32,3 +34,4 @@ Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amt
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,11/28/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
+Virginia Square-GMU,ESC / Escalator between mezzanine and platform to New Carrolton,Preventive Maintenance Inspection,11/28/24
