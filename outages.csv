@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,11/29/24
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,12/6/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -17,7 +16,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,12/2/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,12/2/24
-Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,11/29/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Scheduled Support,11/28/24
@@ -28,3 +26,4 @@ U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzan
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,11/29/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
+Wheaton,ESC / Escalator between mezzanine and platform,Other,11/29/24
