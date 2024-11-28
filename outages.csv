@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,11/29/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,11/29/24
+Brookland-CUA,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/2/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -15,6 +16,7 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,11/29/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,11/29/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Service Call,11/29/24
+Glenmont,"ELE / Elevator between street and mezzanine, west side of station at Kiss & Ride",Service Call,11/29/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,11/29/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to station entrance) 7th & D St (USDOT Entrance),Preventive Maintenance Inspection,11/29/24
@@ -25,7 +27,7 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,11/29/24
-Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Scheduled Support,11/28/24
+Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Safety Inspection,11/29/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Service Call,11/29/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
