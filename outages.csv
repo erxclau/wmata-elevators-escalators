@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
-Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,11/30/24
 Downtown Largo,ESC / Escalator between street and mezzanine,Minor Repair,11/29/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Major Repair,11/29/24
@@ -16,13 +15,12 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,12/2/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,12/2/24
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,11/30/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,11/30/24
-Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,11/30/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/21/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,1/27/25
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,11/30/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Minor Repair,11/30/24
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,11/29/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
