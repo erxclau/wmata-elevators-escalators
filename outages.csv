@@ -2,8 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Other,12/5/24
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,12/5/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/4/24
-Capitol Heights,ESC / Escalator between street and mezzanine,Safety Inspection,12/5/24
-Capitol South,ESC / Escalator between street and mezzanine,Safety Inspection,12/5/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Minor Repair,12/4/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -12,20 +10,21 @@ Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Lar
 Deanwood,ESC / Escalator between street and mezzanine,Minor Repair,12/5/24
 Downtown Largo,ELE / Elevator between south garage and mezzanine,Service Call,12/5/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,12/5/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Service Call,12/5/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Minor Repair,12/5/24
+Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,12/5/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Inspection Repair,12/5/24
 Franconia-Springfield,ELE / Garage elevator,Other,12/6/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Friendship Heights,ESC / Escalator between Hecht Co. and street Western Avenue Entrance,Preventive Maintenance Inspection,12/5/24
+Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Preventive Maintenance Inspection,12/5/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,12/6/24
 Greensboro,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,12/17/24
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Preventive Maintenance Inspection,12/7/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 Landover,ESC / Escalator between mezzanine and platform,Minor Repair,12/6/24
-McLean,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,12/11/24
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,12/5/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Inspection Repair,12/4/24
@@ -41,7 +40,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/5/24
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Other,12/5/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Preventive Maintenance Inspection,12/4/24
-Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,12/4/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Walker,12/5/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Preventive Maintenance Inspection,12/5/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,12/6/24
