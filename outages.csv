@@ -1,6 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Other,12/6/24
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,12/5/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Minor Repair,12/5/24
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,12/5/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/4/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
@@ -25,7 +25,7 @@ Landover,ESC / Escalator between mezzanine and platform,Minor Repair,12/6/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Inspection Repair,12/6/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Walker,12/6/24
-Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Service Call,12/5/24
+Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,12/5/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Inspection Repair,12/5/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,12/5/24
@@ -36,12 +36,12 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Service Call,12/5/24
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Service Call,12/5/24
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Other,12/6/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Preventive Maintenance Inspection,12/4/24
 Van Dorn Street,ELE / Elevator between mezzanine and platform,Inspection Repair,12/5/24
 Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Minor Repair,12/5/24
 Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Minor Repair,12/6/24
-Van Ness-UDC,ESC / Escalator between mezzanine and platform,Service Call,12/5/24
 Vienna/Fairfax-GMU,ELE / Garage,Safety Inspection,12/6/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
