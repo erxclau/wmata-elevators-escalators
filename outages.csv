@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,12/5/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Other,12/6/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Minor Repair,12/5/24
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,12/5/24
@@ -19,13 +20,14 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Other,12/5/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Preventive Maintenance Inspection,12/5/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,12/6/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Service Call,12/5/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,12/5/24
 Landover,ESC / Escalator between mezzanine and platform,Minor Repair,12/6/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Inspection Repair,12/6/24
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Walker,12/6/24
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,12/5/24
+Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Minor Repair,12/5/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Inspection Repair,12/5/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,12/5/24
@@ -45,4 +47,5 @@ Van Ness-UDC,ESC / Escalator between street and middle landing at on east side o
 Vienna/Fairfax-GMU,ELE / Garage,Safety Inspection,12/6/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
+Waterfront,ELE / Elevator between mezzanine AND platform,Service Call,12/5/24
 Wheaton,ELE / Elevator between mezzanine and platform,Service Call,12/5/24
