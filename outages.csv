@@ -4,10 +4,11 @@ Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,12/4/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/4/24
 Congress Heights,ELE / Elevator between mezzanine and street,Service Call,12/5/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Minor Repair,12/4/24
+Congress Heights,ESC / Escalator between mezzanine and platform,Other,12/5/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,12/6/24
-Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,12/5/24
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Walker,12/5/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,12/5/24
 Deanwood,ESC / Escalator between street and mezzanine,Minor Repair,12/5/24
 Downtown Largo,ELE / Elevator between south garage and mezzanine,Service Call,12/5/24
@@ -18,7 +19,6 @@ Eastern Market,ESC / Escalator between mezzanine and platform,Service Call,12/5/
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,12/5/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Other,12/5/24
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Service Call,12/5/24
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,12/5/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Inspection Repair,12/5/24
 Franconia-Springfield,ELE / Garage elevator,Other,12/6/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -27,12 +27,11 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,12/5/
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Friendship Heights,ESC / Escalator between Hecht Co. and street Western Avenue Entrance,Preventive Maintenance Inspection,12/5/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,12/5/24
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,
-Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Service Call,12/5/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,12/6/24
 Greensboro,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,12/17/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Major Repair,12/6/24
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Preventive Maintenance Inspection,12/7/24
+King St-Old Town,ESC / Escalator between mezzanine and platform,Service Call,12/5/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to station entrance) 7th & D St (USDOT Entrance),Minor Repair,12/4/24
 Landover,ESC / Escalator between mezzanine and platform,Minor Repair,12/6/24
@@ -43,6 +42,7 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Walker,12/4/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Inspection Repair,12/5/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,12/5/24
 North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Service Call,12/5/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,12/4/24
@@ -51,6 +51,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,12/5/24
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Preventive Maintenance Inspection,12/5/24
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Service Call,12/5/24
+Tysons,ESC / Escalator - between intermidiat level to grade/street,Service Call,12/5/24
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Preventive Maintenance Inspection,12/4/24
 Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,12/4/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,12/6/24
