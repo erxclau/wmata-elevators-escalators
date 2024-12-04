@@ -1,11 +1,9 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Preventive Maintenance Inspection,12/5/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Other,12/6/24
 Benning Road,ESC / Escalator between mezzanine and platform,Minor Repair,12/5/24
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,12/5/24
 Bethesda,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/5/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/4/24
-Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Other,12/5/24
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,12/5/24
 Columbia Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/11/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
@@ -22,11 +20,14 @@ Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Inspection Repai
 Franconia-Springfield,ELE / Garage elevator,Other,12/6/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
+Franconia-Springfield,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/14/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Preventive Maintenance Inspection,12/9/24
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,12/5/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,12/5/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,12/6/24
+Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Preventive Maintenance Inspection,12/5/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Preventive Maintenance Inspection,12/12/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,12/5/24
 Landover,ESC / Escalator between mezzanine and platform,Minor Repair,12/6/24
@@ -48,5 +49,6 @@ Van Ness-UDC,ESC / Escalator between mezzanine and platform,Other,12/5/24
 Vienna/Fairfax-GMU,ELE / Garage,Safety Inspection,12/6/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
+Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,12/6/24
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,12/5/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Service Call,12/5/24
