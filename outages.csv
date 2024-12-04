@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,12/6/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Other,12/6/24
 Benning Road,ESC / Escalator between mezzanine and platform,Minor Repair,12/5/24
 Bethesda,ESC / Escalator between mezzanine and platform,Minor Repair,12/6/24
@@ -9,16 +10,12 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,12/6/24
 Deanwood,ESC / Escalator between street and mezzanine,Minor Repair,12/6/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Service Call,12/6/24
-Federal Center SW,ELE / Elevator between mezzanine and platform,Service Call,12/6/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Inspection Repair,12/10/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,12/8/24
 Franconia-Springfield,ELE / Garage elevator,Other,12/6/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Walker,12/6/24
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Major Repair,12/6/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,12/6/24
 Greensboro,ELE / Elevator - south entry pavilion,Minor Repair,12/6/24
 Greensboro,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,12/6/24
@@ -48,7 +45,9 @@ Rhode Island Ave-Brentwood,ELE / Garage elevator,Service Call,12/6/24
 Rockville,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/7/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
+Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,12/6/24
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Other,12/6/24
 Vienna/Fairfax-GMU,ELE / Garage,Safety Inspection,12/6/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
+Woodley Park-Zoo/Adams Morgan,"ELE / Elevator between street and mezzanine, SW corner of Woodley Rd. & Connecticut Ave., N.W.",Service Call,
