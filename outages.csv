@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Addison Road-Seat Pleasant,ELE / Garage elevator,Safety Inspection,12/6/24
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/7/24
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,12/14/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
@@ -12,11 +11,11 @@ Franconia-Springfield,ELE / Garage elevator,Other,12/9/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,12/7/24
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,12/7/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,12/7/24
-Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,
+Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,12/7/24
+Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,12/7/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,12/9/24
+Herndon,ELE / Elevator - between mezzanine and platform Herndon,Service Call,12/7/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/20/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Preventive Maintenance Inspection,12/7/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -25,7 +24,6 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between mezzanine and platform,Minor Repair,12/7/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Other,12/5/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Other,12/6/24
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Preventive Maintenance Inspection,12/7/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Minor Repair,12/9/24
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Inspection Repair,12/9/24
@@ -33,7 +31,6 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Potomac Ave,ESC / Escalator between street and mezzanine,Minor Repair,12/7/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
-U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Major Repair,12/7/24
 Vienna/Fairfax-GMU,ELE / Garage,Safety Inspection,12/9/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
