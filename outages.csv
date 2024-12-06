@@ -1,7 +1,9 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/9/24
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/8/24
+Benning Road,ESC / Escalator between mezzanine and platform,Service Call,12/8/24
+Benning Road,ESC / Escalator between mezzanine and platform,Service Call,12/8/24
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Major Repair,12/8/24
-Congress Heights,ESC / Escalator between mezzanine and platform,Service Call,12/8/24
 Court House,ELE / Elevator between mezzanine and platform,Service Call,12/8/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -12,7 +14,7 @@ Franconia-Springfield,ELE / Garage elevator,Other,12/9/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,12/8/24
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,12/8/24
 Greensboro,ELE / Elevator - south entry pavilion,Other,12/9/24
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Other,12/8/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Other,12/8/24
@@ -24,11 +26,13 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Other,12/8/24
 Minnesota Ave,ESC / Escalator between street and mezzanine,Major Repair,12/8/24
 Minnesota Ave,ESC / Escalator between street and mezzanine,Other,12/8/24
+Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,12/8/24
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between mezzanine and platform,Other,12/9/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Other,12/6/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Major Repair,12/9/24
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Inspection Repair,12/9/24
+New Carrollton,ESC / Escalator between mezzanine and platform,Service Call,12/8/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,12/8/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Preventive Maintenance Inspection,12/8/24
