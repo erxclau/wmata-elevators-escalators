@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/9/24
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Service Call,12/8/24
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/8/24
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Service Call,12/8/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -22,7 +23,7 @@ Minnesota Ave,ESC / Escalator between mezzanine and platform,Preventive Maintena
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between mezzanine and platform,Other,12/9/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Other,12/6/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Minor Repair,12/9/24
+Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Major Repair,12/9/24
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Inspection Repair,12/9/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
