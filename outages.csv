@@ -1,13 +1,12 @@
 station,type_location,reason,estimated_return_to_service
 Cheverly,ESC / Escalator between street and mezzanine,Minor Repair,12/9/24
-Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Service Call,12/9/24
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Major Repair,12/8/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dunn Loring-Merrifield,ELE / Garage elevator,Other,12/9/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,12/8/24
-Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Other,12/9/24
+Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,12/9/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Minor Repair,12/9/24
 Franconia-Springfield,ELE / Garage elevator,Other,12/9/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -35,7 +34,7 @@ Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. En
 Vienna/Fairfax-GMU,ELE / Garage,Safety Inspection,12/9/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,12/23/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,12/23/24
-West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Service Call,12/9/24
+Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,12/9/24
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Other,12/9/24
 Wheaton,ELE / Elevator between mezzanine and platform,Service Call,12/9/24
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Minor Repair,12/8/24
