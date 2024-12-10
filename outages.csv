@@ -2,13 +2,11 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,12/17/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,12/12/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/12/24
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/12/24
 Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Other,12/13/24
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Major Repair,12/13/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,12/12/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
-Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Safety Inspection,12/12/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,12/12/24
 Franconia-Springfield,ELE / Garage elevator,Other,12/9/24
@@ -19,17 +17,21 @@ Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th 
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,12/12/24
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Safety Inspection,12/12/24
 Herndon,ELE / Elevator - between mezzanine and platform Herndon,Minor Repair,12/13/24
+Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,12/12/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,12/12/24
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,12/13/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Metro Center,ELE / Elevator between upper platform to Glenmont and lower platform for Blue/Orange Lines,Service Call,12/12/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/12/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,12/12/24
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,12/12/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/12/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Inspection Repair,12/13/24
+New Carrollton,ELE / Garage elevator,Other,12/12/24
 New Carrollton,ESC / Escalator between mezzanine and platform,Service Call,12/12/24
+Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Service Call,12/12/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/12/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,12/13/24
