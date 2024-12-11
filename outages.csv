@@ -1,5 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,12/13/24
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/13/24
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/13/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,12/13/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -18,6 +20,7 @@ Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Safety Inspe
 Herndon,ELE / Elevator - between mezzanine and platform Herndon,Minor Repair,12/13/24
 Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Minor Repair,12/13/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Service Call,12/13/24
+King St-Old Town,ESC / Escalator between mezzanine and platform,Service Call,12/13/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Major Repair,12/13/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -29,6 +32,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,12/13/24
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Minor Repair,12/13/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
+Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Service Call,12/13/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,12/13/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Service Call,12/13/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
