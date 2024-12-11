@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Ballston-MU,ELE / Elevator between mezzanine and platform to New Carrollton,Service Call,12/13/24
+Ballston-MU,ELE / Elevator between mezzanine and platform to New Carrollton,Minor Repair,12/13/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,12/12/24
 Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Other,12/13/24
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Major Repair,12/13/24
@@ -36,6 +36,7 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street En
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Service Call,12/13/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,12/13/24
+Reston Town Center,ESC / Escalator - south entry pavilion Reston Town Center,Preventive Maintenance Inspection,12/13/24
 Rhode Island Ave-Brentwood,ELE / Garage elevator,Service Call,12/13/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,12/13/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
@@ -43,7 +44,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Inspection Repair,12/17/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Inspection Repair,12/16/24
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,12/12/24
-Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Service Call,12/12/24
+Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Minor Repair,12/12/24
 Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,12/13/24
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Service Call,12/13/24
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,12/13/24
