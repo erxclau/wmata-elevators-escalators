@@ -1,10 +1,8 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,12/14/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,12/14/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,12/14/24
 East Falls Church,ELE / Elevator between mezzanine and platform,Minor Repair,12/14/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Minor Repair,12/14/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Other,12/14/24
@@ -15,7 +13,6 @@ Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th 
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,12/16/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,12/14/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,12/14/24
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Safety Inspection,12/16/24
 Herndon,ELE / Elevator - between mezzanine and platform Herndon,Safety Inspection,12/14/24
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,12/14/24
