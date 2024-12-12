@@ -1,10 +1,12 @@
 station,type_location,reason,estimated_return_to_service
 Benning Road,ESC / Escalator between mezzanine and platform,Service Call,12/14/24
+Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/14/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,12/16/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,12/14/24
 Downtown Largo,ELE / Elevator between south garage and mezzanine,Other,12/16/24
+Downtown Largo,ESC / Escalator between mezzanine and platform,Safety Inspection,1/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 East Falls Church,ELE / Elevator between mezzanine and platform,Minor Repair,12/14/24
 Eastern Market,ELE / Elevator between street and mezzanine,Minor Repair,12/14/24
@@ -25,6 +27,7 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfan
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Major Repair,12/16/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Other,12/14/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,12/14/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/12/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Other,12/12/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
