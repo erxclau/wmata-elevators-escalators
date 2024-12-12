@@ -2,12 +2,14 @@ station,type_location,reason,estimated_return_to_service
 Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Preventive Maintenance Inspection,12/13/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,12/13/24
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,12/13/24
 Downtown Largo,ELE / Elevator between south garage and mezzanine,Minor Repair,12/13/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,12/13/24
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Preventive Maintenance Inspection,12/13/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Other,12/13/24
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/13/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Walker,12/13/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -29,7 +31,7 @@ Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and plat
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,12/13/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,12/13/24
-NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Minor Repair,12/13/24
+NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Minor Repair,12/13/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Walker,12/13/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Other,12/13/24
