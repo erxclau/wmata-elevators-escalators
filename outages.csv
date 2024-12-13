@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Preventive Maintenance Inspection,12/14/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Minor Repair,12/14/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Walker,12/14/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -13,11 +12,11 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Safety Inspection,12/16/24
 Innovation Center,ELE / Elevator - south entry pavilion Innovation Center,Minor Repair,12/14/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Preventive Maintenance Inspection,12/15/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Major Repair,12/15/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Minor Repair,12/16/24
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Other,12/14/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Inspection Repair,12/21/24
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Minor Repair,12/14/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/12/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Other,12/12/24
@@ -27,6 +26,8 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,12/15/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
+Spring Hill,ELE / Elevator - north entry pavilion,Service Call,12/15/24
+Spring Hill,ELE / Elevator - north entry pavilion,Service Call,12/15/24
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,12/14/24
 Takoma,ESC / Escalator between mezzanine and platform,Inspection Repair,12/19/24
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,12/14/24
