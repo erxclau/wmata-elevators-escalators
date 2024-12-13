@@ -3,6 +3,7 @@ Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Se
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Huntington,Service Call,12/15/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Minor Repair,12/16/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Other,12/16/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -21,7 +22,6 @@ Metro Center,ESC / Escalator between upper platform and lower platform to Blue/O
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Other,12/12/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Other,12/16/24
-Pentagon,ELE / Elevator between the bus bay and the mezzanine,Safety Inspection,12/15/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Service Call,12/15/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,12/16/24
@@ -36,4 +36,3 @@ Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,
 Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,12/15/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/3/25
-Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/15/24
