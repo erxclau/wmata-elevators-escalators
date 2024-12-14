@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Ashburn,ELE / Elevator - north entry pavilion Ashburn,Other,12/16/24
+Ashburn,ELE / Elevator - north entry pavilion Ashburn,Safety Inspection,12/16/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,12/15/24
 Capitol South,ESC / Escalator between street and mezzanine,Other,12/16/24
 Court House,ESC / Escalator between mezzanine and platform,Service Call,12/16/24
@@ -10,8 +10,8 @@ Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Lar
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,12/16/24
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,12/16/24
-Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,12/16/24
 Federal Center SW,ESC / Escalator between mezzanine and platform,Minor Repair,12/16/24
+Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,12/16/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
