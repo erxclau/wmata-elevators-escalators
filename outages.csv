@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/20/24
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,12/18/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,12/20/24
-Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,12/18/24
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Other,12/18/24
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/18/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
@@ -24,7 +24,7 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,12/18/24
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Service Call,12/18/24
 Huntington,ELE / Elevator between mezzanine and platform Huntington Ave. Entrance,Minor Repair,12/20/24
-Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Service Call,12/18/24
+Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,12/18/24
 Judiciary Square,ELE / Elevator between street and platform to Glenmont Building Museum Entrance,Service Call,12/18/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Other,12/20/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Walker,12/18/24
@@ -33,6 +33,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/20/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,12/20/24
+Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,12/18/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,12/18/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
