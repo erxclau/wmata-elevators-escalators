@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/18/24
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Major Repair,12/17/24
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,12/18/24
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Service Call,12/18/24
@@ -7,7 +8,8 @@ Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maint
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,12/18/24
-Downtown Largo,ELE / Elevator between south garage and mezzanine,Service Call,12/18/24
+Deanwood,ELE / Elevator between mezzanine and platform,Other,12/18/24
+Downtown Largo,ELE / Elevator between south garage and mezzanine,Minor Repair,12/18/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Major Repair,12/18/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Minor Repair,12/16/24
