@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/20/24
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,12/18/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,12/20/24
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Minor Repair,12/18/24
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/18/24
@@ -13,7 +14,6 @@ Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Preventive Maintenance Inspection,12/22/24
 Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,12/18/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,12/20/24
-Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,12/18/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Other,12/20/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -33,6 +33,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,12/20/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,12/18/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/25/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,12/20/24
