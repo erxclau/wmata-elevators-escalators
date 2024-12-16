@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/18/24
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,12/18/24
-Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Service Call,12/18/24
+Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Minor Repair,12/18/24
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/18/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -14,7 +14,6 @@ Federal Center SW,ESC / Escalator between mezzanine and platform,Minor Repair,12
 Federal Center SW,ESC / Escalator between mezzanine and platform,Other,12/18/24
 Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,12/18/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,12/17/24
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Minor Repair,12/18/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,12/18/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
@@ -29,7 +28,7 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Walker,12/18/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 McLean,ESC / Escalator - between mezzanine to grade/street,Minor Repair,12/18/24
-Medical Center,ESC / Escalator between mezzanine and platform,Service Call,12/18/24
+Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/18/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,12/17/24
