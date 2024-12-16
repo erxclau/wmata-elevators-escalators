@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Minor Repair,12/17/24
 Cheverly,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/25/24
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,12/17/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -34,7 +33,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Minor Repair,12/17/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Walker,12/17/24
-Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Other,12/16/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,12/17/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
