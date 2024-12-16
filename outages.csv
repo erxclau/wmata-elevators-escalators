@@ -1,20 +1,20 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/18/24
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,12/18/24
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/20/24
+Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,12/20/24
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Minor Repair,12/18/24
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/18/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,12/18/24
-Downtown Largo,ELE / Elevator between south garage and mezzanine,Minor Repair,12/18/24
+Downtown Largo,ELE / Elevator between south garage and mezzanine,Other,12/20/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Major Repair,12/18/24
+Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Major Repair,12/20/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Other,12/20/24
-Federal Center SW,ESC / Escalator between mezzanine and platform,Other,12/18/24
+Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Preventive Maintenance Inspection,12/22/24
 Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,12/18/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,12/20/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,12/18/24
-Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,12/18/24
+Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Other,12/20/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
@@ -23,11 +23,11 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Gro
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Other,3/31/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,12/18/24
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,12/18/24
-Huntington,ELE / Elevator between mezzanine and platform Huntington Ave. Entrance,Service Call,12/18/24
+Huntington,ELE / Elevator between mezzanine and platform Huntington Ave. Entrance,Minor Repair,12/20/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Other,12/20/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Walker,12/18/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
-Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/18/24
+Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/20/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,12/20/24
