@@ -1,23 +1,26 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,12/20/24
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/26/24
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Preventive Maintenance Inspection,12/18/24
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,12/20/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,12/18/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Preventive Maintenance Inspection,12/18/24
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,12/18/24
+Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Preventive Maintenance Inspection,12/18/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Major Repair,12/20/24
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Other,12/20/24
 Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,12/18/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,12/20/24
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,12/18/24
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Other,12/20/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
-Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,12/18/24
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Major Repair,12/16/24
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,12/18/24
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,12/18/24
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Preventive Maintenance Inspection,12/26/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,12/20/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Other,3/31/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,12/18/24
@@ -41,4 +44,3 @@ Shady Grove,ESC / Escalator between mezzanine and platform,Other,12/20/24
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Other,12/20/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/3/25
-Wiehle-Reston East,ESC / Escalator - between mezzanine and platform,Service Call,12/18/24
