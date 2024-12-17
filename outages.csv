@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,12/19/24
-Crystal City,ELE / Elevator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,12/19/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
 Deanwood,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/19/24
@@ -9,7 +8,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle E
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Other,12/19/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,12/20/24
 Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,12/19/24
-Franconia-Springfield,ELE / Elevator between ground and pedestrian bridge,Service Call,12/19/24
+Franconia-Springfield,ELE / Elevator between ground and pedestrian bridge,Minor Repair,12/19/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,2/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
@@ -22,6 +21,7 @@ Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,12/18/24
 Herndon,ELE / Elevator - south entry pavilion Herndon,Safety Inspection,12/19/24
 Innovation Center,ELE / Elevator - between mezzanine and platform Innovation Center,Minor Repair,12/19/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Other,12/19/24
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Walker,12/18/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Minor Repair,12/19/24
