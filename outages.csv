@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Service Call,12/19/24
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,12/19/24
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Preventive Maintenance Inspection,12/21/24
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,12/19/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,12/20/24
@@ -29,11 +30,14 @@ McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollto
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/20/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Inspection Repair,1/8/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Preventive Maintenance Inspection,12/24/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
-Morgan Boulevard,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/19/24
+Morgan Boulevard,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/26/24
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Safety Inspection,12/19/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+New Carrollton,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/20/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
+Pentagon,ESC / Escalator between upper and lower platforms,Preventive Maintenance Inspection,12/27/24
 Potomac Ave,ELE / Elevator between street and mezzanine,Minor Repair,12/19/24
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Service Call,12/19/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,12/20/24
