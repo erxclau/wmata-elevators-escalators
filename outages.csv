@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Other,
+Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,12/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/19/25
 Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Minor Repair,12/21/24
@@ -17,6 +17,7 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,12/21/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,12/21/24
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,12/21/24
 McLean,ELE / Elevator - south entry pavilion,Service Call,12/21/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/20/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -30,7 +31,6 @@ Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,12
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,12/20/24
-Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,12/21/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,12/21/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Inspection Repair,12/21/24
 Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/21/24
