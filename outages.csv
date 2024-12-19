@@ -1,8 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,12/21/24
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,12/21/24
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,12/21/24
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,12/21/24
 Congress Heights,ELE / Elevator between mezzanine and platform,Service Call,12/21/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,12/19/24
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/19/25
@@ -20,6 +17,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Major Repair,12/20/24
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,12/21/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Inspection Repair,3/31/25
+Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,12/21/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,12/21/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,12/21/24
 Innovation Center,ELE / Elevator - south entry pavilion Innovation Center,Minor Repair,12/20/24
