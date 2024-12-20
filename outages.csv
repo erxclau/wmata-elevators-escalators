@@ -1,6 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,12/22/24
-Crystal City,ESC / Escalator between street and middle landing,Modernization,12/22/24
+Crystal City,ESC / Escalator between street and middle landing,Modernization,3/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/19/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,12/21/24
@@ -25,6 +25,7 @@ Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzani
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Preventive Maintenance Inspection,12/22/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,12/22/24
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,12/22/24
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,12/20/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
