@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/19/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Service Call,12/22/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,12/21/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Minor Repair,12/22/24
 Franconia-Springfield,ELE / Garage elevator,Service Call,12/22/24
@@ -15,7 +16,9 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 
 Glenmont,ELE / Garage elevator,Major Repair,12/22/24
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,12/22/24
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Service Call,12/22/24
+Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,12/22/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to station entrance) 7th & D St (USDOT Entrance),Other,12/22/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/20/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
@@ -31,6 +34,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/2
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,12/22/24
 Silver Spring Transit Center,ESC / Escalator - between Level 3 and Level 2,Service Call,12/22/24
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,12/22/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,12/22/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/3/25
