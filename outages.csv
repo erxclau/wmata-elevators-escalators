@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,12/22/24
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,12/22/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/19/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
@@ -19,8 +19,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,12/20/24
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
-Minnesota Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/22/24
-Minnesota Ave,ESC / Escalator between street and mezzanine,Walker,12/22/24
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Other,12/22/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Preventive Maintenance Inspection,12/22/24
