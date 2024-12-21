@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Benning Road,ESC / Escalator between mezzanine and platform,Minor Repair,12/22/24
+Clarendon,ELE / Elevator between street and mezzanine,Safety Inspection,12/23/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,12/23/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/19/25
@@ -29,7 +30,6 @@ Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor 
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,12/20/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
-Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,12/22/24
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Service Call,12/22/24
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between mezzanine and platform 13th and U St Entrance,Major Repair,12/22/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,12/22/24
