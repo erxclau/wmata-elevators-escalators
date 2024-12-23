@@ -1,9 +1,11 @@
 station,type_location,reason,estimated_return_to_service
+Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Service Call,12/25/24
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,12/25/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,12/25/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/19/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,12/27/24
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,12/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,12/25/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Other,12/27/24
@@ -28,9 +30,9 @@ Minnesota Ave,ELE / Garage Elevator,Minor Repair,12/27/24
 Minnesota Ave,ELE / Garage Elevator,Minor Repair,12/27/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ELE / Garage elevator,Safety Inspection,12/25/24
-Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Service Call,12/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,12/25/24
+Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,12/25/24
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,12/27/24
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Minor Repair,12/24/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Service Call,12/25/24
