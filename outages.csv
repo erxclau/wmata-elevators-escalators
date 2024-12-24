@@ -1,7 +1,12 @@
 station,type_location,reason,estimated_return_to_service
+Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,12/26/24
+Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,12/26/24
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/26/24
 Capitol South,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/25/24
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,12/26/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/19/25
+Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,12/26/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,12/27/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,3/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Other,12/27/24
@@ -17,6 +22,7 @@ Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th 
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Inspection Repair,3/31/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Major Repair,12/25/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,12/27/24
+Greenbelt,ESC / Escalator between mezzanine and platform,Service Call,12/26/24
 Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,12/26/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
@@ -33,7 +39,6 @@ Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,12/25/24
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Service Call,12/25/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
-Rosslyn,ESC / Escalator between upper platform and lower platform,Preventive Maintenance Inspection,12/26/24
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Other,12/27/24
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,12/26/24
@@ -41,8 +46,8 @@ Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Level
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Other,12/27/24
 Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Safety Inspection,12/25/24
 Van Dorn Street,ESC / Escalator between mezzanine and platform,Service Call,12/25/24
-Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Preventive Maintenance Inspection,12/25/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/3/25
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,12/25/24
+West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Minor Repair,12/27/24
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,12/26/24
