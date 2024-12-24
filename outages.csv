@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Preventive Maintenance Inspection,12/26/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/26/24
+Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,12/27/24
@@ -8,7 +9,7 @@ Downtown Largo,ELE / Elevator between north garage and mezzanine,Other,12/26/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Federal Center SW,ELE / Elevator between mezzanine and platform,Other,12/27/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Other,12/25/24
-Franconia-Springfield,ELE / Elevator between mezzanine and platform,Minor Repair,12/25/24
+Franconia-Springfield,ELE / Elevator between mezzanine and platform,Other,12/25/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
@@ -21,14 +22,15 @@ Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th an
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,12/26/24
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,12/26/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/13/25
-McLean,ESC / Escalator - between mezzanine to grade/street,Preventive Maintenance Inspection,12/26/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Service Call,12/26/24
+Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Other,12/26/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
-Minnesota Ave,ELE / Garage Elevator,Minor Repair,12/27/24
-Minnesota Ave,ELE / Garage Elevator,Minor Repair,12/27/24
+Minnesota Ave,ELE / Garage Elevator,Other,12/27/24
+Minnesota Ave,ELE / Garage Elevator,Other,12/27/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,12/26/24
 New Carrollton,ELE / Garage elevator,Safety Inspection,12/25/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,12/27/24
@@ -41,7 +43,7 @@ Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Level
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Minor Repair,12/26/24
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between mezzanine and platform 13th and U St Entrance,Service Call,12/26/24
 Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Safety Inspection,12/25/24
-Van Dorn Street,ESC / Escalator between mezzanine and platform,Service Call,12/25/24
+Van Dorn Street,ESC / Escalator between mezzanine and platform,Minor Repair,12/25/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/3/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Minor Repair,12/27/24
