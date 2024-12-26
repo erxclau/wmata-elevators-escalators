@@ -1,13 +1,14 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,12/27/24
-Capitol South,ESC / Escalator between street and mezzanine,Service Call,12/28/24
 Columbia Heights,ELE / Elevator between mezzanine and platform,Service Call,12/28/24
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,12/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,12/28/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Other,12/30/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,12/30/24
+Forest Glen,ELE / Elevator between mezzanine and platform,Service Call,12/28/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
@@ -22,7 +23,6 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Lin
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance,Minor Repair,12/30/24
-Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Service Call,12/28/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/20/24
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Minor Repair,12/30/24
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Inspection Repair,12/30/24
@@ -33,7 +33,6 @@ Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Other,12/28/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
-Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,12/30/24
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,12/27/24
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,12/25/24
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Minor Repair,12/28/24
