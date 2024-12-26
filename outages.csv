@@ -1,8 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,12/27/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/27/24
-Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,12/28/24
-Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,12/28/24
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Preventive Maintenance Inspection,12/28/24
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,12/28/24
 Congress Heights,ELE / Elevator between mezzanine and street,Service Call,12/27/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
