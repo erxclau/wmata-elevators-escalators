@@ -1,10 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Other,12/30/24
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,12/28/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Service Call,12/28/24
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Other,12/30/24
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,12/30/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -16,6 +14,7 @@ Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Major Repair,12/30/24
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Other,12/28/24
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,12/28/24
+Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Other,12/28/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/13/25
 McLean,ELE / Elevator - south entry pavilion,Other,
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
