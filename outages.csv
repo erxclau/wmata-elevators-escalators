@@ -1,10 +1,13 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,12/27/24
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,12/27/24
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,12/28/24
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,12/28/24
+Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,12/28/24
+Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,12/28/24
 Congress Heights,ELE / Elevator between mezzanine and street,Service Call,12/27/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
-Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Preventive Maintenance Inspection,12/28/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Other,12/27/24
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Major Repair,12/30/24
@@ -17,7 +20,6 @@ Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th 
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Major Repair,12/30/24
 Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Service Call,12/27/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/13/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,12/28/24
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,12/28/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
