@@ -1,11 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Other,12/30/24
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,12/31/24
-Capitol South,ESC / Escalator between street and mezzanine,Service Call,12/29/24
-Capitol South,ESC / Escalator between mezzanine and platform,Other,12/29/24
+Capitol South,ESC / Escalator between mezzanine and platform,Minor Repair,12/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,12/29/24
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Service Call,12/29/24
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,12/29/24
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,12/30/24
@@ -26,13 +26,11 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 New Carrollton,ESC / Escalator between mezzanine and platform,Service Call,12/28/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Service Call,12/29/24
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Minor Repair,12/27/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,12/25/24
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Walker,12/29/24
-Tenleytown-AU,ESC / Escalator between mezzanine and platform,Minor Repair,12/29/24
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,12/29/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/3/25
