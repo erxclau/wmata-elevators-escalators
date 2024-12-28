@@ -1,10 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Other,12/30/24
 Capitol South,ESC / Escalator between mezzanine and platform,Other,12/29/24
-Crystal City,ESC / Escalator between street and middle landing,Service Call,12/30/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
-Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,12/30/24
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,12/30/24
 Deanwood,ESC / Escalator between street and mezzanine,Service Call,12/30/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
@@ -26,6 +24,7 @@ Metro Center,ESC / Escalator between upper platform and lower platform to Blue/O
 Minnesota Ave,ELE / Elevator between street and mezzanine,Safety Inspection,12/30/24
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,12/30/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,1/2/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Service Call,12/30/24
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,12/30/24
