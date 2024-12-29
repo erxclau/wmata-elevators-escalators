@@ -3,12 +3,11 @@ Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Other,12/30
 Capitol South,ESC / Escalator between mezzanine and platform,Other,12/29/24
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,12/31/24
 Crystal City,ELE / Elevator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,12/30/24
-Crystal City,ESC / Escalator between street and middle landing,Service Call,12/31/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
-Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,12/31/24
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,12/31/24
+Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Other,12/31/24
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,12/30/24
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -18,6 +17,7 @@ Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th 
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,12/30/24
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,12/30/24
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Major Repair,12/30/24
+Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,12/31/24
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/13/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -33,6 +33,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Rosslyn,ESC / Escalator between upper platform and lower platform,Minor Repair,12/31/24
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Minor Repair,12/30/24
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Minor Repair,12/31/24
+Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,12/31/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Preventive Maintenance Inspection,12/31/24
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Walker,12/31/24
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
