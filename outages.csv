@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,1/1/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,12/31/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Other,12/30/24
 Capitol South,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/1/25
@@ -6,6 +7,7 @@ Capitol South,ESC / Escalator between mezzanine and platform,Other,12/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Preventive Maintenance Inspection,1/1/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Preventive Maintenance Inspection,12/31/24
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,12/30/24
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,1/1/25
@@ -32,6 +34,7 @@ Metro Center,ESC / Escalator between upper platform and lower platform to Blue/O
 Minnesota Ave,ELE / Elevator between street and mezzanine,Inspection Repair,8/25/24
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,12/30/24
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
+Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Preventive Maintenance Inspection,1/1/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Ave,ESC / Escalator between mezzanine and platform,Inspection Repair,12/31/24
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Minor Repair,12/27/24
