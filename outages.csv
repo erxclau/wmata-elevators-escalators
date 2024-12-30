@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,12/31/24
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Other,12/30/24
+Capitol South,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/1/25
 Capitol South,ESC / Escalator between mezzanine and platform,Other,12/29/24
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -25,6 +26,8 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,12/31/24
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,1/1/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Major Repair,12/31/24
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,12/30/24
 Minnesota Ave,ELE / Elevator between street and mezzanine,Inspection Repair,8/25/24
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,12/30/24
