@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Other,1/3/25
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/2/25
 Clarendon,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,1/2/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -14,6 +13,7 @@ Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Se
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Other,1/3/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Walker,1/2/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/2/25
+Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,1/2/25
 Franconia-Springfield,ELE / Garage elevator,Minor Repair,1/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -25,8 +25,7 @@ Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at
 Greensboro,ELE / Elevator - south entry pavilion,Minor Repair,1/2/25
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Other,1/3/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont Building Museum Entrance,Service Call,1/2/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/13/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,1/2/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,1/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
@@ -37,15 +36,16 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,1/3/25
-Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,1/2/25
 Potomac Ave,ESC / Escalator between mezzanine and platform,Inspection Repair,1/3/25
+Potomac Yard,ESC / Escalator between mezzanine and Franconia-Springfield and Huntington platform,Major Repair,1/2/25
 Rhode Island Ave-Brentwood,ELE / Elevator between mezzanine and platform,Service Call,1/1/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Other,1/2/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Minor Repair,1/3/25
-Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Minor Repair,1/1/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Service Call,1/2/25
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,1/2/25
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,1/2/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/3/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Service Call,1/1/25
