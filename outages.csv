@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,1/4/25
 Benning Road,ELE / Elevator between mezzanine and platform,Service Call,1/3/25
-Benning Road,ESC / Escalator between street and mezzanine,Safety Inspection,1/31/25
+Benning Road,ESC / Escalator between street and mezzanine,Safety Inspection,1/4/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,1/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -34,6 +34,7 @@ Potomac Ave,ESC / Escalator between mezzanine and platform,Inspection Repair,1/6
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Other,1/6/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
+Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Other,1/4/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Other,1/6/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Other,
 Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,1/11/25
