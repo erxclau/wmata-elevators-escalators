@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Minor Repair,1/4/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,1/4/25
@@ -30,6 +31,7 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Other,1/6/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
+Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,1/4/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Other,1/4/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/3/25
