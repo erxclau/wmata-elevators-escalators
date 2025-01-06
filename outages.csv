@@ -1,6 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,1/8/25
 Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Service Call,1/8/25
+Cleveland Park,ESC / Escalator between mezzanine and middle landing,Minor Repair,1/8/25
+College Park-U of Md,ELE / Elevator between street and mezzanine on east side of station at Kiss & Ride,Service Call,1/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,1/10/25
@@ -8,8 +10,6 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Other,1/10/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Other,1/10/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,1/8/25
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,1/8/25
-Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,1/8/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
@@ -27,7 +27,7 @@ Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Ent
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/10/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Rosslyn,"ELE / Elevator between street, and upper platform",Minor Repair,1/8/25
+Rosslyn,"ELE / Elevator between street, and upper platform",Other,1/8/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/10/25
