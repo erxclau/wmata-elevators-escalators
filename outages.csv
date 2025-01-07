@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Service Call,1/9/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/9/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -29,8 +28,6 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/15/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
-Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,1/9/25
-Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Preventive Maintenance Inspection,1/12/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Minor Repair,1/10/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/3/25
