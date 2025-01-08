@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,1/10/25
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Minor Repair,1/9/25
 Court House,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/10/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -13,10 +12,9 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Minor Repair,1/10/25
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Preventive Maintenance Inspection,1/10/25
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Major Repair,1/13/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,1/10/25
 Greensboro,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,1/10/25
 Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,1/12/25
-Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Minor Repair,1/10/25
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,1/10/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 McLean,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,1/10/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
