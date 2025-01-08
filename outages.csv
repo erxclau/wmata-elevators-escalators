@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,1/10/25
-Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,1/10/25
 Capitol South,ESC / Escalator between mezzanine and platform,Service Call,1/10/25
+Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Walker,1/10/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Other,1/10/25
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Preventive Maintenance Inspection,1/16/25
 Court House,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/10/25
@@ -17,7 +17,6 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Minor Repair,1/10/25
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Preventive Maintenance Inspection,1/10/25
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Major Repair,1/13/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Preventive Maintenance Inspection,1/10/25
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Minor Repair,1/10/25
 Greensboro,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,1/10/25
