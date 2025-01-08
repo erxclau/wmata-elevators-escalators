@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
-Clarendon,ELE / Elevator between street and mezzanine,Other,1/10/25
+Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,1/10/25
+Clarendon,ELE / Elevator between street and mezzanine,Safety Inspection,1/10/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,1/10/25
