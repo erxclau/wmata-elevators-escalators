@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,1/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,1/10/25
@@ -33,6 +34,7 @@ Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. 
 Takoma,ELE / Elevator between mezzanine and platform,Minor Repair,1/11/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Other,1/11/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/10/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,1/11/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/17/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/17/25
 Wheaton,ESC / Escalator between mezzanine and platform,Major Repair,1/10/25
