@@ -1,9 +1,9 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,1/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,1/10/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
+Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Service Call,1/11/25
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Other,1/11/25
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Inspection Repair,1/10/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -32,6 +32,7 @@ Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,1/
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,1/11/25
+Spring Hill,ESC / Escalator - south entry pavilion,Service Call,1/11/25
 Takoma,ELE / Elevator between mezzanine and platform,Minor Repair,1/11/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Other,1/11/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/10/25
