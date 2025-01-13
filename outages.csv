@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Benning Road,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/15/25
-Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/15/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,1/14/25
@@ -36,4 +35,5 @@ Vienna/Fairfax-GMU,ELE / Garage,Minor Repair,1/14/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Walker,1/17/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,1/17/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/12/25
+Virginia Square-GMU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/18/25
 Waterfront,ESC / Escalator between street and mezzanine,Safety Inspection,1/14/26
