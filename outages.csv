@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Benning Road,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/30/25
 Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/15/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -11,6 +10,7 @@ Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,1/1
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,1/15/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,1/14/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Safety Inspection,1/14/25
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Major Repair,1/15/25
@@ -27,7 +27,6 @@ Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Ent
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,1/14/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Service Call,1/14/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Preventive Maintenance Inspection,1/26/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,1/14/25
