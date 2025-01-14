@@ -3,13 +3,10 @@ Ballston-MU,ESC / Escalator between street and middle landing,Preventive Mainten
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/16/25
 Benning Road,ESC / Escalator between mezzanine and platform,Safety Inspection,1/16/25
 College Park-U of Md,ELE / Garage elevator,Service Call,1/16/25
-Court House,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/16/25
-Court House,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/16/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Major Repair,1/20/25
-Eastern Market,ESC / Escalator between street and mezzanine,Inspection Repair,1/16/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Major Repair,1/20/25
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,1/19/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/20/25
@@ -41,7 +38,9 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shady Grove,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/16/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Walker,1/16/25
 Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,1/22/25
+Spring Hill,ESC / Escalator - north entry pavilion,Walker,1/16/25
 Takoma,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/17/25
+Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Service Call,1/16/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/15/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,1/16/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/12/25
