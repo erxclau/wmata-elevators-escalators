@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/16/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Other,1/16/25
+Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,2/5/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
@@ -25,7 +26,6 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Preventive Maintenance Inspection,1/16/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Other,
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,1/16/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
@@ -37,4 +37,3 @@ Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,1/16/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/12/25
 Wheaton,ELE / Elevator between mezzanine and platform,Service Call,1/16/25
-Wheaton,ELE / Garage elevator,Service Call,1/16/25
