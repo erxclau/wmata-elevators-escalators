@@ -1,5 +1,7 @@
 station,type_location,reason,estimated_return_to_service
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Preventive Maintenance Inspection,1/18/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Inspection Repair,1/15/25
+Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,1/13/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
@@ -15,12 +17,14 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Lin
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,1/17/25
+Morgan Boulevard,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/9/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
-Pentagon,ELE / Elevator between the bus bay and the mezzanine,Service Call,1/15/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,1/14/25
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Minor Repair,1/15/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
+Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Preventive Maintenance Inspection,1/13/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/15/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/12/25
