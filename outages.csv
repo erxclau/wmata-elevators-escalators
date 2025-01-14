@@ -1,8 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/16/25
-Benning Road,ESC / Escalator between mezzanine and platform,Safety Inspection,1/16/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Other,1/16/25
-Capitol South,ESC / Escalator between mezzanine and platform,Service Call,1/16/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
@@ -40,4 +38,3 @@ Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, 
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/12/25
 Wheaton,ELE / Elevator between mezzanine and platform,Service Call,1/16/25
 Wheaton,ELE / Garage elevator,Service Call,1/16/25
-Wiehle-Reston East,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,
