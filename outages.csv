@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Inspection Repair,1/17/25
+Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,1/17/25
 Court House,ELE / Elevator between street and mezzanine,Safety Inspection,1/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -8,8 +8,8 @@ Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Minor Repa
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,1/17/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Other,1/17/25
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,1/17/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,1/17/25
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Service Call,1/17/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,1/17/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Major Repair,1/20/25
 Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,1/17/25
@@ -22,6 +22,7 @@ Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Other,1/17/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Service Call,1/17/25
+McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Other,1/17/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,1/17/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
