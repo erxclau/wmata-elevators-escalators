@@ -4,17 +4,17 @@ Court House,ELE / Elevator between street and mezzanine,Safety Inspection,1/17/2
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Deanwood,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/17/25
-Deanwood,ESC / Escalator between street and mezzanine,Walker,1/17/25
 Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Minor Repair,1/17/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,1/17/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Other,1/17/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,1/17/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Service Call,1/17/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,1/17/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Major Repair,1/20/25
 Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,1/17/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/20/25
-Forest Glen,ELE / Elevator between mezzanine and platform,Service Call,1/17/25
+Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,1/17/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
@@ -36,4 +36,5 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Takoma,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/17/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/12/25
 Waterfront,ESC / Escalator between street and mezzanine,Inspection Repair,1/15/25
+Waterfront,ESC / Escalator between mezzanine and platform,Service Call,1/17/25
 West Hyattsville,ELE / Elevator between mezzanine and platform to Greenbelt,Minor Repair,1/17/25
