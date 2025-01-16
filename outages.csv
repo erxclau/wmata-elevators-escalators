@@ -1,14 +1,12 @@
 station,type_location,reason,estimated_return_to_service
-Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,1/17/25
-Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,1/17/25
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,1/17/25
+Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Other,1/17/25
 Court House,ELE / Elevator between street and mezzanine,Safety Inspection,1/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Minor Repair,1/17/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,1/17/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Other,1/17/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,1/17/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Minor Repair,1/17/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Major Repair,1/20/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/20/25
@@ -16,26 +14,29 @@ Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,1/17/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,1/17/25
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,1/17/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,1/17/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Service Call,1/17/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Other,1/17/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Other,1/17/25
-McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,1/17/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,1/17/25
-Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,1/17/25
-Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,1/17/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Service Call,1/17/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon,ESC / Escalator between upper and lower platforms,Major Repair,1/17/25
-Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,1/17/25
+Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Service Call,1/17/25
+Rockville,ESC / Escalator between mezzanine and platform,Service Call,1/17/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Takoma,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/17/25
+Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,1/17/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/12/25
+Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Service Call,1/17/25
 Waterfront,ESC / Escalator between street and mezzanine,Inspection Repair,1/15/25
 Waterfront,ESC / Escalator between mezzanine and platform,Minor Repair,1/17/25
-West Hyattsville,ELE / Elevator between mezzanine and platform to Greenbelt,Minor Repair,1/17/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,1/17/25
