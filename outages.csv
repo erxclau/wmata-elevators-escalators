@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Ballston-MU,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,1/18/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Service Call,1/20/25
 Court House,ELE / Elevator between street and mezzanine,Safety Inspection,1/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
@@ -16,11 +15,11 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,1/17/25
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,1/18/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,1/17/25
 McLean,ELE / Elevator between mezzanine and platform,Safety Inspection,1/18/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,1/18/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,1/18/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
