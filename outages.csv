@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Service Call,1/19/25
 Braddock Road,ELE / Elevator between mezzanine and platform,Minor Repair,1/19/25
-Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Other,1/19/25
+Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,1/19/25
 College Park-U of Md,ELE / Elevator between mezzanine and platform,Minor Repair,1/18/25
 Court House,ELE / Elevator between street and mezzanine,Safety Inspection,1/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
@@ -20,6 +20,8 @@ Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entra
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,1/19/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Walker,1/19/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,1/19/25
+McLean,ELE / Elevator - south entry pavilion,Service Call,1/19/25
+McLean,ELE / Elevator - south entry pavilion,Service Call,1/19/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,1/19/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Major Repair,1/18/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
@@ -32,10 +34,9 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Major Repair,1/18/25
-Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Service Call,1/19/25
+Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Minor Repair,1/19/25
 Stadium-Armory,ESC / Escalator between street and mezzanine D.C. General Hospital Entrance,Service Call,1/19/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,1/18/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,1/18/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between street and mezzanine,Inspection Repair,1/19/26
+West Falls Church,ELE / Garage elevator,Service Call,1/19/25
