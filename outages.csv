@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
-Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,1/19/25
+Braddock Road,ELE / Elevator between mezzanine and platform,Service Call,1/19/25
+Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,1/19/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Other,1/19/25
 College Park-U of Md,ELE / Elevator between mezzanine and platform,Minor Repair,1/18/25
 Court House,ELE / Elevator between street and mezzanine,Safety Inspection,1/17/25
@@ -9,7 +10,6 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Major Repair,1/19/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/20/25
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Other,1/18/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
@@ -26,7 +26,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
-Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,1/19/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Major Repair,1/18/25
