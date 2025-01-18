@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,1/20/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,1/20/25
@@ -20,11 +19,13 @@ Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Av
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Service Call,1/20/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Other,1/20/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,1/19/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Other,1/19/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,1/20/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,1/19/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Preventive Maintenance Inspection,1/21/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon,ESC / Escalator between upper and lower platforms,Service Call,1/20/25
@@ -35,8 +36,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,1/19/25
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Service Call,1/19/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Minor Repair,1/19/25
-Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,1/20/25
-Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,1/20/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 West Falls Church,ELE / Garage elevator,Service Call,1/19/25
