@@ -2,7 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,1/20/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Service Call,1/20/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
-Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,1/20/25
+Crystal City,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,1/20/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
@@ -29,5 +29,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/2
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Safety Inspection,1/20/25
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Service Call,1/19/25
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Service Call,1/20/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
