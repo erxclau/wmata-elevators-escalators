@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,1/20/25
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Service Call,1/20/25
 Court House,ELE / Elevator between street and mezzanine,Service Call,1/20/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Minor Repair,1/20/25
@@ -19,6 +20,7 @@ Greenbelt,ELE / Elevator between mezzanine and platform,Minor Repair,1/20/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,1/17/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/18/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Service Call,1/20/25
+McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Service Call,1/20/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Other,1/19/25
@@ -27,6 +29,7 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,1/20/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,1/20/25
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Minor Repair,1/19/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,1/20/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
