@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,1/20/25
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Service Call,1/20/25
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/21/25
 Court House,ELE / Elevator between street and mezzanine,Service Call,1/20/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Minor Repair,1/20/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
@@ -10,6 +11,7 @@ Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Lar
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,1/20/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Service Call,1/20/25
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,1/21/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/20/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -17,6 +19,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,1/20/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,1/20/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,1/21/25
+Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,1/21/25
 Greenbelt,ELE / Elevator between mezzanine and platform,Minor Repair,1/20/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,1/17/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/18/25
