@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,1/21/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,1/21/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Other,1/21/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -28,7 +27,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
-Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,1/21/25
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,1/21/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Wheaton,ELE / Garage elevator,Safety Inspection,1/20/25
