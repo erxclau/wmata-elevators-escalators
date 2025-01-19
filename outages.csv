@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,1/20/25
-Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Service Call,1/20/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/21/25
 Court House,ELE / Elevator between street and mezzanine,Service Call,1/20/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Major Repair,1/20/25
@@ -35,10 +34,10 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,1/20/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,1/20/25
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Minor Repair,1/19/25
-Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,1/20/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/7/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,1/20/25
+Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,1/21/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Wheaton,ELE / Garage elevator,Safety Inspection,1/20/25
