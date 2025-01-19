@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,1/21/25
-Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Other,1/21/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -13,7 +12,6 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/10/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,1/20/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,1/20/25
-Greenbelt,ELE / Elevator between mezzanine and platform,Minor Repair,1/20/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,1/17/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/18/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,1/20/25
@@ -33,4 +31,5 @@ Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Wheaton,ELE / Garage elevator,Safety Inspection,1/20/25
+Wheaton,ESC / Escalator between mezzanine and platform,Other,1/21/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/20/25
