@@ -1,10 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,1/21/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,1/21/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/20/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
-Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,1/20/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/11/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,1/21/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/20/25
@@ -19,9 +17,7 @@ Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor R
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,1/21/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,1/21/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Other,1/19/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,1/21/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/3/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/10/25
@@ -30,6 +26,4 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,1/21/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-Wheaton,ELE / Garage elevator,Safety Inspection,1/20/25
-Wheaton,ESC / Escalator between mezzanine and platform,Other,1/21/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/20/25
