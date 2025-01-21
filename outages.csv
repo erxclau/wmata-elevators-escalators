@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,1/23/25
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,1/23/25
 Benning Road,ELE / Elevator between mezzanine and platform,Minor Repair,1/23/25
 College Park-U of Md,ELE / Garage elevator,Minor Repair,1/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
@@ -24,7 +23,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,1/23/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
-Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Service Call,1/23/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,1/23/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,1/24/25
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Service Call,1/23/25
@@ -45,4 +43,5 @@ Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, 
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/24/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Wheaton,ELE / Elevator between mezzanine and platform,Service Call,1/23/25
+Wheaton,ESC / Escalator between mezzanine and platform,Other,1/23/25
 Wiehle-Reston East,ELE / Elevator - south entry pavilion,Service Call,1/23/25
