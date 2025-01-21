@@ -1,12 +1,10 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,1/23/25
 Benning Road,ELE / Elevator between mezzanine and platform,Minor Repair,1/23/25
 College Park-U of Md,ELE / Garage elevator,Minor Repair,1/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,1/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
-Eastern Market,ESC / Escalator between street and mezzanine,Service Call,1/23/25
 Federal Center SW,ELE / Elevator between mezzanine and platform,Minor Repair,1/23/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/24/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -37,6 +35,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/2
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
 Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Major Repair,1/23/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Service Call,1/23/25
+Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,1/23/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/23/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,1/23/25
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,1/23/25
