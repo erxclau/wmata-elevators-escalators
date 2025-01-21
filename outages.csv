@@ -1,8 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/22/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,1/21/25
-Crystal City,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,1/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
+Crystal City,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,1/10/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,1/23/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,1/22/25
@@ -10,6 +10,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,1/22/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/24/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/22/25
+Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,1/23/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,1/23/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
