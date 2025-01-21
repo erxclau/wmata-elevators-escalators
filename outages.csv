@@ -1,8 +1,7 @@
 station,type_location,reason,estimated_return_to_service
-Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/23/25
+Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,1/23/25
 College Park-U of Md,ELE / Garage elevator,Minor Repair,1/23/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,1/23/25
-Congress Heights,ESC / Escalator between mezzanine and platform,Other,2/20/25
 Court House,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -21,7 +20,7 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Gro
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,1/24/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/24/25
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,1/23/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,1/23/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,1/23/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,1/23/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
@@ -30,15 +29,13 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Other,1/24/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/14/25
-New Carrollton,ESC / Escalator between mezzanine and platform,Minor Repair,1/23/25
-North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Preventive Maintenance Inspection,1/23/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/14/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Other,1/23/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
-Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Service Call,1/23/25
+Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Minor Repair,1/23/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Service Call,1/23/25
-Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,1/23/25
+Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,1/23/25
 Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,1/22/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/24/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
