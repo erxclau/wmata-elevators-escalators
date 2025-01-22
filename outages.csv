@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,1/24/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,1/24/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,1/24/25
+Cleveland Park,ELE / Elevator between mezzanine and platform,Service Call,1/24/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,1/27/25
@@ -14,13 +15,15 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,1/27/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,1/24/25
+Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,1/24/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,1/24/25
-Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Other,1/24/25
+Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Service Call,1/24/25
+Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,1/24/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,1/27/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/27/25
-Innovation Center,ESC / Escalator - betweeen mezzanine and platform Innovation Center,Service Call,1/24/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont Building Museum Entrance,Minor Repair,1/24/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,1/24/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,1/24/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,1/24/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,1/24/25
@@ -43,5 +46,6 @@ Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesvil
 Silver Spring Transit Center,ESC / Escalator - between Level 3 and Level 2,Preventive Maintenance Inspection,1/24/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Walker,1/24/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,1/24/25
+Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Preventive Maintenance Inspection,1/24/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/27/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
