@@ -1,14 +1,14 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,1/23/25
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,1/23/25
 Benning Road,ELE / Elevator between mezzanine and platform,Minor Repair,1/23/25
+Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Preventive Maintenance Inspection,1/19/25
 Congress Heights,ELE / Elevator between mezzanine and street,Service Call,1/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,1/23/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,1/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Eastern Market,ESC / Escalator between street and mezzanine,Service Call,1/23/25
-Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Service Call,1/23/25
 Federal Center SW,ELE / Elevator between mezzanine and platform,Minor Repair,1/23/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,1/24/25
 Franconia-Springfield,ELE / Garage elevator,Service Call,1/23/25
@@ -25,6 +25,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,1/23/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,1/24/25
+Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Preventive Maintenance Inspection,1/23/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/14/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/14/25
