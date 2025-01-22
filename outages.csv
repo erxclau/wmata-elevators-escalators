@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,1/23/25
 Benning Road,ELE / Elevator between mezzanine and platform,Minor Repair,1/23/25
+Branch Ave,ESC / Escalator between mezzanine and platform,Service Call,1/23/25
 Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Preventive Maintenance Inspection,1/19/25
 Congress Heights,ELE / Elevator between mezzanine and street,Service Call,1/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
@@ -29,6 +30,7 @@ Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/14/25
 North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Service Call,1/23/25
+North Bethesda,ESC / Escalator between mezzanine and platform,Service Call,1/23/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/14/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
