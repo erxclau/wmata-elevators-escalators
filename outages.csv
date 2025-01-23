@@ -1,11 +1,14 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,1/25/25
+Columbia Heights,ELE / Elevator between mezzanine and platform,Service Call,1/25/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,1/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,1/27/25
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Other,1/25/25
 Federal Center SW,ELE / Elevator between mezzanine and platform,Minor Repair,1/27/25
+Federal Center SW,ESC / Escalator between street and mezzanine,Service Call,1/25/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,1/25/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -28,6 +31,8 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,1/27/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Minor Repair,1/25/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Minor Repair,1/27/25
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/25/25
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,1/25/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 North Bethesda,ESC / Escalator between mezzanine and platform,Service Call,1/25/25
@@ -39,7 +44,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,1/25/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Walker,1/24/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Other,1/27/25
-Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,1/25/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/27/25
 Van Ness-UDC,ELE / Elevator between street and mezzanine,Safety Inspection,1/25/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
