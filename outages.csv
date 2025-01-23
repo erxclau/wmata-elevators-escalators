@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Preventive Maintenance Inspection,1/25/25
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,1/25/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -34,6 +33,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 North Bethesda,ESC / Escalator between mezzanine and platform,Service Call,1/25/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Minor Repair,1/27/25
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,1/25/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Walker,1/24/25
@@ -41,7 +41,7 @@ Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesvil
 Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,1/25/25
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Preventive Maintenance Inspection,1/24/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/27/25
-Van Ness-UDC,ELE / Elevator between street and mezzanine,Other,1/25/25
+Van Ness-UDC,ELE / Elevator between street and mezzanine,Safety Inspection,1/25/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,1/27/25
 West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,1/27/25
