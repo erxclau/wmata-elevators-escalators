@@ -1,18 +1,16 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,1/27/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,1/27/25
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Minor Repair,1/27/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,1/27/25
 Brookland-CUA,ELE / Elevator between mezzanine and platform,Service Call,1/27/25
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,1/27/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,1/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,1/27/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,1/27/25
 Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Huntington,Safety Inspection,1/27/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,1/27/25
-Franconia-Springfield,ELE / Garage elevator,Minor Repair,1/26/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
@@ -27,6 +25,7 @@ Glenmont,ELE / Garage elevator,Minor Repair,1/27/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,1/27/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/27/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,1/27/25
 McLean,ELE / Elevator between mezzanine and platform,Service Call,1/27/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,1/27/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
