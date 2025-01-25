@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Brookland-CUA,ELE / Elevator between mezzanine and platform,Service Call,1/27/25
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,1/27/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,1/27/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
@@ -35,6 +36,7 @@ Pentagon City,"ESC / Escalator between street and mezzanine on east side of Haye
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Minor Repair,1/27/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Other,1/27/25
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Minor Repair,1/26/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/27/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
