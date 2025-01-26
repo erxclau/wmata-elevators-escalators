@@ -1,8 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Minor Repair,1/27/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,1/27/25
-Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Service Call,1/27/25
-Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Service Call,1/28/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between street and middle landing,Minor Repair,1/27/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -15,7 +12,6 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,1/28/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,1/28/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Inspection Repair,1/27/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,1/26/25
 Glenmont,ELE / Garage elevator,Minor Repair,1/27/25
@@ -47,7 +43,6 @@ Tysons,ESC / Escalator - between intermidiat level to grade/street,Minor Repair,
 Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,1/27/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/27/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-Waterfront,ESC / Escalator between street and mezzanine,Walker,1/27/25
 Waterfront,ESC / Escalator between street and mezzanine,Walker,1/27/25
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,3/3/25
 West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Other,1/27/25
