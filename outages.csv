@@ -2,10 +2,8 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Minor Repair,1/27/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
-Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,1/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Eastern Market,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/3/25
-Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Preventive Maintenance Inspection,1/25/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
@@ -27,8 +25,6 @@ Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Walker,1/27/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Major Repair,1/27/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,1/26/25
-Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Minor Repair,1/28/25
-Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Minor Repair,1/28/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
@@ -38,7 +34,6 @@ Rosslyn,"ELE / Elevator between street, and upper platform",Safety Inspection,1/
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Preventive Maintenance Inspection,1/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
-Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Preventive Maintenance Inspection,1/30/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Other,1/28/25
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Minor Repair,1/26/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/27/25
