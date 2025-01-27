@@ -1,11 +1,12 @@
 station,type_location,reason,estimated_return_to_service
+Addison Road-Seat Pleasant,ELE / Garage elevator,Service Call,1/29/25
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Minor Repair,1/27/25
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,1/29/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Service Call,1/29/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Preventive Maintenance Inspection,2/1/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
-Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,1/29/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Service Call,1/29/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -14,7 +15,6 @@ Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,1/28/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Inspection Repair,1/27/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,1/26/25
-Glenmont,ELE / Garage elevator,Minor Repair,1/27/25
 Glenmont,ELE / Garage elevator,Minor Repair,1/27/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,1/27/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/27/25
@@ -31,7 +31,6 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 North Bethesda,ESC / Escalator between mezzanine and platform,Service Call,1/29/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
-Pentagon,ESC / Escalator between upper and lower platforms,Preventive Maintenance Inspection,1/29/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Minor Repair,1/26/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Safety Inspection,1/28/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
