@@ -1,6 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Other,1/31/25
+Ballston-MU,ELE / Elevator between street and mezzanine to Vienna,Service Call,1/29/25
 Brookland-CUA,ELE / Elevator between mezzanine and platform,Service Call,1/29/25
+Brookland-CUA,ESC / Escalator between mezzanine and platform,Other,1/29/25
 Cheverly,ESC / Escalator between street and mezzanine,Walker,1/29/25
 Cheverly,ESC / Escalator between street and mezzanine,Minor Repair,1/29/25
 Cleveland Park,ELE / Elevator between mezzanine and platform,Service Call,1/29/25
@@ -41,5 +43,4 @@ Tysons,ESC / Escalator - between intermidiat level to grade/street,Minor Repair,
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,1/29/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,1/31/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Preventive Maintenance Inspection,1/28/25
 Wheaton,ELE / Elevator between mezzanine and platform,Minor Repair,1/29/25
