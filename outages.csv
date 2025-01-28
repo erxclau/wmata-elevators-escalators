@@ -1,6 +1,8 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,1/30/25
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Other,1/31/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,1/30/25
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/30/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/30/25
 Brookland-CUA,ELE / Elevator between mezzanine and platform,Minor Repair,1/29/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Other,1/30/25
@@ -29,6 +31,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Minor Repair,1/31/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,1/31/25
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,1/30/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,1/29/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
