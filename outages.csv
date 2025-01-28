@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,1/28/25
 Brookland-CUA,ELE / Elevator between mezzanine and platform,Minor Repair,1/31/25
-Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Other,1/30/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,2/3/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Service Call,1/30/25
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Safety Inspection,1/30/25
@@ -10,7 +9,6 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,1/30/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,1/30/25
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Service Call,1/30/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,1/30/25
 Foggy Bottom-GWU,ELE / Elevator between mezzanine and platform,Inspection Repair,1/30/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Scheduled Support,1/29/25
@@ -30,6 +28,7 @@ Herndon,ESC / Escalator - north entry pavilion Herndon,Safety Inspection,1/30/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/31/25
 L'Enfant Plaza,ELE / Elevator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,1/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Service Call,1/30/25
 Loudoun Gateway,ESC / Escalator - betweeen mezzanine and platform Loudoun Gateway,Preventive Maintenance Inspection,2/2/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,1/30/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,1/30/25
@@ -43,6 +42,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 New Carrollton,ELE / Garage elevator,Other,1/30/25
 New Carrollton,ELE / Garage elevator,Other,1/30/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,1/30/25
 Potomac Ave,ELE / Elevator between mezzanine and platform,Safety Inspection,1/30/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Other,1/30/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/30/25
