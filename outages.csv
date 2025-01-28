@@ -1,21 +1,20 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,1/30/25
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Other,1/31/25
-Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,1/30/25
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/30/25
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/30/25
 Brookland-CUA,ELE / Elevator between mezzanine and platform,Minor Repair,1/31/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Other,1/30/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Other,1/31/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,1/30/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,1/30/25
 Foggy Bottom-GWU,ELE / Elevator between mezzanine and platform,Inspection Repair,1/30/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Scheduled Support,1/29/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
+Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,1/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,1/29/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Inspection Repair,2/3/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Walker,1/30/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,1/26/25
@@ -23,7 +22,7 @@ Glenmont,ELE / Garage elevator,Other,1/27/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,2/3/25
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Preventive Maintenance Inspection,1/30/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/31/25
-Judiciary Square,ELE / Elevator between street and platform to Shady Grove Building Museum Entrance,Service Call,1/30/25
+L'Enfant Plaza,ELE / Elevator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,1/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,1/30/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
@@ -34,6 +33,9 @@ Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and plat
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Other,1/31/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,1/30/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,1/30/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,1/30/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Safety Inspection,1/31/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,1/30/25
@@ -48,3 +50,5 @@ Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. En
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,1/30/25
 Wheaton,ELE / Garage elevator,Minor Repair,1/30/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Other,1/30/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Other,1/30/25
