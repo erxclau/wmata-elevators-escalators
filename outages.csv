@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,1/29/25
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Other,1/31/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,1/30/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,1/30/25
@@ -14,7 +13,6 @@ Forest Glen,ELE / Elevator between mezzanine and platform,Scheduled Support,1/29
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
-Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Safety Inspection,1/29/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,1/29/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,1/29/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Inspection Repair,1/31/25
@@ -23,6 +21,8 @@ Glenmont,ELE / Garage elevator,Other,1/27/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,2/3/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/31/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,1/29/25
+Judiciary Square,ELE / Elevator between street and platform to Shady Grove Building Museum Entrance,Service Call,1/30/25
+Judiciary Square,ELE / Elevator between street and platform to Glenmont Building Museum Entrance,Service Call,1/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,1/30/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
