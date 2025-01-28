@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,1/30/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,1/28/25
 Brookland-CUA,ELE / Elevator between mezzanine and platform,Minor Repair,1/31/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Other,1/30/25
@@ -19,6 +18,7 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,1/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,1/30/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Inspection Repair,2/3/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Walker,1/30/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,1/26/25
@@ -38,6 +38,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Other,2/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,1/31/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,1/30/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 New Carrollton,ELE / Garage elevator,Other,1/30/25
 New Carrollton,ELE / Garage elevator,Other,1/30/25
@@ -45,7 +46,6 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Potomac Ave,ELE / Elevator between mezzanine and platform,Safety Inspection,1/30/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Other,1/30/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,1/30/25
-Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,1/30/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,1/30/25
