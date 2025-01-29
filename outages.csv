@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,1/30/25
-Ballston-MU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,1/31/25
 Brookland-CUA,ELE / Elevator between mezzanine and platform,Service Call,1/31/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,1/31/25
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Preventive Maintenance Inspection,2/2/25
@@ -24,7 +23,10 @@ Glenmont,ELE / Garage elevator,Other,1/27/25
 Greenbelt,ESC / Escalator between mezzanine and platform,Major Repair,2/3/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,1/31/25
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,1/31/25
+L'Enfant Plaza,ELE / Elevator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,1/31/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
+Landover,ESC / Escalator between mezzanine and platform,Other,1/31/25
+Landover,ESC / Escalator between mezzanine and platform,Service Call,1/31/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Other,2/3/25
@@ -34,7 +36,7 @@ Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,1/30/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
-NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Service Call,1/30/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,1/31/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,1/31/25
 Potomac Ave,ELE / Elevator between mezzanine and platform,Safety Inspection,1/31/25
