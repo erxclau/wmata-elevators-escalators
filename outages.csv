@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,2/3/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,1/31/25
-Clarendon,ESC / Escalator between street and middle landing/tunnel,Preventive Maintenance Inspection,2/2/25
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Safety Inspection,2/28/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -29,8 +28,6 @@ Landover,ESC / Escalator between mezzanine and platform,Major Repair,1/31/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Other,2/3/25
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,1/31/25
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,1/31/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,1/31/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
