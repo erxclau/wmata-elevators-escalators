@@ -2,9 +2,9 @@ station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,2/6/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,2/4/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,2/1/25
-Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,2/6/25
 College Park-U of Md,ELE / Garage elevator,Service Call,2/1/25
 College Park-U of Md,ELE / Garage elevator,Service Call,2/1/25
+Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Preventive Maintenance Inspection,2/2/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,2/3/25
@@ -34,7 +34,6 @@ Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Minor Repair,2/1/25
-North Bethesda,ELE / Elevator between mezzanine and platform,Safety Inspection,3/1/25
 North Bethesda,ESC / Escalator between mezzanine and platform,Service Call,1/31/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
 Potomac Ave,ELE / Elevator between mezzanine and platform,Safety Inspection,2/3/25
