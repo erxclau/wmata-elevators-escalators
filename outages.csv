@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,2/6/25
+Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,2/4/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,2/1/25
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,2/6/25
 College Park-U of Md,ELE / Garage elevator,Service Call,2/1/25
@@ -11,7 +12,6 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Downtown Largo,ELE / Elevator between north garage and mezzanine,Service Call,2/1/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,2/1/25
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,2/1/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,2/7/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -31,7 +31,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Other,2/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/3/25
-Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,2/1/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Minor Repair,2/1/25
