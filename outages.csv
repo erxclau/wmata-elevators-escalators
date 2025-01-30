@@ -1,10 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,2/6/25
-Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,2/4/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,2/1/25
 College Park-U of Md,ELE / Garage elevator,Minor Repair,2/1/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,2/1/25
-Congress Heights,ESC / Escalator between mezzanine and buses/parking,Safety Inspection,2/28/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,1/31/25
@@ -12,6 +10,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,2/1/25
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Service Call,2/1/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,2/7/25
+Franconia-Springfield,ELE / Garage elevator,Minor Repair,2/1/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
