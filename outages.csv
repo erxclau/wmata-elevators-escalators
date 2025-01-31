@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Clarendon,ELE / Elevator between mezzanine and platform to New Carrolton,Service Call,2/2/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Minor Repair,2/2/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -6,6 +7,7 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,2/1/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Service Call,2/2/25
+Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Service Call,2/2/25
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Service Call,2/2/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/2/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
