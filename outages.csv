@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,2/2/25
+Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Service Call,2/2/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,2/1/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -28,11 +29,13 @@ Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,2/2/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Other,2/1/25
 Tysons,ELE / Elevator - south entry pavilion,Water Leak/Intrusion,2/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
+Waterfront,ESC / Escalator between street and mezzanine,Service Call,2/2/25
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,2/2/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,2/2/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Other,2/1/25
