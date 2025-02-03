@@ -1,14 +1,17 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,2/3/25
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,2/5/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,2/7/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Scheduled Support,2/5/25
+East Falls Church,ELE / Elevator between mezzanine and platform,Service Call,2/5/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,2/3/25
 Foggy Bottom-GWU,ELE / Elevator between street and mezzanine,Minor Repair,2/4/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/2/25
+Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,2/5/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
@@ -19,12 +22,14 @@ Glenmont,ELE / Garage elevator,Other,1/27/25
 Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Preventive Maintenance Inspection,2/5/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,2/5/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-Landover,ESC / Escalator between mezzanine and platform,Other,2/4/25
+Landover,ESC / Escalator between mezzanine and platform,Service Call,2/5/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/5/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,1/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
+Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Service Call,2/5/25
+New Carrollton,ESC / Escalator between mezzanine and platform,Service Call,2/5/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,2/4/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,2/6/25
