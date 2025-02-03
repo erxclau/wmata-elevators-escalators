@@ -1,7 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Walker,2/5/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,2/7/25
-Congress Heights,ESC / Escalator between mezzanine and platform,Safety Inspection,2/5/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/7/25
@@ -38,4 +36,3 @@ Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,2/7/25
 Waterfront,ESC / Escalator between mezzanine and platform,Minor Repair,2/7/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,2/5/25
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Other,2/5/25
