@@ -2,8 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Walker,2/5/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,2/7/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,2/5/25
-Capitol South,ESC / Escalator between mezzanine and platform,Other,2/5/25
-College Park-U of Md,ELE / Garage elevator,Service Call,2/5/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Safety Inspection,2/5/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -15,6 +13,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Other,2/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,2/7/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Scheduled Support,2/5/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Walker,2/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Service Call,2/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Walker,2/5/25
 Foggy Bottom-GWU,ELE / Elevator between street and mezzanine,Minor Repair,2/7/25
