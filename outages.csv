@@ -1,6 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,2/6/25
-College Park-U of Md,ELE / Garage elevator,Other,2/6/25
+College Park-U of Md,ELE / Garage elevator,Safety Inspection,2/6/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Safety Inspection,2/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -36,4 +36,4 @@ Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of W
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,2/7/25
 Waterfront,ESC / Escalator between mezzanine and platform,Walker,2/7/25
-Wheaton,ESC / Escalator between mezzanine and platform,Other,2/7/25
+Wheaton,ESC / Escalator between mezzanine and platform,Major Repair,2/7/25
