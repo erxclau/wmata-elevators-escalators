@@ -1,8 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,2/5/25
-Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/6/25
 Bethesda,ELE / Elevator between mezzanine and platform,Service Call,2/6/25
 Clarendon,ELE / Elevator between street and mezzanine,Service Call,2/5/25
+Court House,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,2/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/7/25
@@ -50,5 +50,4 @@ Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,2/6/25
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,2/7/25
 Waterfront,ESC / Escalator between mezzanine and platform,Minor Repair,2/7/25
-West Falls Church,ESC / Escalator between mezzanine and platform to New Carrolton,Minor Repair,2/5/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,2/5/25
