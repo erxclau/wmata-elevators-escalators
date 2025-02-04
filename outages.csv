@@ -1,13 +1,12 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,2/6/25
+College Park-U of Md,ELE / Garage elevator,Other,2/6/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Safety Inspection,2/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/7/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Major Repair,2/6/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Walker,2/6/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,2/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Scheduled Support,2/5/25
 Foggy Bottom-GWU,ELE / Elevator between street and mezzanine,Minor Repair,2/6/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/7/25
@@ -17,9 +16,9 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,2/6/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Minor Repair,2/7/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,2/7/25
-Glenmont,"ELE / Elevator between street and mezzanine, west side of station at Kiss & Ride",Minor Repair,2/6/25
 Glenmont,ELE / Garage elevator,Other,2/14/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Major Repair,2/7/25
+Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont Building Museum Entrance,Service Call,2/6/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
