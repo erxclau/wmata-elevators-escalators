@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,2/6/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Safety Inspection,2/6/25
-Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/7/25
@@ -16,6 +15,7 @@ Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/7/2
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
+Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Other,2/6/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Major Repair,2/6/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,2/5/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,2/6/25
