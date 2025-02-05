@@ -1,11 +1,10 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Minor Repair,2/10/25
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,2/10/25
+Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Minor Repair,2/7/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,2/7/25
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Service Call,2/7/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
-Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,2/7/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Other,2/7/25
@@ -24,13 +23,10 @@ Greensboro,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspect
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Major Repair,2/10/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 Landover,ESC / Escalator between mezzanine and platform,Service Call,2/7/25
-Loudoun Gateway,ELE / Elevator - between mezzanine and platform Loudoun Gateway,Service Call,2/6/25
-McLean,ESC / Escalator - between mezzanine to grade/street,Minor Repair,2/10/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,2/7/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/10/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,2/7/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 North Bethesda,ESC / Escalator between mezzanine and platform,Safety Inspection,2/7/25
