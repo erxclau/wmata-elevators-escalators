@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Minor Repair,2/6/25
+Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,2/7/25
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Minor Repair,2/7/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -16,12 +17,15 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Minor Repair,2/7/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,2/7/25
 Glenmont,ELE / Garage elevator,Other,2/14/25
+Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Service Call,2/7/25
+Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Service Call,2/7/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Major Repair,2/7/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,2/7/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,2/7/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 Landover,ESC / Escalator between mezzanine and platform,Service Call,2/7/25
 Loudoun Gateway,ELE / Elevator - between mezzanine and platform Loudoun Gateway,Service Call,2/6/25
+McLean,ESC / Escalator - between mezzanine to grade/street,Service Call,2/7/25
 McLean,ESC / Escalator - between mezzanine to grade/street,Minor Repair,2/6/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,2/7/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,2/7/25
@@ -39,7 +43,6 @@ Rhode Island Ave-Brentwood,ELE / Elevator between mezzanine and platform,Service
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Inspection Repair,2/6/25
-Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Safety Inspection,2/6/25
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between mezzanine and platform 13th and U St Entrance,Inspection Repair,2/7/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,2/7/25
