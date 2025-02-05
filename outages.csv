@@ -1,6 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Minor Repair,2/6/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,2/6/25
+Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,2/6/25
+Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,2/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/7/25
@@ -37,7 +39,6 @@ Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Inspection Repair,2/6/25
-Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Preventive Maintenance Inspection,2/8/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between mezzanine and platform,Inspection Repair,2/7/25
 Waterfront,ESC / Escalator between mezzanine and platform,Walker,2/7/25
