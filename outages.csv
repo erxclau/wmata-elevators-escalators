@@ -1,8 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,2/7/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,2/7/25
-Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Minor Repair,2/7/25
-Capitol South,ESC / Escalator between mezzanine and platform,Service Call,2/7/25
 Cheverly,ESC / Escalator between street and mezzanine,Safety Inspection,2/7/25
 Cheverly,ESC / Escalator between street and mezzanine,Other,2/7/25
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,2/7/25
@@ -15,7 +13,6 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q St
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Preventive Maintenance Inspection,2/3/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Minor Repair,2/7/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/10/25
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,2/9/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
@@ -23,9 +20,8 @@ Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Ge
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,2/7/25
 Glenmont,ELE / Garage elevator,Other,2/14/25
 Greensboro,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,2/14/25
-Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,2/7/25
+Herndon,ESC / Escalator - north entry pavilion Herndon,Other,2/7/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,2/7/25
 McLean,ESC / Escalator - between mezzanine to grade/street,Other,2/7/25
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Minor Repair,2/7/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/28/25
