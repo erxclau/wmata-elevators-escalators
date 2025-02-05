@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Minor Repair,2/6/25
-Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,2/7/25
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Minor Repair,2/7/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,3/28/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,3/27/25
@@ -8,7 +7,6 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Eastern Market,ELE / Elevator between street and mezzanine,Service Call,2/6/25
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Preventive Maintenance Inspection,2/7/25
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Preventive Maintenance Inspection,2/7/25
 Foggy Bottom-GWU,ELE / Elevator between street and mezzanine,Minor Repair,2/6/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/7/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Preventive Maintenance Inspection,2/7/25
@@ -29,7 +27,6 @@ McLean,ESC / Escalator - between mezzanine to grade/street,Minor Repair,2/6/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,3/3/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,3/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/7/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Preventive Maintenance Inspection,2/7/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,2/7/25
