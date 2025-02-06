@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,2/8/25
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Walker,2/8/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Preventive Maintenance Inspection,2/8/25
+Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Safety Inspection,2/28/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
@@ -20,11 +21,8 @@ Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at
 Glenmont,ELE / Garage elevator,Other,2/14/25
 Herndon,ESC / Escalator - north entry pavilion Herndon,Other,2/10/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Other,2/8/25
 Landover,ESC / Escalator between mezzanine and platform,Major Repair,2/8/25
 Landover,ESC / Escalator between mezzanine and platform,Other,2/8/25
-McLean,ESC / Escalator - between mezzanine to grade/street,Other,2/10/25
-McLean,ESC / Escalator - between mezzanine and platform,Other,2/8/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/28/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/10/25
@@ -38,9 +36,9 @@ Pentagon City,"ESC / Escalator between street and mezzanine on east side of Haye
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,2/7/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Other,2/7/25
 Rockville,ESC / Escalator between mezzanine and platform,Minor Repair,2/8/25
-Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,2/8/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
+Suitland,ESC / Escalator between mezzanine and platform,Minor Repair,2/8/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Inspection Repair,2/8/25
 Vienna/Fairfax-GMU,ELE / Garage,Service Call,2/8/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
