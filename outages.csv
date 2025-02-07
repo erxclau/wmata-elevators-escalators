@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,2/9/25
-Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Service Call,2/9/25
 Capitol South,ESC / Escalator between mezzanine and platform,Other,2/9/25
 Capitol South,ESC / Escalator between mezzanine and platform,Other,2/9/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
@@ -9,15 +8,14 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Major Repair,2/10/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,2/9/25
+Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Preventive Maintenance Inspection,2/9/25
 Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,2/14/25
-Foggy Bottom-GWU,ELE / Elevator between street and mezzanine,Service Call,2/9/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/10/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,2/10/25
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,2/9/25
-Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,2/10/25
+Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Other,2/10/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Major Repair,2/7/25
 Glenmont,ELE / Garage elevator,Other,2/14/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
@@ -27,7 +25,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/28
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/10/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
-New Carrollton,ESC / Escalator between mezzanine and platform,Service Call,2/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,2/10/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,2/9/25
