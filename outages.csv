@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Walker,2/8/25
 Capitol South,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/8/25
+Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,2/9/25
 College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Preventive Maintenance Inspection,2/9/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Service Call,2/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
@@ -43,7 +44,7 @@ Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-S
 Spring Hill,ESC / Escalator - south entry pavilion,Service Call,2/8/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Safety Inspection,2/8/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Safety Inspection,2/8/25
-U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Minor Repair,2/8/25
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Preventive Maintenance Inspection,2/8/25
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,2/8/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,2/8/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,2/8/25
