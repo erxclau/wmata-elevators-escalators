@@ -1,11 +1,13 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Walker,2/8/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,2/9/25
 Capitol South,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Minor Repair,2/7/25
+Foggy Bottom-GWU,ELE / Elevator between street and mezzanine,Service Call,2/9/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/10/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -19,7 +21,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/28/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/10/25
-Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Preventive Maintenance Inspection,2/9/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,2/10/25
@@ -34,7 +35,6 @@ Spring Hill,ESC / Escalator - south entry pavilion,Service Call,2/8/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Minor Repair,2/8/25
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,2/8/25
-Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/9/25
+Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,2/9/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,2/14/25
