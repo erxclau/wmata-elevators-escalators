@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,2/9/25
-Cleveland Park,ESC / Escalator between mezzanine and platform,Service Call,2/9/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
@@ -11,7 +10,6 @@ Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,2/10/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
-Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,2/9/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Major Repair,2/10/25
 Glenmont,ELE / Garage elevator,Other,2/14/25
@@ -19,6 +17,7 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/28/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/10/25
+Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,2/9/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,2/10/25
@@ -32,7 +31,6 @@ Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Level
 Silver Spring Transit Center,ESC / Escalator - between Level 3 and Level 2,Other,2/9/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/14/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,2/9/25
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,2/9/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,2/9/25
 Vienna/Fairfax-GMU,ELE / Garage,Safety Inspection,2/9/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
