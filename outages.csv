@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,2/9/25
+Ballston-MU,ESC / Escalator between middle landing and mezzanine,Service Call,2/10/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
@@ -31,6 +32,7 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,2/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,2/10/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Other,2/14/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/14/25
