@@ -1,8 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,2/9/25
-Benning Road,ESC / Escalator between mezzanine and platform,Service Call,2/10/25
-Benning Road,ESC / Escalator between mezzanine and platform,Service Call,2/10/25
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Service Call,2/10/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
@@ -22,7 +19,6 @@ McLean,ELE / Elevator between mezzanine and platform,Minor Repair,2/10/25
 McLean,ESC / Escalator - between mezzanine to grade/street,Minor Repair,2/10/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/28/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,2/10/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/10/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
@@ -36,4 +32,5 @@ Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/14/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,2/9/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
+Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Service Call,2/10/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,2/10/25
