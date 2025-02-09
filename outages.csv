@@ -1,10 +1,9 @@
 station,type_location,reason,estimated_return_to_service
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Service Call,2/11/25
-Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,2/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,2/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
+Downtown Largo,ELE / Elevator between south garage and mezzanine,Service Call,2/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Major Repair,2/10/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,2/10/25
