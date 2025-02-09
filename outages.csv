@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,2/9/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,2/10/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
@@ -19,7 +19,7 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,2/11/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,2/10/25
 Glenmont,ELE / Garage elevator,Other,2/14/25
-Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,2/10/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Minor Repair,2/10/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,2/10/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
@@ -29,6 +29,7 @@ Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/28/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/10/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,2/11/25
+Minnesota Ave,ESC / Escalator between mezzanine and platform,Major Repair,2/11/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,2/10/25
@@ -36,9 +37,9 @@ Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),M
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,2/10/25
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Inspection Repair,2/11/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
-Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,2/14/25
+Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,3/17/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Other,2/14/25
-Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/9/25
+Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/14/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/14/25
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,2/9/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,2/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
