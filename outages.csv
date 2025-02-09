@@ -1,16 +1,16 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,2/11/25
-Ballston-MU,ELE / Elevator between street and mezzanine to Vienna,Service Call,2/11/25
+Congress Heights,ESC / Escalator between mezzanine and buses/parking,Inspection Repair,2/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/10/25
-Dupont Circle,ELE / Elevator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,2/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Major Repair,2/10/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,2/10/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,2/10/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
+Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,2/11/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Glenmont,ELE / Garage elevator,Other,2/14/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,2/10/25
@@ -32,7 +32,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/2
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,2/11/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,3/17/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Other,2/14/25
-Takoma,ELE / Elevator between mezzanine and platform,Minor Repair,2/11/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/14/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/14/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,2/11/25
