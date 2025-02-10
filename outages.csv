@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,5/10/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,2/14/25
-Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,2/12/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Safety Inspection,2/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
@@ -17,11 +16,11 @@ Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at
 Glenmont,ELE / Garage elevator,Other,2/14/25
 Huntington,ELE / Inclinator between mezzanine and platform South Kings Hwy Entrance,Minor Repair,2/12/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Service Call,2/12/25
-Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Preventive Maintenance Inspection,2/12/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Minor Repair,2/11/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,2/12/25
+King St-Old Town,ESC / Escalator between mezzanine and platform,Service Call,2/12/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,2/14/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,2/14/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/28/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/28/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/14/25
@@ -39,5 +38,6 @@ Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Preventi
 Suitland,ESC / Escalator between mezzanine and garage,Service Call,2/12/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/14/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/14/25
+Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Walker,2/12/25
+Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,2/12/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-Wiehle-Reston East,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,2/12/25
