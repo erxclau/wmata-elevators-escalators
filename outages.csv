@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,2/13/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Minor Repair,2/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
@@ -7,13 +8,11 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Service Call,2/13/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,2/17/25
-Foggy Bottom-GWU,ELE / Elevator between street and mezzanine,Minor Repair,2/13/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Friendship Heights,ELE / Elevator between street and mezzanine Western Avenue Entrance,Minor Repair,2/13/25
 Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Preventive Maintenance Inspection,2/15/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,2/14/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Inspection Repair,2/14/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,2/12/25
 Glenmont,ELE / Garage elevator,Other,2/17/25
@@ -35,4 +34,5 @@ Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of W
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Walker,2/13/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/14/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/14/25
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,2/13/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
