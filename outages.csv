@@ -1,7 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Minor Repair,2/14/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
-Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Service Call,2/14/25
+Benning Road,ELE / Elevator between mezzanine and platform,Other,3/14/25
+Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Other,2/14/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Walker,2/14/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/18/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
@@ -15,12 +16,12 @@ Federal Center SW,ESC / Escalator between mezzanine and platform,Walker,2/14/25
 Federal Center SW,ESC / Escalator between mezzanine and platform,Service Call,2/14/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
+Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,2/14/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Inspection Repair,2/17/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,2/12/25
 Glenmont,ELE / Garage elevator,Other,2/17/25
-Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Other,2/17/25
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Other,2/14/25
+Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Other,3/31/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,2/17/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/21/25
@@ -28,7 +29,6 @@ Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/21
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,2/14/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,2/13/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Other,2/17/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,2/17/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Modernization,2/17/25
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Preventive Maintenance Inspection,2/20/25
@@ -37,6 +37,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Preventive Maintenance Inspection,2/16/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Other,2/17/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Other,2/14/25
+Southern Avenue,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,2/16/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,2/17/25
 Takoma,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/23/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Inspection Repair,2/17/25
