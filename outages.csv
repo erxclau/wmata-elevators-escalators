@@ -4,7 +4,6 @@ Benning Road,ELE / Elevator between mezzanine and platform,Inspection Repair,2/1
 Capitol Heights,ELE / Elevator between street and mezzanine,Major Repair,2/15/25
 Capitol Heights,ELE / Elevator between mezzanine and platform,Service Call,2/15/25
 Clarendon,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,2/15/25
-Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,2/14/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,2/14/25
@@ -14,7 +13,6 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Stree
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,2/15/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Inspection Repair,2/17/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,2/17/25
 Glenmont,ELE / Garage elevator,Other,2/17/25
@@ -37,12 +35,13 @@ Shady Grove,ELE / Elevator between east side parking/Kiss & Ride and mezzanine,S
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Other,2/17/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Other,2/14/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,2/17/25
-Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,2/14/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Inspection Repair,2/17/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,2/15/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Walker,2/17/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/17/25
 Twinbrook,ESC / Escalator between mezzanine and platform,Inspection Repair,2/14/25
+Tysons,ESC / Escalator - between intermidiat level to grade/street,Service Call,2/15/25
+Tysons,ESC / Escalator - between mezzanine and intermidiat level,Service Call,2/15/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Inspection Repair,2/17/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Preventive Maintenance Inspection,2/15/25
