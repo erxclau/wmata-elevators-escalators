@@ -1,13 +1,13 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
-Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Other,2/15/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,2/15/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Minor Repair,2/15/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Minor Repair,2/15/25
+Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Minor Repair,2/15/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,2/15/25
 Capitol South,ESC / Escalator between street and mezzanine,Other,2/15/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
-Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,2/17/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/17/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Modernization,3/3/25
@@ -35,5 +35,4 @@ Takoma,ESC / Escalator between mezzanine and platform,Minor Repair,2/15/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,2/15/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Walker,2/17/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Inspection Repair,2/17/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,2/15/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
