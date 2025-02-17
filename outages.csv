@@ -1,12 +1,15 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
+Benning Road,ESC / Escalator between mezzanine and platform,Service Call,2/19/25
 Benning Road,ESC / Escalator between mezzanine and platform,Inspection Repair,2/18/25
+Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/19/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Other,2/18/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Inspection Repair,
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Major Repair,2/24/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,2/19/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,2/17/25
 East Falls Church,ELE / Elevator between mezzanine and platform,Service Call,2/19/25
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,2/19/25
@@ -41,6 +44,7 @@ Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Minor
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,2/19/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Water Leak/Intrusion,2/17/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Walker,2/17/25
+Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/19/25
 Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,2/19/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Major Repair,2/24/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,2/18/25
