@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
 Benning Road,ESC / Escalator between mezzanine and platform,Inspection Repair,2/18/25
-Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/19/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Other,2/18/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Other,2/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
@@ -15,6 +14,7 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Other,2/19/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,2/18/25
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Other,2/19/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,2/19/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Walker,2/19/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side Georgia Ave/bus stop",Preventive Maintenance Inspection,2/19/25
@@ -22,7 +22,6 @@ Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at
 Glenmont,ELE / Garage elevator,Other,2/17/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,2/24/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,2/19/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/21/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/21/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
@@ -34,7 +33,6 @@ Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesvil
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Other,2/24/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Water Leak/Intrusion,2/17/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Walker,2/17/25
-Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/19/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Major Repair,2/24/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,2/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
