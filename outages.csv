@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,2/21/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,2/21/25
 Ballston-MU,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,2/21/25
@@ -10,6 +11,7 @@ Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repa
 Court House,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/21/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,2/21/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,2/24/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Minor Repair,2/21/25
@@ -35,7 +37,6 @@ Minnesota Ave,ESC / Escalator between street and mezzanine,Preventive Maintenanc
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Naylor Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/21/25
-Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,2/21/25
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Service Call,2/21/25
 Reston Town Center,ESC / Escalator - south entry pavilion Reston Town Center,Safety Inspection,3/21/25
 Rockville,ESC / Escalator between mezzanine and platform,Major Repair,2/21/25
@@ -44,10 +45,10 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Preventive Maintenance Inspection,2/21/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Major Repair,2/24/25
 Silver Spring Transit Center,"ELE / Elevator - East, Bonifant St., Serving Levels 3, 2, and 1",Other,2/24/25
+Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,2/21/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Water Leak/Intrusion,2/24/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Walker,2/20/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Other,2/21/25
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Service Call,2/21/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Major Repair,2/24/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Other,2/24/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,2/24/25
