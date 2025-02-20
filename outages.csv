@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,2/22/25
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,2/22/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,3/1/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/24
@@ -11,7 +12,6 @@ Crystal City,ESC / Escalator between street and middle landing,Modernization,4/1
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,2/24/25
-Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,2/21/25
 Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,2/22/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,2/24/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Walker,2/21/25
@@ -29,14 +29,13 @@ Innovation Center,ELE / Elevator - between mezzanine and platform Innovation Cen
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 McLean,ELE / Elevator between mezzanine and platform,Minor Repair,2/22/25
 McLean,ESC / Escalator - south entry pavilion,Safety Inspection,2/22/25
-McLean,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,2/22/25
 Medical Center,ESC / Escalator between mezzanine and platform,Walker,2/21/25
 Medical Center,ESC / Escalator between mezzanine and platform,Modernization,2/21/25
 Minnesota Ave,ESC / Escalator between street and mezzanine,Service Call,2/21/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Major Repair,2/24/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,2/22/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,2/22/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Minor Repair,2/22/25
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Preventive Maintenance Inspection,2/22/25
 Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Other,2/24/25
