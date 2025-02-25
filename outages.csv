@@ -1,14 +1,14 @@
 station,type_location,reason,estimated_return_to_service
-Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,2/27/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,2/27/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Walker,2/24/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,3/3/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/24
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Major Repair,3/10/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Walker,3/10/25
-Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Preventive Maintenance Inspection,3/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
+Downtown Largo,ELE / Elevator between south garage and mezzanine,Service Call,2/27/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,2/27/25
 Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,2/23/25
@@ -21,7 +21,6 @@ Glenmont,ELE / Garage elevator,Other,3/10/25
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,2/27/25
 Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,2/27/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,2/27/25
 Landover,ESC / Escalator between mezzanine and platform,Service Call,2/27/25
 McLean,ELE / Elevator between mezzanine and platform,Minor Repair,3/3/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,2/27/25
@@ -31,8 +30,8 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,2/28/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,2/27/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,2/25/25
-Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Service Call,2/27/25
 Pentagon,ESC / Escalator between upper and lower platforms,Service Call,2/27/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/27/25
 Rockville,ESC / Escalator between mezzanine and platform,Other,2/25/25
@@ -42,7 +41,7 @@ Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. En
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Service Call,2/27/25
 Tysons,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,2/27/25
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between mezzanine and platform 13th and U St Entrance,Minor Repair,2/27/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,2/27/25
 Van Ness-UDC,ESC / Escalator between middle landing and mezzanine,Minor Repair,2/27/25
+Van Ness-UDC,ESC / Escalator between mezzanine and platform,Service Call,2/27/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Wheaton,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/27/25
