@@ -1,14 +1,13 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Preventive Maintenance Inspection,2/28/25
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,3/1/25
 Ballston-MU,ESC / Escalator between street and middle landing,Other,2/28/25
 Ballston-MU,ESC / Escalator between street and middle landing,Service Call,2/28/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/24
 Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,3/1/25
 Bethesda,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,2/28/25
-Braddock Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,3/1/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,3/1/25
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Preventive Maintenance Inspection,3/7/25
 Columbia Heights,"ELE /  Elevator between street and mezzanine, 14 Street, Southbound Entrance",Minor Repair,2/28/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Major Repair,3/10/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Walker,3/10/25
@@ -27,7 +26,6 @@ Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor R
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to station entrance) 7th & D St (USDOT Entrance),Preventive Maintenance Inspection,3/1/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Walker,2/28/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,2/28/25
 McLean,ELE / Elevator between mezzanine and platform,Minor Repair,3/3/25
 McPherson Square,ELE / Elevator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,2/28/25
 Medical Center,ESC / Escalator between mezzanine and platform,Minor Repair,2/28/25
@@ -46,10 +44,8 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/2
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Preventive Maintenance Inspection,3/1/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Preventive Maintenance Inspection,3/1/25
-Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Preventive Maintenance Inspection,3/1/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Minor Repair,
 Southern Avenue,ELE / Elevator between mezzanine and platform,Minor Repair,2/28/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Safety Inspection,2/28/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Preventive Maintenance Inspection,3/1/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,2/28/25
