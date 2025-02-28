@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/24
 Braddock Road,ESC / Escalator between mezzanine and platform,Major Repair,3/1/25
-Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,3/1/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Major Repair,3/10/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Walker,3/10/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
@@ -13,11 +12,10 @@ Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Moder
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Major Repair,3/3/25
 Glenmont,ELE / Garage elevator,Other,3/10/25
-Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Preventive Maintenance Inspection,3/1/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 McLean,ELE / Elevator between mezzanine and platform,Minor Repair,3/10/25
+Medical Center,ESC / Escalator between mezzanine and platform,Service Call,3/1/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,3/1/25
-Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard Entrance,Inspection Repair,3/1/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,3/3/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
@@ -28,6 +26,6 @@ Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Other,3/1/25
+Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,3/1/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Inspection Repair,3/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Minor Repair,3/1/25
