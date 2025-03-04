@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/10/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,3/5/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/24
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,3/6/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,3/5/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Major Repair,3/10/25
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,3/6/25
@@ -23,8 +22,6 @@ Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at
 Innovation Center,ESC / Escalator - betweeen mezzanine and platform Innovation Center,Preventive Maintenance Inspection,3/11/25
 L'Enfant Plaza,ELE / Elevator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Safety Inspection,3/31/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,3/6/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,3/6/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/10/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,3/6/25
 Medical Center,ESC / Escalator between street and mezzanine,Other,3/10/25
@@ -36,6 +33,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,3/5/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Other,3/10/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,3/6/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Other,3/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,4/4/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
