@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Inspection Repair,3/10/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,3/9/25
 Capitol South,ESC / Escalator between mezzanine and platform,Service Call,3/9/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,3/10/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
@@ -20,6 +19,8 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Glenmont,ELE / Garage elevator,Major Repair,3/8/25
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,3/9/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,3/9/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,3/9/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/10/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,3/7/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,3/9/25
