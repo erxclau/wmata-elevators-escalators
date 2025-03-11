@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,3/18/25
-Branch Ave,ELE / Elevator between mezzanine and platform,Minor Repair,3/13/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,3/13/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
@@ -11,12 +10,14 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,3/14/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Walker,3/13/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Minor Repair,3/13/25
+Federal Triangle,ESC / Escalator between street and middle landing,Other,3/13/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Inspection Repair,3/14/25
+Forest Glen,ELE / Elevator between mezzanine and platform,Other,
 Forest Glen,ELE / Elevator between mezzanine and platform,Safety Inspection,3/14/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,3/13/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Safety Inspection,3/12/25
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,3/13/25
+Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,3/13/25
 Glenmont,ELE / Garage elevator,Minor Repair,3/12/25
 Herndon,ELE / Elevator - between mezzanine and platform Herndon,Minor Repair,3/13/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Service Call,3/13/25
@@ -29,7 +30,7 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Other,3/12/25
-Pentagon,ESC / Escalator between upper and lower platforms,Other,
+Pentagon,ESC / Escalator between upper and lower platforms,Service Call,3/13/25
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Safety Inspection,3/12/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
