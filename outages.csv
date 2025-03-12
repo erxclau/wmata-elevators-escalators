@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,3/18/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,3/14/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,3/14/25
@@ -31,6 +30,7 @@ Herndon,ELE / Elevator - between mezzanine and platform Herndon,Minor Repair,3/1
 Herndon,ESC / Escalator - north entry pavilion Herndon,Preventive Maintenance Inspection,3/19/25
 L'Enfant Plaza,ELE / Elevator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,3/12/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
+Landover,ESC / Escalator between mezzanine and platform,Service Call,3/14/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/18/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Preventive Maintenance Inspection,3/13/25
 Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance,Safety Inspection,3/13/25
@@ -51,3 +51,4 @@ Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Larg
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,3/14/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Inspection Repair,3/14/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
+Wiehle-Reston East,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,3/14/25
