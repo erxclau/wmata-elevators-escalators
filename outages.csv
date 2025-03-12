@@ -1,6 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,3/14/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Walker,3/14/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,3/14/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,3/14/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,3/14/25
@@ -16,15 +18,13 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Stree
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Minor Repair,3/13/25
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Service Call,3/14/25
 Federal Triangle,ESC / Escalator between street and middle landing,Other,3/14/25
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Inspection Repair,3/14/25
+Federal Triangle,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,3/14/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Inspection Repair,3/14/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Safety Inspection,3/14/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,3/14/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Safety Inspection,3/12/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,3/13/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,3/13/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,3/13/25
 Glenmont,ELE / Garage elevator,Minor Repair,3/12/25
 Herndon,ELE / Elevator - between mezzanine and platform Herndon,Minor Repair,3/13/25
 Herndon,ESC / Escalator - north entry pavilion Herndon,Preventive Maintenance Inspection,3/19/25
@@ -33,6 +33,7 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 Landover,ESC / Escalator between mezzanine and platform,Service Call,3/14/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/18/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Preventive Maintenance Inspection,3/13/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,3/14/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,3/17/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,3/14/25
@@ -40,6 +41,7 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Minor Repair,3/14/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Other,3/13/25
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Safety Inspection,3/12/25
+Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Preventive Maintenance Inspection,3/19/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Minor Repair,3/13/25
