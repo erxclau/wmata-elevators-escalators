@@ -2,14 +2,12 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,3/16/25
-Capitol South,ESC / Escalator between street and mezzanine,Service Call,3/16/25
-Capitol South,ESC / Escalator between mezzanine and platform,Service Call,3/16/25
 College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Other,3/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Other,3/17/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Other,3/24/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,3/16/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Safety Inspection,3/17/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
@@ -21,21 +19,18 @@ Herndon,ELE / Elevator - north entry pavilion Herndon,Safety Inspection,4/9/25
 Herndon,ESC / Escalator - north entry pavilion Herndon,Safety Inspection,4/9/25
 Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Safety Inspection,10/17/24
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Safety Inspection,
-Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Minor Repair,3/15/25
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Minor Repair,3/21/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,3/15/25
-Loudoun Gateway,ELE / Elevator - north entry pavilion Loudoun Gateway,Safety Inspection,8/17/24
-Loudoun Gateway,ELE / Elevator - north entry pavilion Loudoun Gateway,Safety Inspection,8/17/24
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,3/17/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/24/25
 McLean,ESC / Escalator - south entry pavilion,Safety Inspection,3/6/25
-McLean,ESC / Escalator - between mezzanine to grade/street,Safety Inspection,9/21/24
 McLean,ESC / Escalator - between mezzanine to grade/street,Safety Inspection,3/31/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,3/16/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,3/16/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,3/24/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
-North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Major Repair,3/17/25
+North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Major Repair,3/24/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Other,3/17/25
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Safety Inspection,3/17/25
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Safety Inspection,1/25/25
@@ -45,6 +40,6 @@ Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Spring Hill,ELE / Elevator - south entry pavilion,Safety Inspection,11/29/24
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,3/17/25
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Major Repair,3/21/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between mezzanine and platform,Service Call,3/16/25
