@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,3/16/25
+Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,3/16/25
 College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Other,3/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
@@ -35,6 +35,7 @@ Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Safe
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Safety Inspection,2/22/25
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Safety Inspection,1/9/25
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Safety Inspection,3/20/25
+Rockville,ESC / Escalator between mezzanine and platform,Minor Repair,12/7/24
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Spring Hill,ELE / Elevator - south entry pavilion,Safety Inspection,11/29/24
