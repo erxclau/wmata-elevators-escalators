@@ -1,8 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Minor Repair,3/17/25
-Brookland-CUA,ESC / Escalator between mezzanine and platform,Walker,3/17/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,3/17/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,3/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
@@ -29,9 +27,7 @@ McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Service Call,3/17/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Service Call,3/17/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Service Call,3/17/25
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Service Call,3/17/25
 Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Service Call,3/17/25
-Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,3/17/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,3/24/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
@@ -41,6 +37,7 @@ Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,3/17/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Inspection Repair,3/3/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,3/17/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
