@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Walker,3/18/25
-Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,3/17/25
+Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,3/17/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Other,3/18/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,3/18/25
@@ -13,10 +13,10 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,3/18/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Safety Inspection,3/21/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,3/17/25
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,3/18/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,3/18/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Minor Repair,3/18/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,3/18/25
-Georgia Ave-Petworth,"ELE / Elevator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Minor Repair,3/18/25
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,3/18/25
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,3/18/25
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Minor Repair,3/18/25
@@ -25,8 +25,8 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/24/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Minor Repair,3/18/25
-Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Minor Repair,3/18/25
-Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Minor Repair,3/18/25
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Major Repair,3/18/25
+Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Major Repair,3/18/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,3/24/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
