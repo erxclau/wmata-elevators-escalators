@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,3/17/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Minor Repair,3/17/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,3/18/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,3/18/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,3/17/25
@@ -21,12 +20,10 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/24/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Minor Repair,3/18/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,3/18/25
 Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Service Call,3/18/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,3/24/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,3/18/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Other,3/21/25
 Potomac Ave,ESC / Escalator between mezzanine and platform,Minor Repair,3/18/25
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Safety Inspection,3/17/25
