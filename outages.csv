@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Service Call,
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Inspection Repair,3/19/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Inspection Repair,3/21/25
@@ -7,7 +8,7 @@ Crystal City,ESC / Escalator between street and middle landing,Modernization,4/1
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
-Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Preventive Maintenance Inspection,3/19/25
+Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Minor Repair,3/20/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Safety Inspection,3/24/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/16/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/16/25
@@ -35,4 +36,3 @@ Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory E
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Virginia Square-GMU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,3/20/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Service Call,3/19/25
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,3/19/25
