@@ -9,7 +9,7 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Minor Repair,3/24/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Preventive Maintenance Inspection,3/21/25
-Federal Center SW,ESC / Escalator between mezzanine and platform,Service Call,3/21/25
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,3/21/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Safety Inspection,3/24/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
@@ -28,6 +28,7 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Inspection Repair,3/20/25
 NoMa-Gallaudet U,ELE / Elevator between bike trail and mezzanine Florida Avenue Entrance,Service Call,3/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Other,3/24/25
+Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Preventive Maintenance Inspection,3/21/25
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Safety Inspection,3/24/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Walker,3/21/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
@@ -38,4 +39,3 @@ Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amt
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,3/21/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,3/24/25
-Wheaton,ELE / Elevator between mezzanine and platform,Service Call,3/21/25
