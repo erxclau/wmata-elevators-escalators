@@ -1,10 +1,9 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Other,3/24/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,3/22/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,3/22/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Major Repair,3/24/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
+Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,3/22/25
 Court House,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,3/22/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
@@ -17,7 +16,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Major Repair,3/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Service Call,3/22/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,3/22/25
-Glenmont,ELE / Garage elevator,Minor Repair,3/22/25
+Glenmont,ELE / Garage elevator,Major Repair,3/22/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Safety Inspection,3/24/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Major Repair,3/31/25
@@ -37,6 +36,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,3/24/25
+Spring Hill,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,3/22/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,3/22/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Other,3/22/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
