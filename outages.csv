@@ -9,7 +9,7 @@ Crystal City,ESC / Escalator between street and middle landing,Modernization,4/1
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,3/23/25
 Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq,Minor Repair,3/24/25
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Major Repair,3/24/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,3/24/25
@@ -19,9 +19,13 @@ Glenmont,ELE / Garage elevator,Major Repair,3/22/25
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,3/22/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Safety Inspection,3/24/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
+McLean,ELE / Elevator - south entry pavilion,Safety Inspection,3/23/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/24/25
+Metro Center,ELE / Elevator between upper platform to Glenmont and lower platform for Blue/Orange Lines,Service Call,3/23/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Other,3/24/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Minor Repair,3/23/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Inspection Repair,3/23/25
+Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,3/23/25
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,3/23/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between mezzanine and platform,Inspection Repair,3/28/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Major Repair,3/31/25
@@ -31,16 +35,15 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entr
 New Carrollton,ESC / Escalator between mezzanine and platform,Service Call,3/23/25
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Minor Repair,3/23/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Other,3/24/25
-Pentagon,ESC / Escalator between upper and lower platforms,Service Call,3/22/25
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Safety Inspection,3/24/25
+Rockville,ELE / Elevator between pedestrian bridge and mezzanine,Service Call,3/23/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,3/22/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Shady Grove,ESC / Escalator between mezzanine and platform,Minor Repair,3/23/25
 Southern Avenue,ESC / Escalator between mezzanine and platform,Minor Repair,3/23/25
-Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,3/23/25
 Takoma,ELE / Elevator between mezzanine and platform,Minor Repair,3/23/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,3/23/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,3/24/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Major Repair,3/31/25
