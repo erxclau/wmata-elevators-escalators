@@ -9,14 +9,13 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq,Minor Repair,3/24/25
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Major Repair,3/24/25
-Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,3/23/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,3/24/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
-Friendship Heights,ELE / Elevator between street and mezzanine Western Avenue Entrance,Service Call,3/23/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,3/23/25
 Glenmont,ELE / Garage elevator,Major Repair,3/22/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Other,3/23/25
 McLean,ELE / Elevator between mezzanine and platform,Major Repair,3/24/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Other,3/24/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Walker,3/23/25
@@ -32,6 +31,7 @@ Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Service Call,3/23/25
 Takoma,ELE / Elevator between mezzanine and platform,Minor Repair,3/23/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,3/24/25
