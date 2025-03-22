@@ -8,6 +8,7 @@ Benning Road,ESC / Escalator between street and mezzanine,Service Call,3/23/25
 Capitol South,ELE / Elevator between street and mezzanine,Service Call,3/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,3/23/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Major Repair,3/24/25
@@ -22,7 +23,6 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,3/23/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,3/23/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Inspection Repair,3/24/25
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Minor Repair,3/23/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Other,3/24/25
@@ -34,3 +34,4 @@ U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzani
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,3/23/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Washington Dulles International Airport,ELE / Elevator - between mezzanine and platform Washington Dulles International Airport,Other,3/24/25
+Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Service Call,3/23/25
