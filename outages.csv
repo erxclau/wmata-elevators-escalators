@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
-Ballston-MU,ESC / Escalator between street and middle landing,Other,3/27/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,4/1/25
 Benning Road,ESC / Escalator between mezzanine and platform,Inspection Repair,3/25/25
@@ -16,6 +15,7 @@ Federal Triangle,ESC / Escalator between middle landing and mezzanine,Service Ca
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,3/31/25
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,3/27/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,3/31/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,3/27/25
@@ -33,5 +33,5 @@ Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Larg
 Spring Hill,ELE / Elevator between mezzanine and platform,Service Call,3/27/25
 Spring Hill,ELE / Elevator between mezzanine and platform,Service Call,3/27/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,3/27/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,3/27/25
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,3/27/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
