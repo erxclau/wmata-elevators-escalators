@@ -1,6 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Preventive Maintenance Inspection,3/28/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,3/29/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Inspection Repair,3/28/25
 Benning Road,ESC / Escalator between mezzanine and platform,Inspection Repair,3/25/25
@@ -12,6 +12,7 @@ Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Service Ca
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Preventive Maintenance Inspection,3/28/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Preventive Maintenance Inspection,3/29/25
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Preventive Maintenance Inspection,3/28/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,3/28/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
