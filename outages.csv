@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Inspection Repair,3/29/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
+Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,3/29/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Service Call,3/29/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
@@ -11,13 +12,10 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Service Call,3/29/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Major Repair,3/31/25
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Other,3/29/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Service Call,3/29/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Other,3/29/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,3/29/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Walker,3/29/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Walker,3/29/25
-McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,3/29/25
+McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,3/29/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,3/31/25
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Inspection Repair,4/5/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
@@ -25,8 +23,8 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,3/29/25
-Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Service Call,3/29/25
+Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Other,3/29/25
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Service Call,3/29/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,3/31/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Major Repair,3/31/25
