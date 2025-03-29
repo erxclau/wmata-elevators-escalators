@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,3/30/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Inspection Repair,3/29/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Inspection Repair,4/10/25
@@ -8,10 +9,12 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,3/30/25
+Federal Center SW,ELE / Elevator between street and mezzanine,Inspection Repair,3/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
+Franconia-Springfield,ESC / Escalator between mezzanine and platform,Service Call,3/30/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Other,4/4/25
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,3/30/25
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,3/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,4/4/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Inspection Repair,5/1/25
@@ -24,6 +27,6 @@ Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Servic
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Service Call,3/30/25
+Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Minor Repair,3/30/25
 Van Dorn Street,ESC / Escalator between mezzanine and platform,Minor Repair,3/31/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
