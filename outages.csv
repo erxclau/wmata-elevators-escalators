@@ -27,8 +27,8 @@ Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Ent
 Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Inspection Repair,4/5/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
-New Carrollton,ESC / Escalator between mezzanine and platform,Safety Inspection,4/1/25
 New Carrollton,ESC / Escalator between mezzanine and platform,Minor Repair,5/6/25
+Pentagon,ESC / Escalator between upper and lower platforms,Preventive Maintenance Inspection,4/1/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,3/31/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
@@ -37,4 +37,5 @@ Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Larg
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Inspection Repair,4/1/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Preventive Maintenance Inspection,4/4/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,4/2/25
+Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Preventive Maintenance Inspection,4/1/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
