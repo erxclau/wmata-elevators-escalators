@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ELE / Garage elevator,Minor Repair,4/7/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
+Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,4/3/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Inspection Repair,4/3/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Inspection Repair,4/10/25
@@ -33,6 +34,8 @@ Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Av
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,4/3/25
 Landover,ESC / Escalator between mezzanine and platform,Minor Repair,4/7/25
+McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,4/3/25
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Other,4/3/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,4/4/25
 Morgan Boulevard,ELE / Elevator between mezzanine and platform,Minor Repair,4/7/25
 Morgan Boulevard,ELE / Elevator between mezzanine and platform,Minor Repair,4/7/25
