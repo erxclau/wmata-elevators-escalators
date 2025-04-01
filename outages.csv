@@ -1,16 +1,19 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,4/3/25
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Other,4/3/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Inspection Repair,4/3/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
+Bethesda,ESC / Escalator between mezzanine and platform,Other,4/3/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,4/3/25
 Farragut North,ELE / Elevator between mezzanine and platform K Street Entrance,Scheduled Support,4/11/25
+Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,4/3/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,4/7/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Inspection Repair,4/2/25
+Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,4/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,4/3/25
@@ -30,6 +33,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Inspection Repair,4/3/25
 Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,4/3/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,4/3/25
+Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Preventive Maintenance Inspection,4/10/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,4/7/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Minor Repair,4/3/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Service Call,4/3/25
