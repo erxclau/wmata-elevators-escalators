@@ -12,7 +12,6 @@ Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,4/3/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Other,4/2/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Other,4/7/25
 Clarendon,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,4/3/25
-Congress Heights,ESC / Escalator between mezzanine and buses/parking,Minor Repair,4/7/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -22,16 +21,17 @@ Eastern Market,ESC / Escalator between mezzanine and platform,Service Call,4/3/2
 Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Huntington,Service Call,4/3/25
 Farragut North,ELE / Elevator between mezzanine and platform K Street Entrance,Scheduled Support,4/11/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Minor Repair,4/7/25
+Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,4/3/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,4/7/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Inspection Repair,4/2/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,4/3/25
-Franconia-Springfield,ELE / Elevator between ground and pedestrian bridge,Service Call,4/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,4/3/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,4/11/25
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Minor Repair,4/7/25
 Greensboro,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,4/10/25
+Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Preventive Maintenance Inspection,4/10/25
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Minor Repair,4/7/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Other,4/3/25
@@ -47,6 +47,7 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 North Bethesda,ESC / Escalator between mezzanine and platform,Other,4/7/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,4/7/25
 Pentagon City,"ELE / Elevator between street and mezzanine on west side of Hayes street, at The Fashion Center",Service Call,4/3/25
+Potomac Ave,ESC / Escalator between street and mezzanine,Service Call,4/3/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,4/3/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
@@ -56,7 +57,5 @@ Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Minor
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,4/7/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Service Call,4/3/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,4/2/25
-Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Service Call,4/2/25
 Waterfront,ESC / Escalator between street and mezzanine,Service Call,4/3/25
 Wheaton,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/3/25
