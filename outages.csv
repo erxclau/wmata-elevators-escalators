@@ -6,7 +6,6 @@ Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town C
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Service Call,4/4/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Inspection Repair,4/11/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,4/4/25
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Preventive Maintenance Inspection,4/4/25
 Court House,ESC / Escalator between middle landing and mezzanine,Major Repair,4/4/25
 Court House,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/4/25
@@ -20,23 +19,22 @@ Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,4/4/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
-Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Preventive Maintenance Inspection,4/4/25
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,4/4/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,4/3/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,4/3/25
-Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Walker,
+Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Walker,4/4/25
+Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Inspection Repair,4/4/25
 Greensboro,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,4/4/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Service Call,4/4/25
 McLean,ELE / Elevator between mezzanine to grade/street,Safety Inspection,3/31/25
-McLean,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,4/11/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Major Repair,4/7/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,4/4/25
 Minnesota Ave,ELE / Elevator between street and mezzanine,Service Call,4/4/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,4/4/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,4/4/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Other,4/4/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Inspection Repair,3/21/25
 North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Service Call,4/4/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Service Call,4/4/25
@@ -45,6 +43,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Inspection Repair,4/7/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Preventive Maintenance Inspection,4/10/25
+Southern Avenue,ESC / Escalator between mezzanine and platform,Safety Inspection,5/1/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/7/25
 Vienna/Fairfax-GMU,ELE / Garage,Inspection Repair,4/4/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
