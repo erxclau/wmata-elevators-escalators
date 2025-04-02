@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Other,4/3/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Preventive Maintenance Inspection,3/25/25
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Service Call,4/4/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Inspection Repair,4/3/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Inspection Repair,4/4/25
@@ -15,6 +15,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,4/3/25
 Farragut North,ELE / Elevator between mezzanine and platform K Street Entrance,Scheduled Support,4/11/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Preventive Maintenance Inspection,4/4/25
+Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Minor Repair,4/4/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,4/7/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Inspection Repair,4/2/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/3/25
