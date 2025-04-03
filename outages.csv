@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,4/5/25
 Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Inspection Repair,4/5/25
 Ballston-MU,ESC / Escalator between street and middle landing,Inspection Repair,4/5/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,4/5/25
@@ -43,5 +42,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,4/5/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/7/25
+Takoma,ESC / Escalator between mezzanine and platform,Other,
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Wheaton,ELE / Elevator between mezzanine and platform,Service Call,4/5/25
