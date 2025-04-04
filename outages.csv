@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Inspection Repair,4/5/25
 Ballston-MU,ESC / Escalator between street and middle landing,Inspection Repair,4/5/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,4/6/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,4/5/25
@@ -41,7 +40,6 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 New Carrollton,ELE / Elevator between mezzanine and street at Route 450,Minor Repair,4/6/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,4/5/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
-Rosslyn,ESC / Escalator between mezzanine and upper platform,Other,4/5/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Southern Avenue,ELE / Elevator between mezzanine and platform,Other,4/6/25
