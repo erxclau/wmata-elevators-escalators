@@ -6,6 +6,7 @@ Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Minor Repair,4/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,4/7/25
 Deanwood,ESC / Escalator between street and mezzanine,Minor Repair,4/6/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
@@ -16,11 +17,13 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Sout
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Major Repair,4/8/25
 East Falls Church,ESC / Escalator between mezzanine and platform,Service Call,4/6/25
 Farragut North,ELE / Elevator between mezzanine and platform K Street Entrance,Scheduled Support,4/11/25
+Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Service Call,4/7/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Minor Repair,4/6/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,4/6/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Service Call,4/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,4/7/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,4/3/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,4/3/25
 Grosvenor-Strathmore,ELE / Garage elevator,Minor Repair,4/5/25
@@ -47,6 +50,9 @@ Tenleytown-AU,ESC / Escalator between mezzanine and platform,Other,4/6/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Service Call,4/6/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Other,4/6/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
+Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Service Call,4/7/25
+Waterfront,ESC / Escalator between street and mezzanine,Service Call,4/7/25
+Waterfront,ESC / Escalator between mezzanine and platform,Service Call,4/7/25
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Service Call,4/7/25
 Wheaton,ELE / Elevator between mezzanine and platform,Major Repair,4/5/25
 Wheaton,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/7/25
