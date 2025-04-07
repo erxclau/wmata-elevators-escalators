@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
+Ballston-MU,ESC / Escalator between street and middle landing,Service Call,4/9/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Other,4/9/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,4/10/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
@@ -7,6 +8,7 @@ Brookland-CUA,ESC / Escalator between mezzanine and platform,Walker,4/9/25
 Brookland-CUA,ESC / Escalator between mezzanine and platform,Minor Repair,4/9/25
 Congress Heights,ELE / Elevator between mezzanine and street,Service Call,4/9/25
 Congress Heights,ESC / Escalator between mezzanine and buses/parking,Minor Repair,4/7/25
+Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Service Call,4/9/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/14/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/11/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -17,6 +19,7 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Sout
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Major Repair,4/8/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Major Repair,4/9/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Service Call,4/9/25
+Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Service Call,4/9/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Inspection Repair,4/9/25
