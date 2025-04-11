@@ -1,15 +1,18 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Other,4/13/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/27/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Other,4/13/25
+Federal Triangle,ESC / Escalator between middle landing and mezzanine,Other,4/13/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,4/13/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,4/16/25
-Glenmont,"ELE / Elevator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Scheduled Support,4/12/25
+Glenmont,"ELE / Elevator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Scheduled Support,4/15/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/14/25
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Safety Inspection,4/14/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
@@ -27,6 +30,5 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Minor Repair,4/14/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-Waterfront,ESC / Escalator between street and mezzanine,Inspection Repair,4/13/25
-West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,4/13/25
+Waterfront,ESC / Escalator between street and mezzanine,Inspection Repair,4/14/25
 Wheaton,ELE / Elevator between mezzanine and platform,Major Repair,4/14/25
