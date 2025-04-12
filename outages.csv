@@ -1,8 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
-Arlington Cemetery,ELE / Elevator between mezzanine and platform to Franconia Springfield,Service Call,4/14/25
+Arlington Cemetery,ELE / Elevator between mezzanine and platform to Franconia Springfield,Minor Repair,4/14/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,4/14/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Service Call,4/14/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/27/25
@@ -28,6 +27,8 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Other,4/14/25
+Spring Hill,ELE / Elevator - south entry pavilion,Service Call,4/14/25
+Spring Hill,ELE / Elevator - south entry pavilion,Service Call,4/14/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/18/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Wheaton,ELE / Elevator between mezzanine and platform,Major Repair,4/14/25
