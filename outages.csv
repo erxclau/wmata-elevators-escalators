@@ -10,19 +10,17 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,4/13/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Major Repair,4/15/25
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,4/15/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,4/15/25
-Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Preventive Maintenance Inspection,4/15/25
-Glenmont,ESC / Escalator between mezzanine and platform,Service Call,4/15/25
-Glenmont,ESC / Escalator between mezzanine and platform,Service Call,4/15/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/14/25
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Safety Inspection,4/14/25
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Safety Inspection,4/14/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Other,4/15/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,4/15/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,4/18/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,4/14/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
@@ -34,4 +32,5 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/18/25
+Van Ness-UDC,ESC / Escalator between mezzanine and platform,Service Call,4/15/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
