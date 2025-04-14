@@ -1,8 +1,11 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Service Call,4/16/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,4/16/25
-College Park-U of Md,ELE / Garage elevator,Service Call,4/16/25
+Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/16/25
+Cleveland Park,ELE / Elevator between mezzanine and platform,Service Call,4/16/25
+College Park-U of Md,ELE / Garage elevator,Minor Repair,4/16/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Major Repair,4/16/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/27/25
@@ -12,10 +15,10 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Stree
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,4/16/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Other,4/16/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/14/25
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Safety Inspection,4/14/25
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Safety Inspection,4/14/25
+Herndon,ESC / Escalator - south entry pavilion Herndon,Service Call,4/16/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,4/16/25
@@ -32,6 +35,7 @@ Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,4/16/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/18/25
 Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,4/16/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
