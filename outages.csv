@@ -1,8 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Service Call,4/16/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
+Ballston-MU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,4/16/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,4/16/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/16/25
 Cleveland Park,ELE / Elevator between mezzanine and platform,Service Call,4/16/25
 College Park-U of Md,ELE / Garage elevator,Minor Repair,4/16/25
@@ -16,22 +16,20 @@ Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,4/16/
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/14/25
+Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Other,4/16/25
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Safety Inspection,4/14/25
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Safety Inspection,4/14/25
-Herndon,ESC / Escalator - south entry pavilion Herndon,Service Call,4/16/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
-Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,4/16/25
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont Building Museum Entrance,Service Call,4/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-Morgan Boulevard,ESC / Escalator between mezzanine and platform,Service Call,4/16/25
+McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,4/16/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,4/18/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Inspection Repair,4/15/25
 Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Major Repair,4/16/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Safety Inspection,4/14/25
-Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Preventive Maintenance Inspection,4/16/25
+Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Preventive Maintenance Inspection,4/16/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
@@ -40,3 +38,4 @@ Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory E
 Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,4/16/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Preventive Maintenance Inspection,4/16/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Service Call,4/16/25
