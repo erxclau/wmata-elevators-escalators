@@ -3,12 +3,11 @@ Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Pr
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Other,4/17/25
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Minor Repair,4/6/25
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Major Repair,4/17/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Preventive Maintenance Inspection,4/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/27/25
 Deanwood,ESC / Escalator between street and mezzanine,Other,4/17/25
+Deanwood,ESC / Escalator between street and mezzanine,Service Call,4/15/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,4/18/25
@@ -20,6 +19,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,4/17/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/18/25
+Huntington,ELE / Elevator between mezzanine and platform Huntington Ave. Entrance,Safety Inspection,5/1/25
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Inspection Repair,4/17/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
@@ -30,13 +30,12 @@ Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanin
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Inspection Repair,4/17/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Inspection Repair,4/21/25
 Naylor Road,ESC / Escalator between mezzanine and platform,Inspection Repair,5/1/25
 North Bethesda,ESC / Escalator between mezzanine and platform,Walker,4/17/25
 North Bethesda,ESC / Escalator between mezzanine and platform,Minor Repair,4/17/25
 Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Major Repair,4/17/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Safety Inspection,4/18/25
-Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Preventive Maintenance Inspection,4/17/25
+Reston Town Center,ESC / Escalator - south entry pavilion Reston Town Center,Preventive Maintenance Inspection,4/17/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/26/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
@@ -51,4 +50,5 @@ Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,
 Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,4/17/25
 West Falls Church,ELE / Garage elevator,Service Call,4/17/25
 West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Safety Inspection,4/30/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,4/17/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,4/17/25
