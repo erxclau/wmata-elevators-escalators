@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,4/17/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
+Bethesda,ESC / Escalator between mezzanine and platform,Other,4/18/25
 Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Minor Repair,4/18/25
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Service Call,4/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
@@ -18,7 +19,7 @@ Glenmont,ELE / Garage elevator,Minor Repair,4/17/25
 Greensboro,ESC / Escalator - north entry pavilion,Safety Inspection,4/17/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/18/25
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Preventive Maintenance Inspection,4/18/25
-Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,4/18/25
+Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,4/18/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Innovation Center,ELE / Elevator - between mezzanine and platform Innovation Center,Other,4/17/25
@@ -31,8 +32,9 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 Naylor Road,ESC / Escalator between mezzanine and platform,Other,4/18/25
 Naylor Road,ESC / Escalator between mezzanine and platform,Inspection Repair,4/18/25
 Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Major Repair,4/18/25
-Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,4/18/25
+Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Walker,4/18/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Safety Inspection,4/18/25
+Reston Town Center,ESC / Escalator - south entry pavilion Reston Town Center,Preventive Maintenance Inspection,4/18/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Other,4/17/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
