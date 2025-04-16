@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Preventive Maintenance Inspection,4/27/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Cleveland Park,ESC / Escalator between mezzanine and middle landing,Other,4/18/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,4/25/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/27/25
@@ -16,8 +15,6 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Greensboro,ESC / Escalator - north entry pavilion,Safety Inspection,4/17/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/25/25
-Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Preventive Maintenance Inspection,4/18/25
-Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,4/18/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Innovation Center,ELE / Elevator - between mezzanine and platform Innovation Center,Other,4/17/25
@@ -44,4 +41,3 @@ Tysons,ESC / Escalator - between intermidiat level to grade/street,Preventive Ma
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Virginia Square-GMU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,4/25/25
 West Hyattsville,ELE / Elevator between mezzanine and platform to Greenbelt,Service Call,4/18/25
-Wiehle-Reston East,ELE / Elevator between mezzanine and platform,Safety Inspection,4/17/25
