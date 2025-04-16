@@ -7,7 +7,6 @@ College Park-U of Md,ELE / Elevator between street and mezzanine on east side of
 Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Service Call,4/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/27/25
-Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Minor Repair,4/18/25
 Deanwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/18/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
@@ -17,6 +16,7 @@ Eastern Market,ESC / Escalator between mezzanine and platform,Preventive Mainten
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,4/17/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
+Franconia-Springfield,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/18/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Minor Repair,4/17/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Safety Inspection,4/18/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,4/24/25
@@ -39,14 +39,15 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Naylor Road,ESC / Escalator between mezzanine and platform,Inspection Repair,5/1/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Safety Inspection,4/18/25
+Potomac Yard,ESC / Escalator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Preventive Maintenance Inspection,4/18/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Service Call,4/17/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/25/25
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Preventive Maintenance Inspection,4/18/25
 Van Ness-UDC,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,4/17/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 West Falls Church,ELE / Garage elevator,Minor Repair,4/17/25
 West Falls Church,ESC / Escalator between mezzanine and platform to New Carrolton,Preventive Maintenance Inspection,4/17/25
-West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Service Call,4/17/25
 Wiehle-Reston East,ELE / Elevator between mezzanine and platform,Other,4/17/25
