@@ -1,9 +1,9 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Cheverly,ELE / Elevator between mezzanine and platform Vienna,Service Call,4/19/25
 College Park-U of Md,ELE / Garage elevator,Scheduled Support,4/19/25
 College Park-U of Md,ELE / Garage elevator,Scheduled Support,4/19/25
+College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Service Call,4/19/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,4/24/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -12,11 +12,12 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Stree
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,4/18/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,4/19/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,4/19/25
 Greensboro,ESC / Escalator - north entry pavilion,Safety Inspection,4/17/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/25/25
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Service Call,4/19/25
 Herndon,ESC / Escalator - north entry pavilion Herndon,Preventive Maintenance Inspection,4/19/25
+Huntington,ESC / Escalator to station entrance North Kings Hwy Entrance,Service Call,4/19/25
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Minor Repair,4/18/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
@@ -30,13 +31,17 @@ Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West En
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,4/19/25
+Naylor Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/6/25
+New Carrollton,ELE / Elevator between mezzanine and platform,Service Call,4/19/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Service Call,4/19/25
+Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Major Repair,4/6/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Safety Inspection,4/18/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,4/19/25
-Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,4/19/25
+Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,4/25/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/25/25
+Tysons,ESC / Escalator - between intermidiat level to grade/street,Preventive Maintenance Inspection,4/26/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Virginia Square-GMU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,4/19/25
