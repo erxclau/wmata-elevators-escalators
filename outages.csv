@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,4/19/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
+Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,4/19/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,4/25/25
 College Park-U of Md,ELE / Garage elevator,Scheduled Support,4/19/25
 College Park-U of Md,ELE / Garage elevator,Scheduled Support,4/19/25
@@ -11,9 +12,14 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,4/18/25
+Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,4/19/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Other,4/19/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Service Call,4/19/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,4/19/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,4/19/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,4/19/25
 Greensboro,ESC / Escalator - north entry pavilion,Safety Inspection,4/17/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/25/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
