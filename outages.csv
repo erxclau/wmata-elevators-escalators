@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Other,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Service Call,4/20/25
 College Park-U of Md,ELE / Garage elevator,Minor Repair,4/20/25
@@ -21,6 +20,7 @@ Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Servi
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,4/20/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,4/20/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Other,4/20/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,4/20/25
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Walker,4/20/25
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Minor Repair,4/20/25
@@ -32,6 +32,7 @@ Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franc
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,4/20/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/25/25
 Tysons,ELE / Elevator between mezzanine to grade/street,Safety Inspection,5/1/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
