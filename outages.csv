@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/20/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,4/27/25
-Cleveland Park,ESC / Escalator between mezzanine and middle landing,Service Call,4/20/25
 College Park-U of Md,ELE / Garage elevator,Minor Repair,4/20/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Major Repair,4/20/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
@@ -9,11 +8,11 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,4/25/25
+Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,4/20/25
 East Falls Church,ESC / Escalator between mezzanine and platform,Inspection Repair,4/20/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,4/20/25
-Greensboro,ESC / Escalator - north entry pavilion,Safety Inspection,4/21/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,4/25/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
@@ -31,5 +30,4 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,4/25/25
-Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,4/20/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
