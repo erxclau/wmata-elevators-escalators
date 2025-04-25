@@ -1,14 +1,12 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Modernization,4/27/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/4/25
-Bethesda,ESC / Escalator between mezzanine and platform,Other,4/26/25
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,4/26/25
 College Park-U of Md,ELE / Garage elevator,Major Repair,4/28/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,4/25/25
-Deanwood,ELE / Elevator between street and mezzanine,Minor Repair,4/26/25
+Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,4/26/25
 Federal Triangle,ESC / Escalator between street and middle landing,Other,4/26/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Service Call,4/26/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
@@ -19,21 +17,20 @@ Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor R
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Minor Repair,4/28/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,4/26/25
-Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont Building Museum Entrance,Service Call,4/26/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Other,4/28/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Other,4/28/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,4/26/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Minor Repair,4/25/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,4/28/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,4/28/25
-Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,4/26/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Major Repair,4/28/25
-Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Scheduled Support,4/26/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,4/26/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Inspection Repair,4/26/25
+Wheaton,ELE / Garage elevator,Other,4/26/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,4/26/25
