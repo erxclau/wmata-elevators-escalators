@@ -7,8 +7,10 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,4/28/25
 Federal Triangle,ESC / Escalator between street and middle landing,Other,4/28/25
+Federal Triangle,ESC / Escalator between middle landing and mezzanine,Other,4/28/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
+Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,4/28/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,5/9/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/2/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
@@ -29,5 +31,4 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,4/28/25
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Service Call,4/28/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Minor Repair,4/28/25
