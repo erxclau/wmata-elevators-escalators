@@ -1,12 +1,14 @@
 station,type_location,reason,estimated_return_to_service
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/4/25
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,4/29/25
-Capitol South,ESC / Escalator between mezzanine and platform,Other,4/29/25
+Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,4/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,4/29/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Minor Repair,4/29/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,4/29/25
+Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,4/29/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Major Repair,4/28/25
