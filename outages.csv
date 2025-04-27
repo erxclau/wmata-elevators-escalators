@@ -1,7 +1,9 @@
 station,type_location,reason,estimated_return_to_service
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/4/25
+Brookland-CUA,ELE / Elevator between mezzanine and platform,Service Call,4/29/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,4/29/25
-Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,4/29/25
+Columbia Heights,"ELE /  Elevator between street and mezzanine, 14 Street, Southbound Entrance",Service Call,4/29/25
+Columbia Heights,ESC / Escalator between mezzanine and platform,Service Call,4/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,4/28/25
@@ -9,16 +11,13 @@ Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, 
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Service Call,4/28/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Service Call,4/28/25
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,4/29/25
-Federal Triangle,ESC / Escalator between street and middle landing,Other,4/29/25
-Federal Triangle,ESC / Escalator between street and middle landing,Service Call,4/28/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Service Call,4/29/25
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,4/28/25
+Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Major Repair,4/28/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,5/9/25
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,4/29/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/2/25
-Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Inspection Repair,4/28/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,5/8/25
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,4/29/25
