@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,4/30/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Other,4/30/25
-Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,4/30/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/4/25
 Capitol South,ELE / Elevator between street and mezzanine,Minor Repair,5/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
@@ -12,8 +11,8 @@ Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,4/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,4/30/25
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,4/30/25
+Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,4/30/25
+Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,4/30/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,4/30/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/12/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,6/1/25
@@ -35,5 +34,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,4/30/25
+Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,4/30/25
 Spring Hill,ELE / Elevator between mezzanine and platform,Other,4/30/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
