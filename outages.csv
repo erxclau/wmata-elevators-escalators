@@ -2,11 +2,12 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,4/30/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Other,4/30/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/4/25
+Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol South,ELE / Elevator between street and mezzanine,Minor Repair,5/2/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,5/1/25
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,5/1/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
-Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,5/2/25
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,5/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,8/28/25
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Preventive Maintenance Inspection,4/30/25
@@ -28,7 +29,8 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. V
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,4/30/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Major Repair,5/5/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Other,4/30/25
-Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Safety Inspection,4/30/25
+Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Inspection Repair,6/3/25
+Metro Center,ELE / Elevator between upper platform to Glenmont and lower platform for Blue/Orange Lines,Safety Inspection,5/1/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Preventive Maintenance Inspection,4/30/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Minor Repair,4/30/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,4/28/25
@@ -39,6 +41,7 @@ Potomac Ave,ESC / Escalator between street and mezzanine,Major Repair,5/5/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+Shady Grove,ELE / Elevator between mezzanine and platform,Minor Repair,
 Shaw-Howard U,ESC / Escalator between street and mezzanine 8th and R St. N.W. Entrance,Preventive Maintenance Inspection,5/1/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,4/30/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Preventive Maintenance Inspection,5/1/25
