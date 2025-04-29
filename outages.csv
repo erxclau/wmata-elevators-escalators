@@ -6,13 +6,12 @@ Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/1/25
 Capitol South,ELE / Elevator between street and mezzanine,Minor Repair,5/2/25
-Clarendon,ESC / Escalator between street and middle landing/tunnel,Preventive Maintenance Inspection,5/1/25
-Columbia Heights,ESC / Escalator between mezzanine and platform,Service Call,5/1/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Service Call,5/1/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,8/28/25
 Eastern Market,ESC / Escalator between street and mezzanine,Service Call,5/1/25
+Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Minor Repair,5/1/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Other,5/5/25
@@ -22,7 +21,6 @@ Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th an
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,4/30/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Inspection Repair,5/28/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/12/25
-Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,5/4/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,6/1/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,6/1/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Other,5/1/25
@@ -51,6 +49,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Spring Hill,ELE / Elevator between mezzanine and platform,Other,5/1/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,5/1/25
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,5/1/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,5/1/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/4/25
