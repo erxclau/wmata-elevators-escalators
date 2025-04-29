@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Addison Road-Seat Pleasant,ELE / Elevator between mezzanine and platform,Scheduled Support,5/1/25
 Addison Road-Seat Pleasant,ELE / Garage elevator,Scheduled Support,5/1/25
 Addison Road-Seat Pleasant,ELE / Garage elevator,Scheduled Support,5/1/25
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Scheduled Support,5/1/25
@@ -31,6 +32,7 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Service Call,4/30/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,4/30/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,4/30/25
+Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,5/1/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Major Repair,5/5/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Other,4/30/25
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Inspection Repair,6/3/25
@@ -50,5 +52,7 @@ Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesvil
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Preventive Maintenance Inspection,5/1/25
 Spring Hill,ELE / Elevator between mezzanine and platform,Other,4/30/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,5/1/25
+Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,5/1/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
+West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Preventive Maintenance Inspection,4/30/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,5/4/25
