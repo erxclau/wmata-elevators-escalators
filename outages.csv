@@ -5,9 +5,11 @@ Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning
 Capitol South,ELE / Elevator between street and mezzanine,Minor Repair,5/2/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,4/30/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,4/30/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,8/28/25
-Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,4/30/25
+Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Preventive Maintenance Inspection,4/30/25
+Federal Triangle,ESC / Escalator between street and middle landing,Other,4/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,4/30/25
@@ -15,6 +17,7 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and t
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/12/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,6/1/25
 Hyattsville Crossing,ELE / Elevator between mezzanine and parking garage,Minor Repair,6/1/25
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Preventive Maintenance Inspection,4/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,4/30/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,4/30/25
@@ -22,6 +25,7 @@ McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Other,4/30/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Other,4/30/25
 Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Preventive Maintenance Inspection,5/2/25
+Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Minor Repair,4/30/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,4/28/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,5/5/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
@@ -31,6 +35,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,4/30/25
+Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Preventive Maintenance Inspection,4/30/25
 Spring Hill,ELE / Elevator between mezzanine and platform,Other,4/30/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,5/4/25
