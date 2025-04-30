@@ -2,17 +2,16 @@ station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,5/2/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/4/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Capitol South,ELE / Elevator between street and mezzanine,Minor Repair,5/2/25
+Capitol South,ELE / Elevator between street and mezzanine,Minor Repair,5/9/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,5/2/25
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,5/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,8/28/25
-Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Walker,5/1/25
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Service Call,5/2/25
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Minor Repair,5/5/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,5/2/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Service Call,
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,5/1/25
+Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,5/5/25
 Franconia-Springfield,ELE / Garage elevator,Inspection Repair,5/2/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
@@ -30,6 +29,7 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,5/5/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,5/5/25
+Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,5/2/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Major Repair,5/5/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,5/5/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,5/23/25
@@ -37,6 +37,7 @@ Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and plat
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Preventive Maintenance Inspection,5/2/25
+Pentagon,ESC / Escalator between upper and lower platforms,Service Call,5/2/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
@@ -44,5 +45,5 @@ U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street a
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Service Call,5/2/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 Waterfront,ESC / Escalator between street and mezzanine,Service Call,5/2/25
-Wheaton,ESC / Escalator between mezzanine and platform,Service Call,5/1/25
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Minor Repair,5/1/25
+Wheaton,ESC / Escalator between mezzanine and platform,Other,5/5/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Minor Repair,5/5/25
