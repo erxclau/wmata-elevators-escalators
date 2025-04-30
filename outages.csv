@@ -5,7 +5,6 @@ Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,6/23/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,8/28/25
-Eastern Market,ESC / Escalator between mezzanine and platform,Service Call,5/2/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,5/5/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
@@ -17,6 +16,7 @@ Grosvenor-Strathmore,ELE / Garage elevator,Other,5/12/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Other,5/1/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Walker,5/2/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,5/2/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,5/5/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,5/5/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Major Repair,5/5/25
@@ -27,7 +27,7 @@ Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzani
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,4/30/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
-New Carrollton,ELE / Garage elevator,Other,5/2/25
+New Carrollton,ELE / Garage elevator,Safety Inspection,5/2/25
 Pentagon,ESC / Escalator between upper and lower platforms,Service Call,5/2/25
 Pentagon,ESC / Escalator between upper and lower platforms,Service Call,5/2/25
 Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Other,5/2/25
@@ -39,3 +39,4 @@ Shaw-Howard U,ELE / Elevator between mezzanine and platform 7th and S St. N.W. E
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,5/2/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/11/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,5/2/25
+Wheaton,ESC / Escalator between mezzanine and platform,Other,5/2/25
