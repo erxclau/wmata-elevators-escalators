@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,5/7/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,5/3/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/4/25
 Bethesda,ELE / Elevator between mezzanine and platform,Service Call,5/3/25
@@ -14,6 +13,7 @@ Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq,
 Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Huntington,Service Call,5/2/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Service Call,5/3/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,5/5/25
+Franconia-Springfield,ELE / Elevator between mezzanine and platform,Service Call,5/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,5/2/25
@@ -26,7 +26,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Preventive Maintenance Inspection,5/2/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,5/5/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Major Repair,5/5/25
-Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Service Call,5/2/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Safety Inspection,5/2/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Inspection Repair,5/5/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,5/23/25
