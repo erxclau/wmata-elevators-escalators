@@ -1,6 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,5/3/25
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Inspection Repair,3/31/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Inspection Repair,5/8/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Inspection Repair,6/8/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/4/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,5/3/25
@@ -11,10 +11,8 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,8/28/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,5/3/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,5/3/25
-Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,5/3/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,5/5/25
-Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,5/4/25
+Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,5/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Minor Repair,5/5/25
@@ -24,7 +22,6 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the 
 Greensboro,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,5/8/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/12/25
 Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Preventive Maintenance Inspection,5/3/25
-Judiciary Square,ELE / Elevator between street and platform to Shady Grove Building Museum Entrance,Service Call,
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Minor Repair,5/3/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Inspection Repair,5/5/25
@@ -34,9 +31,9 @@ Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanin
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Preventive Maintenance Inspection,5/4/25
+New Carrollton,ELE / Elevator between mezzanine and street at Route 450,Service Call,5/3/25
 NoMa-Gallaudet U,ELE / Elevator between platform and mezzanine Florida Avenue Entrance,Minor Repair,5/3/25
 Pentagon,ESC / Escalator between upper and lower platforms,Other,5/3/25
-Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance,Other,5/2/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
