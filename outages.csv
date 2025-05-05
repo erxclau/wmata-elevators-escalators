@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Other,5/5/25
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/6/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Inspection Repair,5/8/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Inspection Repair,5/15/25
 Ballston-MU,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,5/7/25
@@ -13,6 +12,7 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Preventive Maintenance Inspection,5/6/25
+Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,5/7/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Minor Repair,5/7/25
@@ -38,6 +38,8 @@ Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,5/7/25
 Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,5/7/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Service Call,5/5/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,5/7/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,5/7/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,5/7/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,5/7/25
