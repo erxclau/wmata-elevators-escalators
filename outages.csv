@@ -7,11 +7,13 @@ Benning Road,ESC / Escalator between street and mezzanine,Service Call,5/8/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,5/8/25
 Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,5/7/25
+Capitol South,ESC / Escalator between mezzanine and platform,Other,5/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,5/8/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Walker,5/8/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,5/8/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Preventive Maintenance Inspection,5/8/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
@@ -31,11 +33,10 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Service Call,5/8/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
-Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,6/6/25
+Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Other,5/7/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,5/8/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 Waterfront,ESC / Escalator between street and mezzanine,Other,5/7/25
-West Falls Church,ESC / Escalator between mezzanine and platform to New Carrolton,Other,5/8/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,5/7/25
