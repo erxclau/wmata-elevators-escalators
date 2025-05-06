@@ -2,12 +2,10 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,5/8/25
 Ashburn,ELE / Elevator - between mezzanine and platform Ashburn,Service Call,5/8/25
 Ashburn,ELE / Elevator - between mezzanine and platform Ashburn,Service Call,5/8/25
-Ashburn,ELE / Elevator - north entry pavilion Ashburn,Service Call,5/8/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Other,5/8/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,5/8/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Capitol South,ESC / Escalator between street and mezzanine,Other,5/8/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,5/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
@@ -18,7 +16,6 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Major Repair,5/9/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,5/8/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,5/8/25
 Glenmont,ELE / Garage elevator,Minor Repair,5/8/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/16/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Other,5/8/25
@@ -32,6 +29,7 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/8/25
 Pentagon,ESC / Escalator between upper and lower platforms,Other,5/8/25
 Pentagon,ESC / Escalator between upper and lower platforms,Other,5/8/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,5/8/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,5/8/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
