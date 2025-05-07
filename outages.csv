@@ -2,15 +2,16 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/8/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,5/9/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Preventive Maintenance Inspection,5/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,5/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,5/9/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Minor Repair,5/8/25
+Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Other,5/8/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Minor Repair,5/8/25
+Forest Glen,ELE / Elevator between mezzanine and platform,Service Call,5/9/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Major Repair,5/9/25
@@ -29,9 +30,11 @@ New Carrollton,ESC / Escalator between mezzanine and street at Route 450,Service
 Pentagon,ELE / Elevator between the bus bay and the mezzanine,Service Call,5/8/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/8/25
 Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Preventive Maintenance Inspection,5/11/25
+Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,5/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,Service Call,5/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,5/8/25
 Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Service Call,5/8/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
