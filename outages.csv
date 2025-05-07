@@ -1,24 +1,21 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,5/9/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol South,ESC / Escalator between mezzanine and platform,Service Call,5/9/25
 Capitol South,ESC / Escalator between mezzanine and platform,Other,5/9/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,5/9/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
-Deanwood,ELE / Elevator between street and mezzanine,Service Call,5/9/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Minor Repair,5/8/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Major Repair,5/9/25
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,5/9/25
+Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,5/9/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
-McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,5/9/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Inspection Repair,5/8/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Minor Repair,5/9/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/9/25
@@ -33,6 +30,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,5/9/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,5/9/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,5/9/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,5/8/25
