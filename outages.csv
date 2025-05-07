@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,5/9/25
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,5/9/25
-Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,5/9/25
+Ashburn,ESC / Escalator - south entry pavilion Ashburn,Minor Repair,5/9/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,5/9/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -19,7 +19,7 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Major Repair,5/9/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,5/8/25
 Grosvenor-Strathmore,ELE / Garage elevator,Other,5/16/25
-Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Service Call,5/9/25
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Minor Repair,5/9/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to station entrance) 7th & D St (USDOT Entrance),Inspection Repair,5/7/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,5/9/25
@@ -30,9 +30,7 @@ Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanin
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,5/8/25
-New Carrollton,ESC / Escalator between mezzanine and street at Route 450,Service Call,5/8/25
-Pentagon,ELE / Elevator between the bus bay and the mezzanine,Service Call,5/8/25
-Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/8/25
+Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Preventive Maintenance Inspection,5/14/25
 Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,5/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
