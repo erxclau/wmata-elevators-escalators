@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Preventive Maintenance Inspection,5/9/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,5/9/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -9,7 +10,6 @@ Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Minor Repair,5/8/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Major Repair,5/9/25
@@ -24,7 +24,6 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 NoMa-Gallaudet U,ELE / Elevator between platform and mezzanine Florida Avenue Entrance,Service Call,5/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/8/25
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,4/24/25
-Pentagon,ESC / Escalator between upper and lower platforms,Minor Repair,5/9/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
