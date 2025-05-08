@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,5/11/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Capitol South,ESC / Escalator between street and mezzanine,Service Call,5/10/25
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Scheduled Support,5/10/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Preventive Maintenance Inspection,5/16/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
@@ -13,7 +14,6 @@ Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,5/10/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,5/10/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,5/10/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Fire Alarm,5/10/25
@@ -28,6 +28,5 @@ Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,5/1
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,5/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,5/8/25
