@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/9/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Preventive Maintenance Inspection,5/9/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -30,6 +29,7 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,I
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,4/24/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,5/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
+Rosslyn,ESC / Escalator between mezzanine and upper platform,Preventive Maintenance Inspection,5/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Preventive Maintenance Inspection,5/9/25
@@ -37,6 +37,7 @@ Tenleytown-AU,ESC / Escalator between mezzanine and platform,Preventive Maintena
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Other,5/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Preventive Maintenance Inspection,5/9/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,5/9/25
+Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/10/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,5/9/25
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Inspection Repair,4/30/25
