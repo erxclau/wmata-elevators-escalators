@@ -1,21 +1,17 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,5/12/25
+Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Minor Repair,5/12/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,5/12/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,5/12/25
 Ashburn,ELE / Elevator - between mezzanine and platform Ashburn,Service Call,5/12/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,5/13/25
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Service Call,5/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,5/12/25
 Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Minor Repair,5/11/25
-Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Service Call,5/12/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Other,5/12/25
-Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,5/12/25
-Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,5/12/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,5/12/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
@@ -34,6 +30,7 @@ Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,5/12/25
 Smithsonian,ELE / Elevator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Service Call,5/12/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,5/8/25
