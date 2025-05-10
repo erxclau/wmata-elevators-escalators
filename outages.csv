@@ -1,5 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,5/12/25
+Ashburn,ELE / Elevator - north entry pavilion Ashburn,Service Call,5/11/25
+Ashburn,ELE / Elevator - north entry pavilion Ashburn,Service Call,5/11/25
+Ashburn,ELE / Elevator - south entry pavilion Ashburn,Service Call,5/11/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Modernization,5/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,5/13/25
@@ -10,19 +13,10 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Minor Repair,5/11/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Minor Repair,5/11/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Other,5/12/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Inspection Repair,5/11/25
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,5/11/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Service Call,5/11/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,5/11/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,5/11/25
-Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Service Call,5/11/25
-Greenbelt,ELE / Elevator between mezzanine and platform,Service Call,5/11/25
-Greenbelt,ESC / Escalator between mezzanine and platform,Service Call,5/11/25
-Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,5/11/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Other,5/12/25
 Minnesota Ave,ELE / Elevator between street and mezzanine,Minor Repair,5/11/25
@@ -32,11 +26,11 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,I
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,5/14/25
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,5/12/25
 Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Minor Repair,5/11/25
-Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,5/11/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,5/12/25
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Other,5/16/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Other,5/11/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Major Repair,5/8/25
