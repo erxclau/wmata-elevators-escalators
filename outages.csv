@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Service Call,5/14/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Court House,ESC / Escalator between middle landing and mezzanine,Service Call,5/14/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -31,5 +32,4 @@ Shady Grove,ELE / Elevator between mezzanine and platform,Other,5/14/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Inspection Repair,5/14/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Minor Repair,5/14/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
-Waterfront,ESC / Escalator between mezzanine and platform,Service Call,5/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
