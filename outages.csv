@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Service Call,5/14/25
+Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Minor Repair,5/14/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Service Call,5/14/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Court House,ESC / Escalator between middle landing and mezzanine,Service Call,5/14/25
@@ -8,7 +8,6 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,5/14/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,5/14/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Service Call,5/14/25
@@ -21,7 +20,6 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,5/14/25
 New Carrollton,ESC / Escalator between mezzanine and platform,Service Call,5/14/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/19/25
-Potomac Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/14/25
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Other,5/19/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,5/14/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
