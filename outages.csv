@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,5/14/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -9,7 +10,6 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Preventive Maintenance Inspection,5/14/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,5/16/25
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,5/16/25
 Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entrance,Service Call,5/14/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Inspection Repair,5/19/25
@@ -19,7 +19,6 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,5/14/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/19/25
-Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/14/25
 Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Other,5/19/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
