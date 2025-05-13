@@ -1,10 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Service Call,5/15/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,5/16/25
-Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Minor Repair,5/15/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
+Downtown Largo,ELE / Elevator between south garage and mezzanine,Service Call,5/15/25
+Downtown Largo,ELE / Elevator between south garage and mezzanine,Service Call,5/15/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Service Call,5/15/25
@@ -26,12 +27,12 @@ Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Shady Grove,ELE / Elevator between mezzanine and platform,Other,5/16/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Minor Repair,5/15/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,5/15/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Inspection Repair,5/19/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Minor Repair,5/16/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,5/15/25
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Walker,5/15/25
 Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
 Wheaton,ELE / Garage elevator,Service Call,5/15/25
