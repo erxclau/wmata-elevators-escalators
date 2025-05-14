@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,5/16/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,5/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol South,ESC / Escalator between street and mezzanine,Service Call,5/16/25
@@ -30,12 +31,10 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entr
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/23/25
 Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Service Call,5/16/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Other,5/19/25
-Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Preventive Maintenance Inspection,5/21/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,5/21/25
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,5/16/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,5/16/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Safety Inspection,5/16/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Other,3/31/25
@@ -45,6 +44,7 @@ Tysons,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,5/19/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Walker,5/19/25
 Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/22/25
+West Falls Church,ELE / Garage elevator,Service Call,5/16/25
 West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Service Call,5/16/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
 Wheaton,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/29/25
