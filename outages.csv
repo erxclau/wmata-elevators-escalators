@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Bethesda,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/3/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,5/16/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Preventive Maintenance Inspection,5/16/25
 Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Minor Repair,5/16/25
 Crystal City,ELE / Elevator between street and mezzanine,Minor Repair,5/15/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
@@ -13,9 +14,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle E
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Service Call,5/15/25
 East Falls Church,ESC / Escalator between mezzanine and platform,Service Call,5/16/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Preventive Maintenance Inspection,5/15/25
-Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Preventive Maintenance Inspection,5/15/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,5/15/25
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/15/25
 Franconia-Springfield,ELE / Elevator between ground and pedestrian bridge,Service Call,5/16/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Service Call,5/15/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Service Call,5/15/25
@@ -41,15 +40,9 @@ Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Preventive Maintenance Inspection,5/15/25
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Preventive Maintenance Inspection,5/16/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Inspection Repair,5/19/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,5/19/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,5/19/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Walker,5/19/25
-Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Preventive Maintenance Inspection,5/19/25
-Van Dorn Street,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/16/25
-Van Ness-UDC,ESC / Escalator between street and middle landing at on east side of Connecticut Ave. at Giant and CVS,Preventive Maintenance Inspection,5/16/25
-Vienna/Fairfax-GMU,ESC / Escalator between mezzanine and platform,Modernization,5/14/25
 Waterfront,ESC / Escalator between street and mezzanine,Service Call,5/15/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
