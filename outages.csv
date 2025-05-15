@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,5/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Capitol Heights,ESC / Escalator between mezzanine and platform,Other,5/17/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,5/23/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
@@ -19,7 +20,9 @@ Glenmont,ELE / Garage elevator,Minor Repair,5/17/25
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Other,5/19/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Inspection Repair,5/19/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,5/17/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Service Call,5/17/25
+Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Service Call,5/17/25
 Minnesota Ave,ESC / Escalator between street and mezzanine,Minor Repair,5/17/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
@@ -28,10 +31,7 @@ Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon 
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,5/17/25
-Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Minor Repair,5/17/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Inspection Repair,7/3/25
-Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Other,5/17/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,5/19/25
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between mezzanine and platform 13th and U St Entrance,Safety Inspection,5/17/25
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,5/17/25
