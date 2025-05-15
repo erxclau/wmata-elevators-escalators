@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,5/17/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,5/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,5/20/25
@@ -22,13 +23,14 @@ Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entran
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Inspection Repair,5/19/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Inspection Repair,5/1/25
-Minnesota Ave,ESC / Escalator between street and mezzanine,Service Call,5/17/25
+Minnesota Ave,ESC / Escalator between street and mezzanine,Minor Repair,5/17/25
+Minnesota Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/22/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Minor Repair,5/17/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/23/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Other,5/19/25
-Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Preventive Maintenance Inspection,5/21/25
+Reston Town Center,ESC / Escalator - north entry pavilion Reston Town Center,Preventive Maintenance Inspection,5/22/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Minor Repair,5/19/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
