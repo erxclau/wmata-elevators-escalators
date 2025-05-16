@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Service Call,5/17/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Minor Repair,5/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Columbia Heights,ELE / Elevator between mezzanine and platform,Minor Repair,5/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Deanwood,ESC / Escalator between street and mezzanine,Minor Repair,5/19/25
@@ -13,7 +12,6 @@ Federal Center SW,ESC / Escalator between street and mezzanine,Major Repair,5/19
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/17/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,5/17/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,5/17/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,5/17/25
 Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Major Repair,5/19/25
@@ -26,7 +24,7 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfan
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,5/17/25
 McLean,ELE / Elevator between mezzanine to grade/street,Minor Repair,5/17/25
-McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Vermont Ave./Veterans Administration Entrance,Preventive Maintenance Inspection,5/17/25
+McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Preventive Maintenance Inspection,5/18/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Preventive Maintenance Inspection,5/18/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,5/17/25
 Minnesota Ave,ESC / Escalator between street and mezzanine,Minor Repair,5/17/25
@@ -34,15 +32,14 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/23/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,5/17/25
-Potomac Yard,ESC / Escalator between mezzanine and Franconia-Springfield and Huntington platform,Preventive Maintenance Inspection,5/17/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield North Entrance,Minor Repair,5/17/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Preventive Maintenance Inspection,5/18/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Service Call,5/17/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,5/17/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Preventive Maintenance Inspection,5/17/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,5/19/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Walker,5/17/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,5/17/25
