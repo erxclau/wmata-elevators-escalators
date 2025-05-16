@@ -1,8 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,5/19/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Service Call,5/18/25
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,5/18/25
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,5/18/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol South,ESC / Escalator between street and mezzanine,Other,5/18/25
@@ -25,7 +23,7 @@ Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Major Repair
 Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,5/17/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Inspection Repair,5/18/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,5/18/25
 McLean,ELE / Elevator between mezzanine to grade/street,Other,5/19/25
 Minnesota Ave,ESC / Escalator between street and mezzanine,Other,5/19/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
