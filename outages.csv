@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,5/19/25
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Service Call,5/19/25
 Ashburn,ELE / Elevator - north entry pavilion Ashburn,Service Call,5/19/25
-Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Service Call,5/18/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Service Call,5/18/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Other,5/18/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/19/25
@@ -13,7 +12,6 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,5/19/25
 Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,5/19/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
-Dupont Circle,ELE / Elevator between mezzanine and platform to Shady Grove Q Street Entrance,Service Call,5/18/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,5/19/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Major Repair,5/19/25
@@ -25,7 +23,6 @@ Huntington,ESC / Escalator between mezzanine and platform Huntington Ave. Entran
 Huntington,ESC / Escalator to station entrance North Kings Hwy Entrance,Service Call,5/19/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,5/19/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,5/19/25
 Minnesota Ave,ESC / Escalator between street and mezzanine,Other,5/19/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
@@ -42,7 +39,7 @@ Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,5/19/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Service Call,5/19/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Minor Repair,5/19/25
-Union Station,"ELE / Elevator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,5/18/25
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,5/19/25
 Van Dorn Street,ESC / Escalator between mezzanine and platform,Other,5/19/25
 Virginia Square-GMU,ESC / Escalator between street and mezzanine,Service Call,5/19/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
