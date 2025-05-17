@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Other,5/19/25
 Cleveland Park,ESC / Escalator between mezzanine and platform,Minor Repair,5/19/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
@@ -23,11 +24,11 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,I
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,5/19/25
 Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Service Call,5/19/25
 Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Service Call,5/19/25
-Potomac Yard,ESC / Escalator between mezzanine and Franconia-Springfield and Huntington platform,Service Call,5/18/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,5/19/25
+Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,5/19/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,5/19/25
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Other,5/19/25
 Silver Spring Transit Center,ESC / Escalator - between Level 3 and Level 2,Other,5/19/25
