@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,5/19/25
+Ballston-MU,ELE / Elevator between street and mezzanine to Vienna,Service Call,5/19/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/19/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,5/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -28,9 +29,11 @@ Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,5/19/25
 Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,5/19/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,5/19/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,5/19/25
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,5/19/25
+Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,5/19/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Other,5/19/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,5/19/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,5/19/25
 Van Dorn Street,ESC / Escalator between mezzanine and platform,Other,5/19/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
 Woodley Park-Zoo/Adams Morgan,"ELE / Elevator between street and mezzanine, SW corner of Woodley Rd. & Connecticut Ave., N.W.",Service Call,5/19/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Service Call,5/19/25
