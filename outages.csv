@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Service Call,5/20/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Cleveland Park,ESC / Escalator between mezzanine and platform,Minor Repair,5/19/25
@@ -12,6 +13,7 @@ Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Minor Repair,5/20/
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,5/19/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,5/20/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,5/20/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Modernization,5/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,5/20/25
@@ -20,9 +22,11 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/23/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
+Rosslyn,ESC / Escalator between mezzanine and upper platform,Service Call,5/20/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,5/19/25
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Other,5/20/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,5/19/25
 Tenleytown-AU,ESC / Escalator between mezzanine and platform,Other,5/20/25
 Waterfront,ESC / Escalator between mezzanine and platform,Minor Repair,5/20/25
