@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,5/21/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Minor Repair,5/21/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -23,6 +22,7 @@ Morgan Boulevard,ESC / Escalator between mezzanine and platform,Minor Repair,5/2
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,5/21/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
