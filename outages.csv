@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,5/22/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,5/22/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Minor Repair,5/21/25
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,5/22/25
 Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Minor Repair,5/26/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -35,13 +34,13 @@ Minnesota Ave,ESC / Escalator between street and mezzanine,Preventive Maintenanc
 Minnesota Ave,ESC / Escalator between street and mezzanine,Walker,5/22/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/22/25
-Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Service Call,5/22/25
+Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Scheduled Support,5/22/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Naylor Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/22/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Safety Inspection,3/7/25
-Pentagon,ESC / Escalator between upper and lower platforms,Minor Repair,5/23/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,5/22/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
@@ -50,6 +49,7 @@ Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspec
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,5/22/25
 Stadium-Armory,ESC / Escalator between street and mezzanine D.C. General Hospital Entrance,Safety Inspection,5/22/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,6/2/25
+Tysons,ELE / Elevator between mezzanine and platform,Safety Inspection,5/22/25
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Walker,5/22/25
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Preventive Maintenance Inspection,5/22/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Minor Repair,5/23/25
@@ -59,4 +59,5 @@ Van Ness-UDC,ELE / Elevator between street and mezzanine,Service Call,5/22/25
 Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,5/29/25
 West Falls Church,ELE / Garage elevator,Service Call,5/22/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
+Wheaton,ESC / Escalator between mezzanine and platform,Other,5/22/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Minor Repair,5/22/25
