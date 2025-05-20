@@ -1,12 +1,10 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Preventive Maintenance Inspection,5/22/25
 Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Preventive Maintenance Inspection,5/22/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Minor Repair,5/21/25
 Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/22/25
 Bethesda,"ELE / Elevator between street and mezzanine, corner of Wisconsin Ave. and Montgomery Lane",Minor Repair,5/21/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Capitol South,ESC / Escalator between street and mezzanine,Service Call,5/21/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Preventive Maintenance Inspection,5/22/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
@@ -38,7 +36,6 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entr
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Preventive Maintenance Inspection,5/25/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Preventive Maintenance Inspection,5/22/25
-Pentagon City,"ESC / Escalator between street and mezzanine on east side of Hayes street, at Pentagon Centre",Preventive Maintenance Inspection,5/22/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
