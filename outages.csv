@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,5/23/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Minor Repair,5/21/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -20,7 +21,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfan
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,5/26/25
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Other,5/26/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,5/23/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,5/23/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
@@ -34,4 +34,4 @@ Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Larg
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Inspection Repair,5/23/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,6/2/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
-West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,
+West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,5/23/25
