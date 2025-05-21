@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,5/23/25
 Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Minor Repair,5/21/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
+Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,5/23/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
@@ -19,6 +20,7 @@ Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th an
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Minor Repair,5/26/25
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Minor Repair,5/23/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,5/23/25
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,5/23/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
@@ -33,6 +35,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Minor Repair,5/22/25
+Spring Hill,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,5/23/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,6/2/25
 Tysons,ELE / Elevator between mezzanine and platform,Safety Inspection,5/23/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Walker,5/21/25
