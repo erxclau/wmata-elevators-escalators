@@ -1,12 +1,11 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Minor Repair,5/26/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,5/24/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Other,5/24/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,5/24/25
@@ -29,6 +28,5 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,5/24/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,5/24/25
-Southern Avenue,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,5/24/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Major Repair,6/2/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
