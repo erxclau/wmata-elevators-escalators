@@ -1,10 +1,10 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Other,5/24/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Minor Repair,5/26/25
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,5/24/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/1/25
-Court House,ESC / Escalator between street (Wilson Blvd) and middle landing/tunnel,Other,5/24/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -27,7 +27,6 @@ Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Other,5/2
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
-Pentagon,ESC / Escalator between upper and lower platforms,Safety Inspection,4/27/25
 Potomac Ave,ELE / Elevator between mezzanine and platform,Service Call,5/23/25
 Rockville,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/24/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
