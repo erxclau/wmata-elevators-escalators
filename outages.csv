@@ -1,10 +1,10 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Other,5/25/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Other,5/25/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
 College Park-U of Md,ELE / Elevator between mezzanine and platform,Service Call,5/25/25
-Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Service Call,5/25/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -32,6 +32,7 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Service Call,5/25/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
 Pentagon City,"ESC / Escalator between street and mezzanine on west side of Hayes street, at The Fashion Center",Service Call,5/25/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Service Call,5/25/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
