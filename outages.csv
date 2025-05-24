@@ -1,4 +1,7 @@
 station,type_location,reason,estimated_return_to_service
+Ashburn,ELE / Elevator - between mezzanine and platform Ashburn,Service Call,5/26/25
+Ashburn,ESC / Escalator - betweeen mezzanine and platform Ashburn,Service Call,5/26/25
+Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,5/26/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
@@ -15,6 +18,8 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and t
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,5/26/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Walker,5/24/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,5/26/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,5/26/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,5/26/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,5/26/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Service Call,5/26/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
