@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
-Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,5/25/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -18,17 +17,19 @@ Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Minor Repair,5/26/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,5/26/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,5/25/25
 Medical Center,ELE / Elevator between street and mezzanine,Minor Repair,5/25/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,5/25/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,5/25/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Minor Repair,5/25/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,5/26/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
-Rhode Island Ave-Brentwood,ELE / Elevator between mezzanine and platform,Service Call,5/25/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,5/25/25
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,5/25/25
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,5/25/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
