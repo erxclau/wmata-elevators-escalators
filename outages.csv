@@ -1,19 +1,17 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,5/27/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,5/26/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
+Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,5/25/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,5/27/25
+Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Minor Repair,5/27/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,5/26/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
-Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Safety Inspection,5/26/25
-Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Service Call,5/27/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,5/26/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Major Repair,5/26/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,5/30/25
@@ -31,9 +29,5 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,I
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Service Call,5/27/25
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,5/27/25
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,5/27/25
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Other,5/27/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Minor Repair,5/26/25
