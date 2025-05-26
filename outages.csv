@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,5/28/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
@@ -14,7 +15,6 @@ Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Se
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,5/28/25
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Other,5/28/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,5/28/25
-Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Service Call,5/28/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,5/26/25
@@ -25,6 +25,7 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Minor Repair,5/26/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 McLean,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,5/28/25
+McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Vermont Ave./Veterans Administration Entrance,Service Call,5/28/25
 Medical Center,ESC / Escalator between street and mezzanine,Service Call,5/28/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Minor Repair,5/25/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
