@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,5/28/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,5/26/25
@@ -11,7 +12,6 @@ Federal Triangle,ESC / Escalator between mezzanine and platform,Preventive Maint
 Federal Triangle,ESC / Escalator between mezzanine and platform,Walker,5/28/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
-Friendship Heights,ESC / Escalator between Hecht Co. and street Western Avenue Entrance,Preventive Maintenance Inspection,5/28/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Walker,5/28/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,5/26/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Major Repair,5/26/25
@@ -25,10 +25,10 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,5/26/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
-Ronald Reagan Washington National Airport,ELE / Elevator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Minor Repair,5/28/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,5/28/25
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,5/28/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,5/28/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
