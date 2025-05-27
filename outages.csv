@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,5/29/25
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,5/29/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,5/29/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -16,10 +15,8 @@ Federal Triangle,ESC / Escalator between mezzanine and platform,Preventive Maint
 Federal Triangle,ESC / Escalator between mezzanine and platform,Walker,5/29/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Other,5/29/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,5/29/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Walker,5/29/25
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,5/29/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,5/30/25
 Glenmont,"ELE / Elevator between street and mezzanine, west side of station at Kiss & Ride",Safety Inspection,3/31/25
 Judiciary Square,ELE / Elevator between street and platform to Glenmont Building Museum Entrance,Safety Inspection,5/29/25
@@ -41,4 +38,4 @@ Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Larg
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Inspection Repair,5/28/25
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,5/29/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
-Woodley Park-Zoo/Adams Morgan,"ELE / Elevator between street and mezzanine, SW corner of Woodley Rd. & Connecticut Ave., N.W.",Other,
+Woodley Park-Zoo/Adams Morgan,"ELE / Elevator between street and mezzanine, SW corner of Woodley Rd. & Connecticut Ave., N.W.",Service Call,5/29/25
