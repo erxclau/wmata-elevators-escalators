@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,5/29/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,5/29/25
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,5/29/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -22,20 +23,19 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and t
 Glenmont,"ELE / Elevator between street and mezzanine, west side of station at Kiss & Ride",Safety Inspection,3/31/25
 Judiciary Square,ELE / Elevator between street and platform to Glenmont Building Museum Entrance,Safety Inspection,5/29/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,5/26/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,5/26/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,5/29/25
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,5/29/25
+Potomac Ave,ESC / Escalator between street and mezzanine,Service Call,5/29/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,5/29/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,5/29/25
+Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,5/29/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Inspection Repair,6/3/25
-Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/7/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Inspection Repair,5/28/25
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,5/29/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
