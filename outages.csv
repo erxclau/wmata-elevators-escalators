@@ -1,6 +1,5 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ELE / Elevator - between mezzanine and platform Ashburn,Minor Repair,5/28/25
-Bethesda,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/28/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Preventive Maintenance Inspection,5/28/25
@@ -18,9 +17,7 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,5/28/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Major Repair,5/26/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,5/30/25
-Huntington,ESC / Escalator to station entrance North Kings Hwy Entrance,Preventive Maintenance Inspection,5/28/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,5/28/25
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,5/29/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Preventive Maintenance Inspection,5/29/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/29/25
@@ -32,8 +29,7 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,I
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Inspection Repair,6/4/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Inspection Repair,6/3/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Inspection Repair,5/28/25
-West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,6/3/25
+Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,5/29/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
