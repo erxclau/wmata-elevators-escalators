@@ -1,6 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Service Call,5/28/25
-Benning Road,"ELE / Elevator between street and mezzanine, north side of Benning Road at 45th Street",Minor Repair,5/28/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,5/28/25
@@ -15,7 +13,8 @@ Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,5/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Minor Repair,5/26/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-Morgan Boulevard,ESC / Escalator between mezzanine and platform,Minor Repair,5/25/25
+Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Preventive Maintenance Inspection,5/28/25
+Morgan Boulevard,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,5/24/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,5/26/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
