@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ELE / Elevator - between mezzanine and platform Ashburn,Minor Repair,5/28/25
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,5/29/25
+Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,5/29/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,5/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Congress Heights,ELE / Elevator between mezzanine and street,Service Call,5/28/25
@@ -19,7 +20,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfan
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,5/29/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,5/29/25
 Loudoun Gateway,ESC / Escalator - north entry pavilion Loudoun Gateway,Preventive Maintenance Inspection,5/29/25
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Preventive Maintenance Inspection,5/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Minor Repair,5/26/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
@@ -27,7 +27,9 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entr
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,5/29/25
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Service Call,5/29/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,5/26/25
+Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,5/29/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
+Rosslyn,ESC / Escalator between mezzanine and upper platform,Service Call,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,5/29/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Inspection Repair,6/3/25
