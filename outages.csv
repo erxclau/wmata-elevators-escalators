@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Service Call,5/30/25
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,5/30/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/6/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
@@ -8,7 +9,6 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,5/30/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Minor Repair,5/30/25
-Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Other,5/30/25
 Federal Triangle,ESC / Escalator between street and middle landing,Other,5/30/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,5/30/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,6/2/25
@@ -40,3 +40,4 @@ Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Maj
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
 Wheaton,ELE / Garage elevator,Scheduled Support,5/30/25
 Wheaton,ELE / Garage elevator,Scheduled Support,5/30/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,5/30/25
