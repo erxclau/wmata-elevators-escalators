@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Other,6/2/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,5/31/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,5/31/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Preventive Maintenance Inspection,6/2/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Minor Repair,6/2/25
@@ -35,9 +36,9 @@ Shady Grove,ESC / Escalator between east side parking/Kiss & Ride and mezzanine,
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,6/2/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Safety Inspection,5/31/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Inspection Repair,6/6/25
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,5/31/25
 Suitland,ELE / Elevator between mezzanine and pedestrian bridge,Minor Repair,5/31/25
-Virginia Square-GMU,ESC / Escalator between mezzanine and platform to Vienna,Major Repair,6/2/25
-West Falls Church,ELE / Elevator between north side bus terminal and mezzanine (Dulles Access Road entrance),Other,5/31/25
+U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street and mezzanine 13th and U St Entrance,Service Call,5/31/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
 Wheaton,ELE / Garage elevator,Scheduled Support,5/30/25
 Wheaton,ELE / Garage elevator,Scheduled Support,5/30/25
