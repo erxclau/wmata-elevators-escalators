@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Other,6/2/25
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,5/31/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,5/31/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Service Call,5/31/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Service Call,5/31/25
@@ -13,7 +14,6 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,5/31/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,5/31/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,6/2/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,5/31/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
