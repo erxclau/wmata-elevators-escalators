@@ -1,5 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Other,6/2/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,6/2/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,6/2/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,6/2/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,6/9/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/6/25
@@ -10,7 +12,6 @@ Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,6/2/25
 Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,6/1/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,6/2/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
@@ -30,6 +31,6 @@ Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Service Call,
-Stadium-Armory,ELE / Elevator between street and mezzanine D.C. General Hospital Entrance,Service Call,6/2/25
+Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,6/2/25
 Suitland,ELE / Elevator between mezzanine and pedestrian bridge,Minor Repair,5/31/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
