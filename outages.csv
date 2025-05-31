@@ -1,8 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Other,6/2/25
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,6/2/25
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,6/2/25
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,6/2/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/2/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Other,6/2/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,6/2/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,6/9/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/6/25
@@ -17,6 +17,7 @@ Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,6/2/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,6/2/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,6/2/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Minor Repair,6/1/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
@@ -35,8 +36,7 @@ Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Service Call,
 Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,6/2/25
-Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,6/2/25
 Suitland,ELE / Elevator between mezzanine and pedestrian bridge,Minor Repair,5/31/25
-Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Service Call,6/2/25
+Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Minor Repair,6/2/25
 West Falls Church,ESC / Escalator between mezzanine and platform to Vienna,Service Call,6/2/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
