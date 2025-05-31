@@ -1,11 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Other,6/2/25
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Other,6/1/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,6/2/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,6/9/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/6/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Major Repair,6/2/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,6/1/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
@@ -15,23 +15,20 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,6/1/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,6/1/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,6/1/25
-Judiciary Square,ELE / Elevator between street and platform to Shady Grove Building Museum Entrance,Service Call,6/1/25
+Judiciary Square,ELE / Elevator between street and platform to Shady Grove Building Museum Entrance,Minor Repair,6/1/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Service Call,6/1/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Service Call,6/1/25
+Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Other,6/1/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,6/2/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,6/1/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/20/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,6/2/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,6/2/25
-Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,6/1/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Inspection Repair,6/6/25
 Suitland,ELE / Elevator between mezzanine and pedestrian bridge,Minor Repair,5/31/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,6/1/25
 West Falls Church,ELE / Garage elevator,Other,6/2/25
-West Falls Church,ESC / Escalator between mezzanine and platform to New Carrolton,Service Call,6/1/25
-West Falls Church,ESC / Escalator between north side bus terminal and mezzanine (Dulles Access Road entrance),Service Call,6/1/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
