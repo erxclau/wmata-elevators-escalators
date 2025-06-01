@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Other,6/2/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Other,6/2/25
+Ballston-MU,ELE / Elevator between street and mezzanine to Vienna,Service Call,6/3/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,6/9/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/6/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Major Repair,6/2/25
@@ -16,7 +17,6 @@ Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,6/2/2
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,6/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
-Herndon,ESC / Escalator - north entry pavilion Herndon,Service Call,6/3/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Minor Repair,6/1/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,6/2/25
@@ -25,12 +25,11 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Minor Repair,6/2/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,6/2/25
 Pentagon,ESC / Escalator between upper and lower platforms,Service Call,6/2/25
-Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,6/3/25
-Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Minor Repair,6/2/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,6/3/25
 Suitland,ELE / Elevator between mezzanine and pedestrian bridge,Minor Repair,5/31/25
 Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,6/3/25
+Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,6/3/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,5/8/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,6/2/25
