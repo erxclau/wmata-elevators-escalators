@@ -1,9 +1,11 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Other,6/2/25
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,6/3/25
 Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Other,6/9/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/6/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Major Repair,6/2/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Cheverly,ESC / Escalator between street and mezzanine,Service Call,6/3/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,9/2/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,9/1/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,6/23/25
