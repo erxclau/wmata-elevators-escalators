@@ -6,7 +6,6 @@ Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic Universit
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
-Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,6/5/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,6/5/25
@@ -19,6 +18,7 @@ Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,6/5/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
+Friendship Heights,ELE / Elevator between mezzanine and platform Jenifer Street Entrance,Scheduled Support,6/6/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Minor Repair,6/5/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,6/9/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Inspection Repair,6/9/25
@@ -35,13 +35,14 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/16/25
-Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,6/5/25
+Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,6/5/25
 Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Preventive Maintenance Inspection,6/5/25
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Service Call,6/5/25
+Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/6/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Preventive Maintenance Inspection,6/5/25
-Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Preventive Maintenance Inspection,6/6/25
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Inspection Repair,6/26/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Major Repair,6/9/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Walker,6/5/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Service Call,6/5/25
