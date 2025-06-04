@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Major Repair,6/9/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Other,6/6/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,6/6/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
@@ -7,6 +6,7 @@ Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/5/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/9/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Other,6/6/25
+Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Other,6/6/25
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,6/9/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Service Call,6/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
@@ -25,16 +25,19 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and t
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,6/9/25
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Minor Repair,6/9/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
+McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,6/6/25
 Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Other,6/6/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/9/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/16/25
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Other,6/16/25
+Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Service Call,6/6/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,6/6/25
+Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,6/6/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wheaton,ELE / Garage elevator,Minor Repair,6/6/25
 Wiehle-Reston East,ESC / Escalator - south entry pavilion,Inspection Repair,6/9/25
