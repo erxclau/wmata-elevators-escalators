@@ -7,12 +7,12 @@ Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic Universit
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,6/6/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/6/25
-Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,6/6/25
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Preventive Maintenance Inspection,6/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
+Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,6/6/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Friendship Heights,ELE / Elevator between mezzanine and platform Jenifer Street Entrance,Scheduled Support,6/6/25
@@ -33,11 +33,11 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,M
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,6/5/25
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Service Call,6/5/25
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Other,6/5/25
-Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,6/6/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/6/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,6/6/25
+Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,6/6/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,6/6/25
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,6/6/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Other,6/9/25
