@@ -1,9 +1,11 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,6/6/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Service Call,6/6/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/5/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/9/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Major Repair,6/9/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/6/25
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,6/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -28,16 +30,15 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 North Bethesda,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/6/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/16/25
-Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,6/5/25
+Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Minor Repair,6/9/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,6/6/25
-Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Other,6/9/25
+Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Other,6/16/25
 Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/6/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,6/6/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,6/6/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,6/6/25
-Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Service Call,6/6/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Other,6/9/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wheaton,ELE / Garage elevator,Minor Repair,6/6/25
