@@ -1,10 +1,10 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,6/6/25
-Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/6/25
+Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Major Repair,6/9/25
+Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/5/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/9/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,6/6/25
+Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,6/9/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
@@ -14,10 +14,11 @@ Federal Triangle,ESC / Escalator between street and middle landing,Major Repair,
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Friendship Heights,ELE / Elevator between mezzanine and platform Jenifer Street Entrance,Scheduled Support,6/6/25
+Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,6/6/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Inspection Repair,6/9/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,6/6/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,6/9/25
-Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Minor Repair,6/6/25
+Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Minor Repair,6/9/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/9/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
@@ -25,8 +26,9 @@ Naylor Road,ESC / Escalator between mezzanine and platform,Preventive Maintenanc
 Pentagon,ELE / Elevator between the bus bay and the mezzanine,Inspection Repair,6/6/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/16/25
+Potomac Ave,ESC / Escalator between street and mezzanine,Safety Inspection,6/6/25
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Other,6/16/25
-Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/6/25
+Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
