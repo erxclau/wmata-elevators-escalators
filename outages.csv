@@ -5,6 +5,7 @@ Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/6/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Major Repair,6/9/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,6/9/25
+Congress Heights,ESC / Escalator between mezzanine and buses/parking,Preventive Maintenance Inspection,6/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
@@ -24,7 +25,6 @@ Glenmont,ELE / Garage elevator,Minor Repair,6/7/25
 Greensboro,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,6/7/25
 Herndon,ELE / Elevator - between mezzanine and platform Herndon,Service Call,6/7/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,6/7/25
 Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Other,6/7/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,6/7/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/9/25
@@ -37,8 +37,6 @@ Rosslyn,"ELE / Elevator between street, and upper platform",Inspection Repair,6/
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
-Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,6/7/25
-Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,6/7/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,6/7/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wheaton,ELE / Garage elevator,Minor Repair,6/6/25
