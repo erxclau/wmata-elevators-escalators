@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Ballston-MU,ESC / Escalator between middle landing and mezzanine,Other,6/8/25
+Ballston-MU,ESC / Escalator between middle landing and mezzanine,Safety Inspection,6/8/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,6/8/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/6/25
@@ -26,6 +26,7 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,M
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
+Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,6/8/25
 Van Ness-UDC,ELE / Elevator between street and mezzanine,Safety Inspection,6/8/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wiehle-Reston East,ESC / Escalator - south entry pavilion,Inspection Repair,6/9/25
