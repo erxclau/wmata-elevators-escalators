@@ -2,7 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Safety Inspection,6/8/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,6/8/25
-Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/6/25
+Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,6/8/25
 Cheverly,ESC / Escalator between street and mezzanine,Service Call,6/8/25
@@ -15,6 +15,7 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/D
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq,Service Call,6/8/25
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Minor Repair,6/8/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,6/8/25
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/8/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,6/8/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,6/8/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
