@@ -2,7 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/6/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Cleveland Park,ESC / Escalator between mezzanine and middle landing,Scheduled Support,6/8/25
+Cleveland Park,ESC / Escalator between mezzanine and middle landing,Other,6/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
@@ -13,7 +13,6 @@ Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Mi
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Safety Inspection,3/31/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/9/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/9/25
@@ -21,7 +20,7 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,M
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
+Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Other,6/8/25
 Van Ness-UDC,ELE / Elevator between street and mezzanine,Safety Inspection,6/8/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wiehle-Reston East,ESC / Escalator - south entry pavilion,Inspection Repair,6/9/25
-Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Other,6/8/25
