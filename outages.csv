@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,6/9/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,6/9/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Other,6/9/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,6/8/25
@@ -33,10 +33,10 @@ Rosslyn,"ELE / Elevator between street, and upper platform",Minor Repair,6/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
-Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,6/9/25
+Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Entrance,Minor Repair,6/9/25
+Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,6/9/25
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Other,6/9/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,6/9/25
-Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,6/9/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,6/9/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wiehle-Reston East,ESC / Escalator - south entry pavilion,Inspection Repair,6/9/25
