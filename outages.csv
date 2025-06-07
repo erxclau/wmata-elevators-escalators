@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Ballston-MU,ESC / Escalator between street and middle landing,Service Call,6/9/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -14,6 +13,7 @@ Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/L
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,6/8/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
+Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Other,6/9/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Medical Center,ESC / Escalator between mezzanine and platform,Minor Repair,6/8/25
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Inspection Repair,3/3/25
@@ -31,6 +31,5 @@ Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. 
 Silver Spring Transit Center,"ELE / Elevator - West, Bonifant St., Serving Levels 3, 2, and 1",Other,6/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street and mezzanine 13th and U St Entrance,Service Call,6/9/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Minor Repair,6/9/25
-Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Service Call,6/9/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wiehle-Reston East,ESC / Escalator - south entry pavilion,Inspection Repair,6/9/25
