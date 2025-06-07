@@ -1,17 +1,19 @@
 station,type_location,reason,estimated_return_to_service
+Ballston-MU,ESC / Escalator between street and middle landing,Service Call,6/9/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Safety Inspection,6/8/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
-Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,6/8/25
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Minor Repair,6/8/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Minor Repair,6/8/25
+Clarendon,ESC / Escalator between street and middle landing/tunnel,Service Call,6/9/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Other,6/6/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Minor Repair,6/6/25
-Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Minor Repair,6/8/25
+Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Service Call,6/9/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,6/8/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
@@ -21,6 +23,7 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Lin
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,6/8/25
 Medical Center,ESC / Escalator between street and mezzanine,Minor Repair,6/8/25
+Medical Center,ESC / Escalator between mezzanine and platform,Service Call,6/9/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Minor Repair,6/8/25
 Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,6/8/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,6/8/25
