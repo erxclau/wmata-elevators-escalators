@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Ballston-MU,ESC / Escalator between street and middle landing,Service Call,6/10/25
 Ballston-MU,ESC / Escalator between middle landing and mezzanine,Minor Repair,6/9/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/10/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,6/9/25
@@ -14,6 +15,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle E
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Minor Repair,6/10/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Minor Repair,6/6/25
 East Falls Church,ESC / Escalator between mezzanine and platform,Service Call,6/9/25
+Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,6/10/25
 Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Other,6/9/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,6/8/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,7/3/25
@@ -27,8 +29,10 @@ Medical Center,ESC / Escalator between mezzanine and platform,Minor Repair,6/8/2
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Minor Repair,6/8/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,6/9/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
+NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Service Call,6/10/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/16/25
+Pentagon,ESC / Escalator at north end of bus bay (closer to the Potomac River),Service Call,6/10/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,6/6/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
