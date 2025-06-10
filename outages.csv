@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Minor Repair,6/13/25
 Braddock Road,ESC / Escalator between mezzanine and platform,Minor Repair,6/12/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,6/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Deanwood,ESC / Escalator between street and mezzanine,Inspection Repair,6/12/25
@@ -12,8 +13,7 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,6/12/25
-Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,6/12/25
-Glenmont,ESC / Escalator between mezzanine and platform,Walker,6/12/25
+Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Other,6/12/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,6/12/25
 Minnesota Ave,ESC / Escalator between mezzanine and platform,Inspection Repair,6/11/25
@@ -22,7 +22,7 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/16/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/23/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/12/25
-Rockville,ELE / Elevator between pedestrian bridge and mezzanine,Service Call,6/12/25
+Rockville,ELE / Elevator between pedestrian bridge and mezzanine,Minor Repair,6/12/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
