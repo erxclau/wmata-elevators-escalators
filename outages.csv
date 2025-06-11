@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Minor Repair,6/16/25
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Minor Repair,6/16/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,6/13/25
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Other,6/16/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/13/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/12/25
@@ -21,20 +20,19 @@ L'Enfant Plaza,ELE / Elevator between mezzanine/upper platform to Branch Ave/Hun
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,6/16/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,6/13/25
-Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Other,6/13/25
+McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,6/13/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Minor Repair,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
+Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Service Call,6/13/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/23/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/23/25
-Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Safety Inspection,6/13/25
+Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Inspection Repair,6/13/25
 Potomac Ave,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/13/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Silver Spring Transit Center,ESC / Escalator - between Level 3 and Level 2,Preventive Maintenance Inspection,6/13/25
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Inspection Repair,7/15/25
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Walker,6/13/25
 Suitland,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/13/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,6/13/25
