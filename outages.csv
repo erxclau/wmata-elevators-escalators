@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,6/13/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Minor Repair,6/16/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Other,6/16/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,6/13/25
@@ -8,9 +7,10 @@ Crystal City,ESC / Escalator between street and middle landing,Modernization,8/2
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Service Call,6/13/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Service Call,6/13/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
+Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Other,6/13/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
 L'Enfant Plaza,ELE / Elevator between mezzanine/upper platform to Branch Ave/Huntington and lower platform for Blue/Orange Lines 9th & D St  (L'Enfant Plaza Entrance),Major Repair,6/13/25
@@ -22,7 +22,6 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Ora
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
-Naylor Road,ESC / Escalator between mezzanine and platform,Service Call,6/13/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/23/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/23/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Inspection Repair,6/13/25
@@ -31,5 +30,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Minor Repair,6/13/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Minor Repair,6/13/25
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Other,6/13/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,6/13/25
