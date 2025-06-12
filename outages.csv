@@ -1,9 +1,12 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/14/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,6/13/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,6/13/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Other,6/16/25
 Benning Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/14/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Capitol South,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/14/25
+Capitol South,ESC / Escalator between mezzanine and platform,Minor Repair,6/14/25
 Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,6/13/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -21,6 +24,7 @@ Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and 
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 9th and G Street Entrance,Preventive Maintenance Inspection,6/13/25
 Glenmont,ELE / Garage elevator,Minor Repair,
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Preventive Maintenance Inspection,6/13/25
 L'Enfant Plaza,ELE / Elevator between mezzanine/upper platform to Branch Ave/Huntington and lower platform for Blue/Orange Lines 9th & D St  (L'Enfant Plaza Entrance),Major Repair,6/13/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,6/16/25
@@ -32,11 +36,13 @@ Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entr
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/23/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/23/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Inspection Repair,6/13/25
+Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Preventive Maintenance Inspection,6/14/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Preventive Maintenance Inspection,6/13/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Minor Repair,6/13/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Minor Repair,6/13/25
+Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Preventive Maintenance Inspection,6/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,6/13/25
