@@ -1,8 +1,10 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/13/25
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Service Call,6/14/25
 Benning Road,ELE / Elevator between mezzanine and platform,Service Call,6/14/25
 Branch Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/14/25
 Capitol South,ESC / Escalator between mezzanine and platform,Minor Repair,6/14/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,6/14/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/14/25
@@ -14,7 +16,6 @@ Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,M
 Federal Center SW,ESC / Escalator between street and mezzanine,Service Call,6/13/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
-Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Preventive Maintenance Inspection,6/19/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
