@@ -1,6 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,6/14/25
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,6/14/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,6/14/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Service Call,6/14/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/14/25
@@ -23,6 +23,7 @@ Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and 
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
 Herndon,ESC / Escalator - south entry pavilion Herndon,Service Call,6/14/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,6/14/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Service Call,6/14/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,6/16/25
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Vermont Ave./Veterans Administration Entrance,Service Call,6/13/25
@@ -35,6 +36,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,6/14/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,6/14/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,6/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,6/13/25
