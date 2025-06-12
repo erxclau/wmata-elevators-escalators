@@ -1,17 +1,19 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,6/13/25
-Arlington Cemetery,ELE / Elevator between mezzanine and platform to Largo Town Center,Service Call,6/13/25
-Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Service Call,6/13/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Minor Repair,6/13/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Other,6/16/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Cheverly,ESC / Escalator between mezzanine and platform to New Carrollton,Service Call,6/13/25
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Service Call,6/13/25
-Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Service Call,6/13/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Service Call,6/13/25
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Service Call,6/13/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Preventive Maintenance Inspection,6/13/25
+Federal Center SW,ESC / Escalator between street and mezzanine,Service Call,6/13/25
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/13/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
@@ -20,6 +22,9 @@ Glenmont,ELE / Garage elevator,Minor Repair,
 L'Enfant Plaza,ELE / Elevator between mezzanine/upper platform to Branch Ave/Huntington and lower platform for Blue/Orange Lines 9th & D St  (L'Enfant Plaza Entrance),Major Repair,6/13/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Major Repair,6/16/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Branch Ave/Huntington (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,6/13/25
+McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Vermont Ave./Veterans Administration Entrance,Service Call,6/13/25
+Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Preventive Maintenance Inspection,6/13/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/23/25
