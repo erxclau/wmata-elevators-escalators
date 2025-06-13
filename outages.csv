@@ -1,10 +1,8 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/16/25
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,6/15/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Minor Repair,6/16/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Clarendon,ESC / Escalator between mezzanine and platform to New Carrollton,Major Repair,6/16/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
@@ -12,10 +10,9 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Service Call,6/15/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Other,6/16/25
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Minor Repair,6/16/25
-Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Service Call,6/15/25
-Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, East of Connecticut, north side L Street",Service Call,6/15/25
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,6/15/25
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Other,6/15/25
+Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Minor Repair,6/15/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/15/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,6/15/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
@@ -25,7 +22,6 @@ Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and 
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,6/14/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Minor Repair,6/16/25
-Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,6/14/25
 Herndon,ESC / Escalator - south entry pavilion Herndon,Service Call,6/15/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Service Call,6/15/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Minor Repair,6/16/25
@@ -37,8 +33,8 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,M
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
+Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Major Repair,6/15/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Minor Repair,6/15/25
-Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,6/15/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,6/15/25
 Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,6/15/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
