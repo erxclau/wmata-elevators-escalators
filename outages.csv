@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/16/25
+Ballston-MU,ESC / Escalator between street and middle landing,Service Call,6/15/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Minor Repair,6/16/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
@@ -8,17 +9,15 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Other,6/16/25
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Minor Repair,6/16/25
-Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Other,6/15/25
+Federal Triangle,ESC / Escalator between street and middle landing,Other,6/15/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,6/15/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,6/14/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,6/15/25
+Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,6/15/25
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,6/15/25
-Herndon,ESC / Escalator - south entry pavilion Herndon,Service Call,6/15/25
-Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Minor Repair,6/15/25
+Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Minor Repair,6/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Minor Repair,6/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Medical Center,ESC / Escalator between street and mezzanine,Service Call,6/15/25
