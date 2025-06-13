@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Scheduled Support,6/15/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/16/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Minor Repair,6/16/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -14,16 +13,13 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Service Call,6/15/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,6/15/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,6/15/25
-Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,6/15/25
+Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Minor Repair,6/16/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Minor Repair,6/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT Entrance),Minor Repair,6/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to station entrance) 9th & D St  (L'Enfant Plaza Entrance),Other,6/15/25
-Medical Center,ESC / Escalator between street and mezzanine,Service Call,6/15/25
-Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Other,6/15/25
+McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Other,6/15/25
+Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,6/15/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/23/25
@@ -36,5 +32,4 @@ Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesvil
 Waterfront,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/15/25
 West Falls Church,ELE / Garage elevator,Service Call,6/15/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
-Wheaton,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/16/25
 Wiehle-Reston East,ESC / Escalator - between mezzanine and platform,Service Call,6/16/25
