@@ -2,6 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/16/25
 Bethesda,ESC / Escalator between mezzanine and platform,Other,6/15/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
+Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Service Call,6/16/25
 Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Service Call,6/16/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Service Call,6/16/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repair,6/15/25
@@ -11,7 +12,6 @@ Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franco
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Service Call,6/16/25
-Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Minor Repair,6/16/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Other,6/16/25
@@ -22,10 +22,10 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 
 Greenbelt,ESC / Escalator between mezzanine and platform,Service Call,6/15/25
 Herndon,ESC / Escalator - south entry pavilion Herndon,Other,6/16/25
 Herndon,ESC / Escalator - south entry pavilion Herndon,Service Call,6/15/25
-Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,6/16/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Minor Repair,6/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,6/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
+Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,6/16/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Service Call,6/16/25
@@ -40,6 +40,7 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Service Call,6/15/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Minor Repair,6/16/25
 Stadium-Armory,ESC / Escalator between street and mezzanine D.C. General Hospital Entrance,Service Call,6/16/25
+Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Service Call,6/16/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Service Call,6/15/25
 Waterfront,ESC / Escalator between street and mezzanine,Service Call,6/16/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
