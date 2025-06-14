@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,6/16/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/16/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/16/25
 Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,6/16/25
 Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Service Call,6/16/25
 Cleveland Park,ESC / Escalator between mezzanine and platform,Service Call,6/16/25
@@ -13,7 +13,6 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Eastern Market,ESC / Escalator between mezzanine and platform,Service Call,6/16/25
 Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Minor Repair,6/16/25
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Other,6/16/25
-Federal Triangle,ESC / Escalator between street and middle landing,Service Call,6/16/25
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Other,6/16/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,6/16/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
@@ -23,7 +22,6 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,6/16/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Minor Repair,6/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,6/16/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/23/25
@@ -33,5 +31,4 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,6/16/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,6/16/25
-West Hyattsville,ELE / Elevator between mezzanine and platform to Branch Ave,Service Call,6/16/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
