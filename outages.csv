@@ -1,6 +1,11 @@
 station,type_location,reason,estimated_return_to_service
+Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,6/17/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/16/25
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,6/16/25
+Ballston-MU,ESC / Escalator between street and middle landing,Service Call,6/17/25
+Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Service Call,6/17/25
+Bethesda,ESC / Escalator between bus terminal and mezzanine,Service Call,6/17/25
+Brookland-CUA,ESC / Escalator between mezzanine and platform,Service Call,6/17/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Service Call,6/16/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
@@ -9,6 +14,7 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/DuPont Circle Entrance,Other,6/16/25
 East Falls Church,ESC / Escalator between mezzanine and platform,Service Call,6/16/25
+Eastern Market,ESC / Escalator between street and mezzanine,Service Call,6/17/25
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Other,6/16/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Service Call,6/16/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
@@ -16,20 +22,28 @@ Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernizati
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Other,6/11/25
 Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,6/16/25
+Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Service Call,6/17/25
 Innovation Center,ESC / Escalator - south entry pavilion Innovation Center,Major Repair,6/16/25
+Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Service Call,6/17/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,6/16/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Service Call,6/16/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Other,6/16/25
 Minnesota Ave,ELE / Elevator between street and mezzanine,Service Call,6/16/25
+Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Navy Yard Entrance,Modernization,6/16/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/23/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/23/25
+Potomac Ave,ESC / Escalator between mezzanine and platform,Service Call,6/17/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,6/17/25
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield South Entrance,Service Call,6/17/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield South Entrance,Service Call,6/16/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,6/17/25
+Tenleytown-AU,ESC / Escalator between mezzanine and platform,Service Call,6/17/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Service Call,6/17/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
+Wiehle-Reston East,ESC / Escalator - between mezzanine and platform,Service Call,6/17/25
