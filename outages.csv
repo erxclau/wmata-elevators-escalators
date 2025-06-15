@@ -2,7 +2,6 @@ station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/16/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Service Call,6/17/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Congress Heights,ESC / Escalator between mezzanine and platform,Service Call,6/17/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
@@ -21,4 +20,4 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
-Wheaton,ESC / Escalator between mezzanine and platform,Other,6/17/25
+Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,6/17/25
