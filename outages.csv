@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,ELE / Elevator between mezzanine and platform,Service Call,6/19/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/23/25
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,6/19/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to Vienna,Minor Repair,6/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/19/25
@@ -8,6 +9,7 @@ Clarendon,ESC / Escalator between street and middle landing/tunnel,Preventive Ma
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Deanwood,ESC / Escalator between street and mezzanine,Service Call,6/19/25
+Dunn Loring-Merrifield,ELE / Garage elevator,Service Call,6/19/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,6/18/25
@@ -19,7 +21,6 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/16/25
 Grosvenor-Strathmore,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/19/25
 Herndon,ESC / Escalator - south entry pavilion Herndon,Preventive Maintenance Inspection,6/19/25
-Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Service Call,6/19/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Inspection Repair,6/18/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,6/19/25
@@ -35,7 +36,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Minor Repair,6/19/2
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shady Grove,ELE / Garage elevator,Safety Inspection,6/23/25
-Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Major Repair,6/19/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Minor Repair,6/23/25
 Spring Hill,ELE / Elevator - north entry pavilion,Other,6/23/25
 Spring Hill,ESC / Escalator - north entry pavilion,Preventive Maintenance Inspection,6/27/25
