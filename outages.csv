@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,6/19/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/23/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Major Repair,6/23/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,6/23/25
@@ -8,7 +9,6 @@ Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Deanwood,ESC / Escalator between street and mezzanine,Minor Repair,6/23/25
-Downtown Largo,ESC / Escalator between street and mezzanine,Service Call,6/19/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Huntington,Service Call,6/19/25
@@ -23,6 +23,7 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,6/19/25
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Service Call,6/19/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,6/23/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove Building Museum Entrance,Other,6/19/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
@@ -41,4 +42,3 @@ Spring Hill,ESC / Escalator - north entry pavilion,Minor Repair,6/19/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Minor Repair,6/19/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/19/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
-West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,6/19/25
