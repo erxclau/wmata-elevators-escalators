@@ -1,7 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/23/25
+Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Preventive Maintenance Inspection,6/19/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Major Repair,6/23/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Largo Town Center,Minor Repair,6/23/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Walker,6/19/25
 Brookland-CUA,ELE / Elevator between mezzanine and platform,Other,6/19/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -12,7 +12,7 @@ Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Mod
 Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Huntington,Service Call,6/19/25
 Farragut North,"ESC / Escalator between street and mezzanine L Street Entrance, West of Connecticut, south side L Street",Preventive Maintenance Inspection,6/21/25
 Federal Center SW,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/26/25
-Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,6/19/25
+Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/19/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Service Call,6/19/25
@@ -21,10 +21,10 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Minor Repair,6/19/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,6/23/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Preventive Maintenance Inspection,6/19/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,6/19/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Minor Repair,6/19/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-Metro Center,ESC / Escalator between street and mezzanine G and 11th St Entrance,Preventive Maintenance Inspection,6/21/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 New Carrollton,ESC / Escalator between mezzanine and platform,Other,6/23/25
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Minor Repair,6/19/25
@@ -38,5 +38,6 @@ Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. 
 Spring Hill,ESC / Escalator - north entry pavilion,Minor Repair,6/19/25
 Tenleytown-AU,"ELE / Elevator between street and platform, east side of Wisconsin Avenue",Minor Repair,6/19/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Preventive Maintenance Inspection,6/26/25
+U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,6/19/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/19/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
