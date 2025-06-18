@@ -1,12 +1,12 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,6/20/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/23/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Major Repair,6/23/25
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Walker,6/19/25
 Benning Road,ESC / Escalator between street and mezzanine,Service Call,6/20/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,6/20/25
+Deanwood,ESC / Escalator between street and mezzanine,Service Call,6/20/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,6/20/25
@@ -22,9 +22,9 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,6/20/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Minor Repair,6/23/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,6/20/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Service Call,6/20/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,6/19/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,6/23/25
-Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,6/20/25
 Judiciary Square,ESC / Escalator between street and mezzanine 4th St/Courthouse Entrance,Minor Repair,6/23/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,6/20/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
@@ -38,7 +38,6 @@ NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue E
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/30/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/30/25
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,6/25/25
-Potomac Ave,ESC / Escalator between street and mezzanine,Other,6/20/25
 Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Other,6/20/25
 Rhode Island Ave-Brentwood,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/20/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
@@ -47,7 +46,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shady Grove,ELE / Elevator between east side parking/Kiss & Ride and mezzanine,Service Call,6/20/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,6/20/25
-Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Other,6/20/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Minor Repair,6/20/25
 Wiehle-Reston East,ELE / Elevator between mezzanine and platform,Service Call,6/20/25
