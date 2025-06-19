@@ -1,19 +1,17 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,6/21/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/23/25
 Ashburn,ESC / Escalator - north entry pavilion Ashburn,Preventive Maintenance Inspection,6/21/25
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,6/21/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Capitol South,ESC / Escalator between street and mezzanine,Service Call,6/21/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,6/21/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
+Deanwood,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/21/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 East Falls Church,ELE / Elevator between mezzanine and platform,Service Call,6/21/25
-Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 17th Street Entrance,Minor Repair,6/21/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,6/20/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,6/20/25
-Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,6/21/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
@@ -21,17 +19,19 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Other,6/21/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Other,6/23/25
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 9th and G Street Entrance,Other,6/21/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,6/20/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,6/19/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,6/23/25
 Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Preventive Maintenance Inspection,6/21/25
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Preventive Maintenance Inspection,6/21/25
+Huntington,ELE / Garage #1 elevator North Kings Hwy Entrance,Service Call,6/21/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,6/20/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Loudoun Gateway,ELE / Elevator - between mezzanine and platform Loudoun Gateway,Minor Repair,6/21/25
 McPherson Square,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center Franklin Square/14th St. Entrance,Minor Repair,6/20/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Other,6/21/25
-Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Other,6/21/25
+Minnesota Ave,ESC / Escalator between mezzanine and platform,Service Call,6/21/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,6/21/25
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine Florida Avenue Entrance,Preventive Maintenance Inspection,6/29/25
@@ -46,7 +46,6 @@ Shady Grove,ELE / Elevator between east side parking/Kiss & Ride and mezzanine,M
 Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center Independence Avenue Entrance,Service Call,6/21/25
 Southern Avenue,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,6/21/25
 Stadium-Armory,ELE / Elevator between mezzanine and platform D.C. General Hospital Entrance,Service Call,6/21/25
-Tenleytown-AU,ESC / Escalator between mezzanine and platform,Other,6/21/25
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Walker,6/21/25
 Tysons,ESC / Escalator - between intermidiat level to grade/street,Preventive Maintenance Inspection,6/27/25
 Waterfront,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/25/25
