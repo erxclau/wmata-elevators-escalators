@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Service Call,6/22/25
+Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,6/22/25
 Anacostia,ELE / Elevator between mezzanine and platform Kiss & Ride Entrance,Safety Inspection,6/22/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/23/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Other,6/21/25
@@ -18,7 +18,6 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont South/D
 Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Service Call,6/22/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
-Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Other,6/22/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
@@ -29,7 +28,6 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Lin
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Loudoun Gateway,ELE / Elevator - between mezzanine and platform Loudoun Gateway,Minor Repair,6/21/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,6/22/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,6/21/25
 NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Service Call,6/22/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/30/25
@@ -39,5 +37,6 @@ Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Othe
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
+Spring Hill,ELE / Elevator - north entry pavilion,Service Call,6/22/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Service Call,6/22/25
