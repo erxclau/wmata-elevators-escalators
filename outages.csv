@@ -1,37 +1,34 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,6/21/25
+Anacostia,ELE / Elevator between mezzanine and platform Howard Road Entrance,Minor Repair,6/22/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/23/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Other,6/21/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,6/21/25
+Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Service Call,6/22/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,6/21/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Minor Repair,6/21/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
+Downtown Largo,ELE / Elevator between north garage and mezzanine,Service Call,6/22/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Major Repair,6/21/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,6/20/25
-Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,6/22/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
-Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Service Call,6/21/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,9/2/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
-Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,
+Gallery Pl-Chinatown,ESC / Escalator between street and middle landing 7th and H Street/Chinatown Entrance,Other,6/22/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,6/19/25
-Greenbelt,ESC / Escalator between mezzanine and platform,Minor Repair,6/22/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,6/23/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,6/20/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Loudoun Gateway,ELE / Elevator - between mezzanine and platform Loudoun Gateway,Minor Repair,6/21/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Other,6/21/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,6/22/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,6/21/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,6/22/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,6/21/25
-Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Service Call,6/22/25
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Service Call,6/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/30/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/30/25
@@ -42,7 +39,8 @@ Rosslyn,"ELE / Elevator between street, and upper platform",Safety Inspection,6/
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
-Southern Avenue,ESC / Escalator between mezzanine and platform,Service Call,6/22/25
+Van Ness-UDC,ELE / Elevator between street and mezzanine,Service Call,6/22/25
+Waterfront,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/20/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Other,6/20/25
 Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,6/22/25
