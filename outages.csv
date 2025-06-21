@@ -2,11 +2,10 @@ station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,6/22/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,6/23/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/23/25
-Ashburn,ESC / Escalator - north entry pavilion Ashburn,Service Call,6/23/25
 Ballston-MU,ESC / Escalator between mezzanine and platform to New Carrollton,Minor Repair,6/22/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,6/21/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Other,6/23/25
+Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Minor Repair,6/23/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Minor Repair,6/22/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repair,6/22/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
@@ -36,5 +35,4 @@ Reston Town Center,ELE / Elevator - south entry pavilion Reston Town Center,Majo
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Other,6/23/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
