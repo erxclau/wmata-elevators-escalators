@@ -1,5 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,6/24/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,6/25/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/30/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,6/30/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -7,9 +8,11 @@ College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,6/30/2
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repair,6/30/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Other,
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Eastern Market,ESC / Escalator between street and mezzanine,Minor Repair,6/25/25
+Farragut North,ESC / Escalator between mezzanine and platform K Street Entrance,Other,6/25/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
@@ -28,11 +31,10 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Lin
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Major Repair,6/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,6/25/25
-Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Minor Repair,6/30/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,6/25/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,6/25/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,6/30/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,6/25/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,6/25/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,6/30/25
 Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Minor Repair,6/25/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/30/25
@@ -42,7 +44,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Other,6/30/25
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Preventive Maintenance Inspection,6/25/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,6/30/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
