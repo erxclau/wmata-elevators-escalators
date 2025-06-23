@@ -11,6 +11,7 @@ Crystal City,ELE / Elevator between street and mezzanine,Safety Inspection,6/25/
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Downtown Largo,ELE / Elevator between mezzanine and platform,Service Call,6/25/25
+Dunn Loring-Merrifield,ELE / Elevator between mezzanine and platform,Service Call,
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Preventive Maintenance Inspection,6/25/25
@@ -22,7 +23,6 @@ Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and 
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Minor Repair,6/25/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,6/25/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,6/23/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,6/23/25
 Georgia Ave-Petworth,ESC / Escalator between mezzanine and platform,Other,6/24/25
@@ -36,7 +36,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th & D St (USDOT En
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Minor Repair,6/24/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Service Call,6/25/25
-Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 13th St Entrance,Other,6/24/25
 Metro Center,ESC / Escalator between street and mezzanine G and 12th St Entrance,Minor Repair,6/23/25
 Metro Center,ESC / Escalator between upper platform and lower platform to Blue/Orange Lines F and 12th St Entrance,Service Call,6/24/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Minor Repair,6/23/25
@@ -59,6 +58,7 @@ Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Preve
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Service Call,6/25/25
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Service Call,6/25/25
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,6/25/25
-Vienna/Fairfax-GMU,ELE / Garage,Service Call,6/25/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,6/25/25
+Vienna/Fairfax-GMU,ELE / Garage,Other,6/27/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Other,6/24/25
