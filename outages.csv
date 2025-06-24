@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
-Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,6/24/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Safety Inspection,6/30/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,6/26/25
+Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,6/26/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/30/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,6/30/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -50,3 +51,4 @@ Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entranc
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,6/30/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
+Wheaton,ESC / Escalator between mezzanine and platform,Service Call,6/26/25
