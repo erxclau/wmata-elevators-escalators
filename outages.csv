@@ -2,11 +2,9 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,6/24/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Safety Inspection,6/30/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/30/25
-Ballston-MU,ELE / Elevator between street and mezzanine to New Carrollton,Service Call,6/26/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,6/30/25
 Branch Ave,ELE / Elevator between mezzanine and platform,Service Call,6/26/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,6/26/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,6/26/25
 College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Preventive Maintenance Inspection,6/26/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,6/30/25
@@ -43,7 +41,6 @@ King St-Old Town,ESC / Escalator between mezzanine and platform,Other,6/30/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Major Repair,6/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Greenbelt/Mr. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,6/26/25
-L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,6/25/25
 Morgan Boulevard,ELE / Elevator between mezzanine and platform,Other,6/30/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,6/30/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
@@ -63,7 +60,5 @@ Spring Hill,ESC / Escalator - between mezzanine and platform,Preventive Maintena
 Tysons,ESC / Escalator - between mezzanine and intermidiat level,Preventive Maintenance Inspection,6/26/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,6/30/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
-Virginia Square-GMU,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/26/25
 Waterfront,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/26/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
-West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Other,6/30/25
