@@ -1,12 +1,12 @@
 station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ESC / Escalator between mezzanine and platform,Minor Repair,6/25/25
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,6/24/25
+Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,6/26/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,6/30/25
 Ballston-MU,ESC / Escalator between street and middle landing,Other,6/25/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,6/30/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/25/25
-Capitol South,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/26/25
 Cleveland Park,ESC / Escalator between mezzanine and middle landing,Preventive Maintenance Inspection,6/26/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,6/30/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Other,6/30/25
@@ -20,6 +20,7 @@ Eastern Market,ESC / Escalator between street and mezzanine,Minor Repair,6/25/25
 Federal Triangle,ESC / Escalator between street and middle landing,Service Call,6/26/25
 Federal Triangle,ESC / Escalator between middle landing and mezzanine,Service Call,6/26/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
+Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,6/26/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,6/26/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,6/26/25
 Franconia-Springfield,ELE / Garage elevator,Other,6/25/25
@@ -44,6 +45,9 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfan
 L'Enfant Plaza,ESC / Escalator between mezzanine and end of platform to Greenbelt/Mt. Vernon Sq (no exit) 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,6/25/25
 Loudoun Gateway,ESC / Escalator - betweeen mezzanine and platform Loudoun Gateway,Service Call,6/25/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,6/26/25
+Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Service Call,6/26/25
+Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Service Call,6/26/25
+Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Service Call,6/26/25
 Metro Center,ESC / Escalator between street and mezzanine F and 12th St Entrance,Service Call,6/25/25
 Morgan Boulevard,ELE / Elevator between mezzanine and platform,Service Call,6/26/25
 Mt Vernon Sq 7th St-Convention Center,ELE / Elevator between street and mezzanine,Major Repair,6/30/25
@@ -55,7 +59,6 @@ NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entranc
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,6/30/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,6/30/25
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,6/25/25
-Potomac Yard,ELE / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Other,6/25/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,6/26/25
 Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center South Entrance,Service Call,6/26/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
@@ -64,7 +67,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. Entrance,Other,6/30/25
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,6/26/25
 Silver Spring Transit Center,ESC / Escalator - Level 2 to Metro Station,Service Call,6/26/25
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Other,6/25/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,6/26/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Minor Repair,6/25/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,6/30/25
