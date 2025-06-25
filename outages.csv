@@ -13,11 +13,13 @@ Deanwood,ELE / Elevator between mezzanine and platform,Service Call,6/27/25
 Deanwood,ESC / Escalator between street and mezzanine,Major Repair,6/30/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,6/27/25
+Federal Triangle,ESC / Escalator between middle landing and mezzanine,Other,6/27/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
-Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,6/27/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,7/7/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Major Repair,6/30/25
-Forest Glen,ELE / Elevator between mezzanine and platform,Other,6/30/25
+Forest Glen,ELE / Elevator between mezzanine and platform,Service Call,6/27/25
+Forest Glen,ELE / Elevator between mezzanine and platform,Service Call,6/27/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,6/27/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
@@ -39,11 +41,11 @@ McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,6/26/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,6/27/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
-Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Service Call,6/27/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,6/30/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/7/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/7/25
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,6/26/25
+Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,6/27/25
 Rhode Island Ave-Brentwood,ELE / Garage elevator,Safety Inspection,6/27/25
 Rockville,ELE / Elevator between pedestrian bridge and mezzanine,Scheduled Support,6/27/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
@@ -55,5 +57,6 @@ U Street/African-Amer Civil War Memorial/Cardozo,ELE / Elevator between street a
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Major Repair,6/30/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Walker,6/27/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
+West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Service Call,6/27/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,6/27/25
