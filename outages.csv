@@ -2,7 +2,7 @@ station,type_location,reason,estimated_return_to_service
 Addison Road-Seat Pleasant,ELE / Garage elevator,Service Call,6/27/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Safety Inspection,6/30/25
 Arlington Cemetery,ESC / Escalator between street and mezzanine north side of Memorial Drive,Other,7/7/25
-Arlington Cemetery,ESC / Escalator between street and mezzanine south side of Memorial Drive,Service Call,6/27/25
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,6/27/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,6/30/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,7/5/25
@@ -11,18 +11,19 @@ Capitol South,ESC / Escalator between mezzanine and platform,Other,6/27/25
 Clarendon,ESC / Escalator between street and middle landing/tunnel,Major Repair,6/27/25
 Clarendon,ESC / Escalator between mezzanine and platform to Vienna,Preventive Maintenance Inspection,7/3/25
 Clarendon,ESC / Escalator between mezzanine and platform to Vienna,Walker,6/27/25
+Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Preventive Maintenance Inspection,6/27/25
 College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Major Repair,6/30/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Other,6/30/25
 Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Southbound Entrance",Preventive Maintenance Inspection,6/27/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Other,6/30/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
-Deanwood,ELE / Elevator between street and mezzanine,Safety Inspection,6/27/25
+Deanwood,ELE / Elevator between mezzanine and platform,Safety Inspection,6/15/25
 Deanwood,ESC / Escalator between street and mezzanine,Major Repair,6/30/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Dupont Circle,ESC / Escalator between street and mezzanine South/DuPont Circle Entrance,Preventive Maintenance Inspection,6/27/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/DuPont Circle Entrance,Other,6/27/25
+Dupont Circle,ESC / Escalator between street and mezzanine South/Dupont Circle Entrance,Preventive Maintenance Inspection,6/27/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/Dupont Circle Entrance,Other,6/27/25
 Eastern Market,ELE / Elevator between mezzanine and platform,Safety Inspection,6/30/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,7/7/25
@@ -39,6 +40,7 @@ Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the 
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,6/30/25
 Huntington,ELE / Garage #2 elevator North Kings Hwy Garage,Minor Repair,6/30/25
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Safety Inspection,5/1/25
+Hyattsville Crossing,ESC / Escalator between mezzanine and platform Greenbelt,Service Call,6/27/25
 Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Walker,6/25/25
 Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Inspection Repair,7/7/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Inspection Repair,6/26/25
@@ -66,8 +68,8 @@ Shaw-Howard U,ELE / Elevator between street and mezzanine 7th and S St. N.W. Ent
 Shaw-Howard U,ESC / Escalator between mezzanine and platform 7th and S St. N.W. Entrance,Service Call,6/27/25
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Minor Repair,6/26/25
 Southern Avenue,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/14/25
-Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Service Call,
-Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Other,6/30/25
+Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,6/27/25
+Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,6/30/25
 Tysons,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,6/27/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine 13th and U St Entrance,Safety Inspection,6/30/25
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,6/30/25
