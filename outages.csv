@@ -12,6 +12,7 @@ Deanwood,ESC / Escalator between street and mezzanine,Major Repair,6/30/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Service Call,6/28/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,6/28/25
 East Falls Church,ELE / Elevator between mezzanine and platform,Safety Inspection,6/28/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/30/25
@@ -19,12 +20,11 @@ Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/28/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,6/28/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,7/7/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Major Repair,6/30/25
+Forest Glen,ELE / Elevator between mezzanine and platform,Other,6/28/25
 Franconia-Springfield,ELE / Elevator between mezzanine and platform,Minor Repair,6/30/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Minor Repair,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,6/28/25
-Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,6/28/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
@@ -48,7 +48,6 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/7/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/7/25
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,6/26/25
-Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,6/28/25
 Reston Town Center,ELE / Elevator - between mezzanine and platform Reston Town Center,Safety Inspection,6/28/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
