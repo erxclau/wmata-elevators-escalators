@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,6/28/25
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Safety Inspection,6/30/25
 Archives-Navy Memorial-Penn Quarter,ESC / Escalator between street and mezzanine,Service Call,6/28/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
@@ -10,7 +11,6 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Deanwood,ESC / Escalator between street and mezzanine,Major Repair,6/30/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/Dupont Circle Entrance,Walker,6/28/25
 East Falls Church,ELE / Elevator between mezzanine and platform,Safety Inspection,6/28/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/30/25
@@ -39,7 +39,6 @@ King St-Old Town,ESC / Escalator between mezzanine and platform,Service Call,6/2
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Other,7/1/25
 L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform) 7th & D St (USDOT Entrance),Major Repair,6/30/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-McPherson Square,ELE / Elevator between street and mezzanine Franklin Square/14th St. Entrance,Service Call,6/28/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,6/28/25
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,6/26/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/28/25
@@ -49,7 +48,6 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,M
 Pentagon,ESC / Escalator between upper and lower platforms,Inspection Repair,6/26/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,6/28/25
 Reston Town Center,ELE / Elevator - between mezzanine and platform Reston Town Center,Safety Inspection,6/28/25
-Reston Town Center,ESC / Escalator - betweeen mezzanine and platform Reston Town Center,Service Call,6/28/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
