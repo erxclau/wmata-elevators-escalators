@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Safety Inspection,6/30/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,6/29/25
 Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Other,6/27/25
 College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Other,6/30/25
 College Park-U of Md,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/30/25
@@ -11,12 +10,13 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Deanwood,ESC / Escalator between street and mezzanine,Major Repair,6/30/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Walker,6/29/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Other,6/30/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/Dupont Circle Entrance,Major Repair,6/30/25
-Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Minor Repair,6/29/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Minor Repair,6/30/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/30/25
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/29/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,7/7/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Major Repair,6/30/25
 Franconia-Springfield,ELE / Elevator between mezzanine and platform,Other,6/30/25
@@ -27,6 +27,7 @@ Friendship Heights,ESC / Escalator between middle landing and mezzanine Western 
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
+Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Other,6/29/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Walker,6/30/25
 Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Major Repair,6/30/25
 Huntington,ESC / Escalator between mezzanine and platform North Kings Hwy Entrance,Inspection Repair,7/7/25
@@ -50,7 +51,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Major Repair,6/30/25
-Spring Hill,ELE / Elevator - south entry pavilion,Service Call,6/29/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wiehle-Reston East,ESC / Escalator - south entry pavilion,Other,6/30/25
