@@ -16,17 +16,18 @@ Dupont Circle,ELE / Elevator between mezzanine and platform to Shady Grove Q Str
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,6/28/25
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Minor Repair,6/29/25
-Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 17th Street Entrance,Other,6/28/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Service Call,6/29/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Minor Repair,6/29/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,6/30/25
+Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Service Call,6/29/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,7/7/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Major Repair,6/30/25
 Franconia-Springfield,ELE / Elevator between mezzanine and platform,Minor Repair,6/30/25
 Franconia-Springfield,ESC / Escalator between ground and pedestrian bridge,Service Call,6/29/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
 Franconia-Springfield,ESC / Escalator between mezzanine and platform,Modernization,6/30/25
+Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Service Call,6/29/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
@@ -46,7 +47,6 @@ L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Blue/Orange Lin
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Landover,ESC / Escalator between mezzanine and platform,Service Call,6/29/25
 McLean,ESC / Escalator - between mezzanine and platform,Service Call,6/29/25
-McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Franklin Square/14th St. Entrance,Other,6/28/25
 Metro Center,ELE / Elevator between upper platform to Shady Grove and lower platform for Blue/Orange Lines,Scheduled Support,6/29/25
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,6/26/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
@@ -61,11 +61,10 @@ Rockville,ESC / Escalator between mezzanine and platform,Service Call,6/29/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
-Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Minor Repair,6/30/25
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,6/29/25
+Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Service Call,6/29/25
 Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Service Call,6/29/25
 Stadium-Armory,ESC / Escalator between street and mezzanine D.C. General Hospital Entrance,Service Call,6/29/25
-U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,6/29/25
-U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between mezzanine and platform Vermont Avenue Entrance,Service Call,6/29/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Walker,6/27/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
 Waterfront,ESC / Escalator between street and mezzanine,Service Call,6/28/25
