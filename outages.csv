@@ -3,11 +3,10 @@ Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and 
 Brookland-CUA,ELE / Elevator between mezzanine and street at bus terminal,Service Call,6/29/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Service Call,6/29/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
-Capitol Heights,ESC / Escalator between mezzanine and platform,Service Call,6/29/25
 Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Service Call,6/29/25
 Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Other,6/27/25
 College Park-U of Md,ESC / Escalator between street and mezzanine on west side of station at Post Office,Other,6/30/25
-College Park-U of Md,ESC / Escalator between mezzanine and platform,Service Call,6/29/25
+College Park-U of Md,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,6/30/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Minor Repair,6/28/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -16,6 +15,7 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ELE / Elevator between mezzanine and platform to Shady Grove Q Street Entrance,Service Call,6/28/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Minor Repair,6/28/25
+Dupont Circle,ESC / Escalator between street and mezzanine South/Dupont Circle Entrance,Minor Repair,6/29/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/Dupont Circle Entrance,Service Call,6/29/25
 Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Minor Repair,6/29/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Service Call,6/29/25
@@ -62,7 +62,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,6/29/25
-Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Minor Repair,6/29/25
+Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Major Repair,6/30/25
 Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Walker,6/27/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
 Waterfront,ESC / Escalator between street and mezzanine,Service Call,6/28/25
