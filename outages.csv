@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Addison Road-Seat Pleasant,ELE / Garage elevator,Service Call,7/2/25
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Preventive Maintenance Inspection,7/2/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,7/1/25
@@ -16,6 +15,7 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Stree
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/Dupont Circle Entrance,Minor Repair,7/1/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,6/30/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,6/30/25
+Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,7/2/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,7/2/25
 Franconia-Springfield,ELE / Garage elevator,Service Call,7/2/25
 Franconia-Springfield,ELE / Garage elevator,Service Call,7/2/25
@@ -46,9 +46,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/2/25
-Smithsonian,ESC / Escalator between mezzanine and platform to New Carrolton/Largo Town Center The Mall Entrance,Other,7/2/25
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Preventive Maintenance Inspection,7/2/25
-Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Major Repair,7/2/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Inspection Repair,7/1/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Other,7/2/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
