@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Benning Road,ESC / Escalator between street and mezzanine,Service Call,7/2/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/8/25
 Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,7/1/25
 Clarendon,ESC / Escalator between mezzanine and platform to Vienna,Other,7/2/25
@@ -40,6 +39,6 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Vienna/Fairfax-GMU,ELE / Garage,Other,6/30/25
-Waterfront,ESC / Escalator between mezzanine and platform,Service Call,7/2/25
+Waterfront,ESC / Escalator between mezzanine and platform,Minor Repair,7/2/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wiehle-Reston East,ELE / Elevator between mezzanine and platform,Other,7/1/25
