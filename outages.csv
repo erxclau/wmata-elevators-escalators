@@ -2,7 +2,8 @@ station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Service Call,7/3/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Major Repair,7/7/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
-Capitol Heights,ESC / Escalator between street and mezzanine,Minor Repair,7/7/25
+Capitol Heights,ESC / Escalator between street and mezzanine,Other,7/7/25
+Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Service Call,7/3/25
 Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Other,7/7/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -14,7 +15,6 @@ Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Stree
 Federal Triangle,ESC / Escalator between street and middle landing,Minor Repair,7/7/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Other,6/30/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Major Repair,7/14/25
-Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,7/3/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,7/7/25
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Minor Repair,7/3/25
 Friendship Heights,ESC / Escalator between middle landing and mezzanine Western Avenue Entrance,Minor Repair,7/7/25
@@ -31,7 +31,6 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,7/7/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
-Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,7/3/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Other,7/7/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
@@ -41,3 +40,4 @@ Van Ness-UDC,ESC / Escalator between street and middle landing on west side of C
 Van Ness-UDC,ESC / Escalator between mezzanine and platform,Other,7/7/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Greenbelt,Preventive Maintenance Inspection,7/3/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
+Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,7/3/25
