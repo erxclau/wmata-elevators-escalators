@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,7/3/25
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Service Call,7/4/25
+Benning Road,ESC / Escalator between street and mezzanine,Service Call,7/4/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Major Repair,7/7/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Cheverly,ESC / Escalator between mezzanine and platform to Vienna,Service Call,7/4/25
@@ -24,17 +25,17 @@ Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Minor Repair,7/4
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,7/4/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Service Call,7/4/25
 Friendship Heights,ELE / Elevator between street and mezzanine Jenifer Street Entrance,Minor Repair,7/3/25
+Friendship Heights,ESC / Escalator between Hecht Co. and street Western Avenue Entrance,Preventive Maintenance Inspection,7/4/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/19/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 7th and G Street/Arena Entrance,Service Call,7/3/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,7/3/25
-Gallery Pl-Chinatown,ESC / Escalator between upper platform to Shady Grove and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,7/3/25
 Herndon,ESC / Escalator - betweeen mezzanine and platform Herndon,Preventive Maintenance Inspection,7/4/25
 Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Service Call,7/4/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Inspection Repair,7/7/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 McLean,ESC / Escalator - between mezzanine and platform,Service Call,7/3/25
+McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,7/4/25
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,7/7/25
 Minnesota Ave,ESC / Escalator between street and mezzanine,Inspection Repair,7/4/25
 Mt Vernon Sq 7th St-Convention Center,ESC / Escalator between mezzanine and platform,Service Call,7/4/25
@@ -52,6 +53,7 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shady Grove,ELE / Garage elevator,Minor Repair,7/3/25
+Stadium-Armory,ELE / Elevator between mezzanine and platform D.C. General Hospital Entrance,Service Call,7/4/25
 Stadium-Armory,ESC / Escalator between street and mezzanine D.C. General Hospital Entrance,Service Call,7/4/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform D.C. General Hospital Entrance,Inspection Repair,7/3/25
 Tenleytown-AU,ESC / Escalator between middle landing and mezzanine,Minor Repair,7/4/25
