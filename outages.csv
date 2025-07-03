@@ -17,10 +17,11 @@ Dunn Loring-Merrifield,ELE / Elevator between mezzanine and platform,Service Cal
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Glenmont Q Street Entrance,Service Call,7/4/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/Dupont Circle Entrance,Other,7/4/25
-Farragut West,ESC / Escalator between mezzanine and platform to New Carrollton/Largo Town Center 18th Street Entrance,Service Call,7/5/25
+Farragut North,"ELE / Elevator between street and mezzanine, east side of Connecticut Ave near K Street K Street Entrance",Minor Repair,7/5/25
+Farragut North,ELE / Elevator between mezzanine and platform K Street Entrance,Scheduled Support,7/5/25
 Federal Triangle,ESC / Escalator between street and middle landing,Major Repair,7/7/25
 Fort Totten,ESC / Escalator between mezzanine and upper platform for Red Line,Minor Repair,7/4/25
+Friendship Heights,ESC / Escalator between bus terminal and middle landing Western Avenue Entrance,Preventive Maintenance Inspection,7/5/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/19/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
@@ -31,12 +32,15 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Glenmont 
 Glenmont,ESC / Escalator between mezzanine and platform,Service Call,7/5/25
 Greensboro,ESC / Escalator - north entry pavilion,Service Call,7/5/25
 Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockville Pike),Minor Repair,7/4/25
+Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Service Call,7/5/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Service Call,7/5/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,7/7/25
 Minnesota Ave,ESC / Escalator between street and mezzanine,Inspection Repair,7/5/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,7/7/25
+Navy Yard-Ballpark,ESC / Escalator between mezzanine and platform Half Street Entrance,Service Call,7/5/25
+NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Service Call,7/5/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,7/5/25
