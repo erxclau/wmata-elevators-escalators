@@ -1,4 +1,5 @@
 station,type_location,reason,estimated_return_to_service
+Archives-Navy Memorial-Penn Quarter,"ELE / Elevator between street entrance and mezzanine, on 7th Street, just north of Pennsylvania Ave",Service Call,7/5/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Major Repair,7/7/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
@@ -6,7 +7,6 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Other,7/5/25
-Farragut North,"ELE / Elevator between street and mezzanine, east side of Connecticut Ave near K Street K Street Entrance",Scheduled Support,7/5/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Service Call,7/5/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Other,7/5/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/19/25
@@ -17,7 +17,6 @@ L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfan
 L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Preventive Maintenance Inspection,7/8/25
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,7/7/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
-North Bethesda,ESC / Escalator between mezzanine and platform,Service Call,7/5/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Other,7/7/25
