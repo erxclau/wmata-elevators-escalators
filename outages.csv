@@ -4,18 +4,21 @@ Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Major
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
-Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,7/5/25
-Deanwood,ELE / Elevator between street and mezzanine,Service Call,7/5/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
+Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, West of Connecticut, south side L Street",Other,7/5/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Other,7/5/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/19/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,7/5/25
+Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Service Call,7/5/25
+Glenmont,"ESC / Escalator between street and mezzanine, west side of station at Kiss & Ride",Service Call,7/5/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Service Call,7/5/25
-L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Service Call,7/5/25
+L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Other,7/5/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Service Call,7/5/25
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,7/7/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
@@ -27,10 +30,8 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,7/4/25
 Suitland,ESC / Escalator between mezzanine and garage,Preventive Maintenance Inspection,7/5/25
-U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalators between mezzanine and platform 13th and U St Entrance,Service Call,7/5/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/7/25
-Washington Dulles International Airport,ESC / Escalator - betweeen mezzanine and platform Washington Dulles International Airport,Service Call,7/5/25
+Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Service Call,7/5/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
-West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Preventive Maintenance Inspection,7/12/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Service Call,7/5/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between middle landing and mezzanine,Service Call,7/5/25
