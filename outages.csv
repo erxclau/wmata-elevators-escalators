@@ -1,6 +1,7 @@
 station,type_location,reason,estimated_return_to_service
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Major Repair,7/7/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
+Clarendon,ESC / Escalator between middle landing/tunnel and mezzanine,Other,7/5/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
@@ -10,21 +11,29 @@ Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and 
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Minor Repair,7/5/25
+Gallery Pl-Chinatown,ESC / Escalator between upper platform to Glenmont and the lower platform for Yellow/Green Line 7th and H Street/Chinatown Entrance,Other,7/5/25
 Glenmont,"ESC / Escalator between street and mezzanine, east side of station at bus bay/Kiss & Ride",Minor Repair,7/5/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Service Call,7/5/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and lower platform for Blue/Orange Line (escalator closer to Yellow/Green platform) 9th & D St  (L'Enfant Plaza Entrance),Other,7/5/25
+L'Enfant Plaza,ESC / Escalator between mezzanine and platform to Branch Ave/Huntington 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Other,7/5/25
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,7/7/25
+Navy Yard-Ballpark,ELE / Elevator between street and mezzanine Navy Yard West Entrance,Other,7/5/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,7/5/25
+Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Service Call,7/5/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Other,7/7/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
+Rosslyn,ESC / Escalator between mezzanine and upper platform,Preventive Maintenance Inspection,7/5/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Minor Repair,7/4/25
-Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,7/5/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/7/25
 Waterfront,"ELE / Elevator between street and mezzanine, north side of M Street, S.W.",Service Call,7/5/25
 Waterfront,ESC / Escalator between mezzanine and platform,Service Call,7/5/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
+Wheaton,ESC / Escalator between mezzanine and platform,Other,7/5/25
+Wheaton,ESC / Escalator between mezzanine and platform,Minor Repair,7/5/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between mezzanine and platform,Safety Inspection,7/5/25
