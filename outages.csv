@@ -2,10 +2,12 @@ station,type_location,reason,estimated_return_to_service
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
+Crystal City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Other,7/7/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Service Call,7/6/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Minor Repair,7/7/25
+Friendship Heights,ESC / Escalator between mezzanine and platform Jenifer Street Entrance,Other,7/7/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/19/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
@@ -19,6 +21,7 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entr
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,7/5/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
+Potomac Ave,ESC / Escalator between mezzanine and platform,Other,7/7/25
 Potomac Yard,ELE / Elevator between mezzanine and Downtown Largo and Mt. Vernon Sq platform,Other,7/7/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
