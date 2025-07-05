@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Other,7/7/25
+Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Minor Repair,7/7/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -14,7 +14,6 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Preventive Maintenance Inspection,7/25/25
 Loudoun Gateway,ELE / Elevator - between mezzanine and platform Loudoun Gateway,Minor Repair,7/6/25
-Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 11th St Entrance,Other,7/7/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Minor Repair,7/7/25
 Minnesota Ave,ELE / Garage Elevator,Inspection Repair,7/7/25
 Morgan Boulevard,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/7/25
