@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Minor Repair,7/7/25
+Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Safety Inspection,7/7/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -26,8 +26,8 @@ Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,7/7/25
-Tenleytown-AU,ESC / Escalator between mezzanine and platform,Service Call,7/7/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,7/7/25
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Minor Repair,7/7/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Other,7/7/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/7/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
