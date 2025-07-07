@@ -8,10 +8,8 @@ Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,
 Deanwood,ESC / Escalator between street and mezzanine,Other,7/14/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
-Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove South/Dupont Circle Entrance,Preventive Maintenance Inspection,7/9/25
 Eastern Market,ESC / Escalator between street and mezzanine,Major Repair,7/14/25
 Farragut West,ESC / Escalator between street and mezzanine 18th Street Entrance,Preventive Maintenance Inspection,7/9/25
-Federal Triangle,ESC / Escalator between street and middle landing,Preventive Maintenance Inspection,7/9/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,7/14/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Major Repair,7/14/25
 Franconia-Springfield,ELE / Garage elevator,Safety Inspection,7/14/25
@@ -20,23 +18,25 @@ Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Stre
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 7th and G Street/Arena Entrance,Major Repair,7/9/25
 Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Minor Repair,7/14/25
-Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Safety Inspection,7/9/25
+Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Grove 9th and G Street Entrance,Inspection Repair,7/9/25
+Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,7/9/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Other,7/14/25
+King St-Old Town,ELE / Elevator between mezzanine and platform,Service Call,7/9/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
-McLean,ESC / Escalator - between mezzanine and platform,Preventive Maintenance Inspection,7/9/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,7/14/25
-Naylor Road,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/9/25
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Other,7/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
+Potomac Ave,ELE / Elevator between mezzanine and platform,Service Call,7/9/25
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Minor Repair,7/7/25
 Rockville,ESC / Escalator between mezzanine and platform,Service Call,7/9/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Walker,9/15/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
-Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield The Mall Entrance,Walker,7/9/25
+Smithsonian,"ELE / Elevator between street, mezzanine, and platform to New Carrollton/Largo Town Center Independence Avenue Entrance",Service Call,7/9/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,7/14/25
+Tenleytown-AU,ESC / Escalator between mezzanine and platform,Other,7/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,7/14/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
