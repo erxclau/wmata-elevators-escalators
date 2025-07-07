@@ -10,6 +10,7 @@ Deanwood,ESC / Escalator between street and mezzanine,Service Call,7/9/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/Dupont Circle Entrance,Preventive Maintenance Inspection,7/9/25
+Eastern Market,ESC / Escalator between street and mezzanine,Major Repair,7/9/25
 Farragut West,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield 18th Street Entrance,Other,7/7/25
 Federal Triangle,ESC / Escalator between street and middle landing,Other,7/9/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,7/8/25
@@ -32,7 +33,6 @@ Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entran
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,7/7/25
 Naylor Road,ESC / Escalator between mezzanine and platform,Service Call,7/8/25
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Preventive Maintenance Inspection,7/9/25
-North Bethesda,ESC / Escalator between station entrance and pedestrian tunnel,Service Call,7/8/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
 Potomac Yard,ELE / Elevator between street and mezzanine Potomac Greens Entrance,Minor Repair,7/7/25
@@ -44,8 +44,8 @@ Shaw-Howard U,ESC / Escalator between mezzanine and platform 8th and R St. N.W. 
 Southern Avenue,ESC / Escalator between mezzanine and garage,Service Call,7/9/25
 Stadium-Armory,ELE / Elevator between mezzanine and platform D.C. General Hospital Entrance,Service Call,7/9/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,7/7/25
-Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Service Call,7/8/25
 Stadium-Armory,ESC / Escalator between street and mezzanine D.C. General Hospital Entrance,Service Call,7/9/25
+Tenleytown-AU,"ESC / Escalator between street and middle landing, east side of Wisconsin Avenue",Major Repair,7/9/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Walker,7/9/25
 Tenleytown-AU,"ESC / Escalator between street and middle landing, west side of Wisconsin Avenue",Preventive Maintenance Inspection,7/9/25
 U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street and mezzanine Vermont Avenue Entrance,Minor Repair,7/7/25
