@@ -1,11 +1,12 @@
 station,type_location,reason,estimated_return_to_service
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Preventive Maintenance Inspection,7/11/25
 Ashburn,ELE / Elevator - south entry pavilion Ashburn,Service Call,7/9/25
 Ashburn,ESC / Escalator - south entry pavilion Ashburn,Safety Inspection,7/9/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Safety Inspection,7/14/25
-Braddock Road,ESC / Escalator between mezzanine and platform,Service Call,7/9/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
+Downtown Largo,ESC / Escalator between mezzanine and platform,Service Call,7/9/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Preventive Maintenance Inspection,7/5/25
@@ -22,7 +23,6 @@ Gallery Pl-Chinatown,ESC / Escalator between mezzanine and platform to Shady Gro
 Judiciary Square,ESC / Escalator between mezzanine and platform to Shady Grove 4th St/Courthouse Entrance,Other,7/14/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Loudoun Gateway,ELE / Elevator - between mezzanine and platform Loudoun Gateway,Service Call,7/9/25
-McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Other,7/9/25
 Metro Center,ESC / Escalator between mezzanine and platform to Glenmont G and 13th St Entrance,Minor Repair,7/9/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Minor Repair,7/14/25
