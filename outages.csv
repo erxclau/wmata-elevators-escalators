@@ -1,16 +1,18 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Minor Repair,7/11/25
 Benning Road,ELE / Elevator between mezzanine and platform,Service Call,7/11/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,7/11/25
 Bethesda,ESC / Escalator between mezzanine and platform,Other,7/10/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at Catholic University,Preventive Maintenance Inspection,7/7/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
-Capitol South,ESC / Escalator between street and mezzanine,Minor Repair,7/14/25
+Capitol South,ESC / Escalator between street and mezzanine,Major Repair,7/14/25
 Congress Heights,ESC / Escalator between mezzanine and Alabama Avenue,Other,7/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
 Dunn Loring-Merrifield,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/11/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
+Dupont Circle,ESC / Escalator between mezzanine and platform to Shady Grove Q Street Entrance,Service Call,7/11/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/11/25
 Foggy Bottom-GWU,ESC / Escalator between mezzanine and platform,Other,7/11/25
 Gallery Pl-Chinatown,ELE / Elevator between street and platform to Glenmont 7th and G Street/Arena Entrance,Other,7/11/25
@@ -24,6 +26,7 @@ Grosvenor-Strathmore,ESC / Escalator between street and mezzanine (under Rockvil
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Preventive Maintenance Inspection,7/11/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,7/11/25
+Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Minor Repair,7/11/25
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,7/14/25
 Minnesota Ave,ELE / Garage Elevator,Service Call,7/11/25
 Minnesota Ave,ELE / Garage Elevator,Service Call,7/11/25
@@ -38,7 +41,6 @@ Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,
 Silver Spring Transit Center,ESC / Escalator - between Level 2 and Level 1,Preventive Maintenance Inspection,7/18/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,7/14/25
 Stadium-Armory,ESC / Escalator between street and mezzanine D.C. General Hospital Entrance,Preventive Maintenance Inspection,6/29/25
-Suitland,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/11/25
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Walker,7/11/25
 Union Station,"ESC / Escalator between platform and mezzanine 1st Street, NW/Amtrak Station Entrance",Safety Inspection,7/3/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/14/25
