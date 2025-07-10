@@ -6,7 +6,6 @@ Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Safet
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Capitol South,ESC / Escalator between street and mezzanine,Major Repair,7/14/25
 Cleveland Park,ESC / Escalator between street and middle landing on east side of Connecticut Ave,Safety Inspection,7/12/25
-Cleveland Park,ESC / Escalator between street and middle landing on west side of Connecticut Ave,Safety Inspection,3/24/25
 Congress Heights,ELE / Elevator between mezzanine and street,Minor Repair,7/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -40,6 +39,7 @@ North Bethesda,ESC / Escalator between mezzanine and platform,Preventive Mainten
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
 Pentagon,ESC / Escalator at south end of bus bay (closer to Pentagon City),Service Call,7/12/25
+Ronald Reagan Washington National Airport,ESC / Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center North Entrance,Service Call,7/12/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shady Grove,ESC / Escalator between mezzanine and platform,Service Call,7/12/25
@@ -52,7 +52,6 @@ U Street/African-Amer Civil War Memorial/Cardozo,ESC / Escalator between street 
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/14/25
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to New Carrolton,Walker,7/12/25
 Virginia Square-GMU,ESC / Escalator between mezzanine and platform to New Carrolton,Preventive Maintenance Inspection,7/12/25
-West Falls Church,ESC / Escalator between mezzanine and platform to New Carrolton,Preventive Maintenance Inspection,7/23/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Wiehle-Reston East,ESC / Escalator - south entry pavilion,Preventive Maintenance Inspection,7/12/25
 Woodley Park-Zoo/Adams Morgan,"ELE / Elevator between street and mezzanine, SW corner of Woodley Rd. & Connecticut Ave., N.W.",Scheduled Support,7/14/25
