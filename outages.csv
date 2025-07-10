@@ -10,10 +10,12 @@ Capitol South,ESC / Escalator between street and mezzanine,Major Repair,7/14/25
 Congress Heights,ELE / Elevator between mezzanine and street,Minor Repair,7/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
+Crystal City,ESC / Escalator between mezzanine and platform to Mt. Vernon Sq/Largo Town Center,Preventive Maintenance Inspection,7/18/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ELE / Elevator between mezzanine and platform to Shady Grove Q Street Entrance,Service Call,7/11/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/Dupont Circle Entrance,Service Call,7/11/25
+Eastern Market,ESC / Escalator between street and mezzanine,Preventive Maintenance Inspection,7/12/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Minor Repair,7/11/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,7/11/25
 Friendship Heights,ESC / Escalator between mezzanine and platform Western Avenue Entrance,Other,7/11/25
@@ -33,6 +35,7 @@ Landover,ESC / Escalator between mezzanine and platform,Service Call,7/11/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,7/11/25
 McPherson Square,ESC / Escalator between street and mezzanine Vermont Ave./Veterans Administration Entrance,Service Call,7/11/25
 McPherson Square,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Vermont Ave./Veterans Administration Entrance,Service Call,7/11/25
+Metro Center,ESC / Escalator between street and mezzanine G and 13th St Entrance,Preventive Maintenance Inspection,7/11/25
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,7/14/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,7/14/25
@@ -47,8 +50,8 @@ Potomac Yard,ELE / Elevator between street and mezzanine South Pavilion Entrance
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Service Call,7/12/25
+Smithsonian,ESC / Escalator between mezzanine and platform to Vienna/Franconia-Springfield Independence Avenue Entrance,Preventive Maintenance Inspection,7/12/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,7/14/25
-Stadium-Armory,ESC / Escalator between street and mezzanine D.C. General Hospital Entrance,Walker,7/11/25
 Union Station,"ESC / Escalator between Amtrak Station and mezzanine 1st Street, NW/Amtrak Station Entrance",Preventive Maintenance Inspection,7/11/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
