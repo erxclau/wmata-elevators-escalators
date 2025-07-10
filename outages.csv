@@ -1,5 +1,4 @@
 station,type_location,reason,estimated_return_to_service
-Archives-Navy Memorial-Penn Quarter,ESC / Escalator between mezzanine and platform,Other,7/12/25
 Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,7/12/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,7/11/25
 Bethesda,ESC / Escalator between mezzanine and platform,Other,7/10/25
@@ -35,11 +34,14 @@ Pentagon,ESC / Escalator between the lower bus platform and the upper platform,M
 Potomac Ave,ESC / Escalator between mezzanine and platform,Walker,7/12/25
 Potomac Ave,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/12/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
+Rosslyn,ESC / Escalator between upper platform and lower platform,Service Call,7/12/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Silver Spring Transit Center,ESC / Escalator - between Level 3 and Level 2,Preventive Maintenance Inspection,7/18/25
+Smithsonian,ESC / Escalator between street and mezzanine The Mall Entrance,Other,7/12/25
 Smithsonian,ESC / Escalator between street mezzanine Independence Avenue Entrance,Preventive Maintenance Inspection,7/12/25
 Stadium-Armory,ESC / Escalator between street and mezzanine Stadium and Armory Entrance,Other,7/14/25
 Stadium-Armory,ESC / Escalator between mezzanine and platform Stadium and Armory Entrance,Minor Repair,7/12/25
+Union Station,ESC / Escalator between street and mezzanine Massachusetts Ave. Entrance to Union Station Shops,Service Call,7/12/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
 Woodley Park-Zoo/Adams Morgan,ESC / Escalator between street and middle landing,Other,7/14/25
