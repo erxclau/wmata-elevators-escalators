@@ -1,5 +1,5 @@
 station,type_location,reason,estimated_return_to_service
-Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,7/12/25
+Arlington Cemetery,ESC / Escalator between mezzanine and platform to Franconia-Springfield,Other,7/14/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,7/11/25
 Bethesda,ESC / Escalator between mezzanine and platform,Other,7/10/25
 Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Inspection Repair,7/14/25
@@ -7,7 +7,7 @@ Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/2
 Capitol Heights,ELE / Elevator between mezzanine and platform,Service Call,7/13/25
 Capitol South,ESC / Escalator between street and mezzanine,Major Repair,7/14/25
 Cleveland Park,ELE / Elevator between street and mezzanine on east side of Connecticut Ave,Safety Inspection,7/13/25
-Congress Heights,ELE / Elevator between mezzanine and street,Minor Repair,7/11/25
+Congress Heights,ELE / Elevator between mezzanine and street,Other,7/14/25
 Congress Heights,ESC / Escalator between mezzanine and platform,Preventive Maintenance Inspection,7/13/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -18,8 +18,6 @@ Federal Center SW,ESC / Escalator between street and mezzanine,Other,7/14/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,7/11/25
 Foggy Bottom-GWU,ESC / Escalator between street and mezzanine,Minor Repair,7/14/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/19/25
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Walker,7/13/25
-Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Service Call,7/13/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Judiciary Square,ESC / Escalator between mezzanine and platform to Glenmont 4th St/Courthouse Entrance,Inspection Repair,7/14/25
