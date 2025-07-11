@@ -7,6 +7,7 @@ Brookland-CUA,ESC / Escalator between mezzanine and street at bus terminal,Inspe
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
 Capitol South,ESC / Escalator between street and mezzanine,Major Repair,7/14/25
 Capitol South,ESC / Escalator between mezzanine and platform,Other,7/12/25
+Columbia Heights,"ESC / Escalator between street and mezzanine, 14th Street Northbound Entrance",Preventive Maintenance Inspection,7/12/25
 Congress Heights,ELE / Elevator between mezzanine and street,Minor Repair,7/11/25
 Crystal City,ESC / Escalator between street and middle landing,Modernization,8/29/25
 Crystal City,ESC / Escalator between middle landing and mezzanine,Modernization,8/28/25
@@ -14,6 +15,7 @@ Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Mode
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Dupont Circle,ESC / Escalator between street and mezzanine South/Dupont Circle Entrance,Minor Repair,7/12/25
 Eisenhower Avenue,ELE / Elevator between mezzanine and platform to Huntington,Safety Inspection,7/12/25
+Eisenhower Avenue,ESC / Escalator between mezzanine and platform to Huntington,Service Call,7/12/25
 Farragut West,ESC / Escalator between street and mezzanine 17th Street Entrance,Other,7/14/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Minor Repair,7/11/25
 Forest Glen,ELE / Elevator between mezzanine and platform,Minor Repair,7/12/25
@@ -26,6 +28,8 @@ Georgia Ave-Petworth,"ELE / Elevator between street and mezzanine, west side at 
 Hyattsville Crossing,ESC / Escalator between mezzanine and platform to Branch Ave,Service Call,7/12/25
 L'Enfant Plaza,ELE / Elevator between mezzanine and platform to Greenbelt/Mt. Vernon Sq 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,7/12/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
+McPherson Square,ESC / Escalator between street and mezzanine Franklin Square/14th St. Entrance,Minor Repair,7/12/25
+Metro Center,ESC / Escalator between mezzanine and platform to Shady Grove G and 11th St Entrance,Preventive Maintenance Inspection,7/12/25
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,7/14/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,7/14/25
@@ -33,6 +37,7 @@ North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Other,7/9
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
 Potomac Ave,ESC / Escalator between mezzanine and platform,Walker,7/12/25
+Potomac Yard,ESC / Elevator between street and mezzanine at bus bays North Pavilion Entrance,Preventive Maintenance Inspection,7/12/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Silver Spring,ESC / Escalator between mezzanine and platform South Side/Bus Terminal Entrance,Service Call,7/12/25
