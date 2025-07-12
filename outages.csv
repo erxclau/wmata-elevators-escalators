@@ -1,4 +1,6 @@
 station,type_location,reason,estimated_return_to_service
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,7/13/25
+Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Service Call,7/13/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,7/11/25
 Bethesda,ESC / Escalator between mezzanine and platform,Other,7/10/25
 Capitol Heights,ELE / Elevator between street and mezzanine,Modernization,7/12/25
@@ -31,11 +33,13 @@ North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Other,7/9
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
 Pentagon,ESC / Escalator between upper and lower platforms,Minor Repair,7/13/25
+Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Preventive Maintenance Inspection,7/13/25
 Pentagon City,ESC / Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,7/13/25
 Rosslyn,ESC / Escalator between mezzanine and upper platform,Modernization,10/10/25
 Rosslyn,ESC / Escalator between upper platform and lower platform,Modernization,9/15/25
 Shaw-Howard U,ESC / Escalator between street and mezzanine 7th and S St. N.W. Entrance,Preventive Maintenance Inspection,7/13/25
 Silver Spring,ESC / Escalator between mezzanine and platform North Side/Colesville Road Entrance,Service Call,7/13/25
+Stadium-Armory,ELE / Elevator between mezzanine and platform D.C. General Hospital Entrance,Service Call,7/13/25
 Van Ness-UDC,ESC / Escalator between street and middle landing on west side of Connecticut Ave. at UDC,Major Repair,7/14/25
 West Falls Church,ELE / Garage elevator,Other,7/14/25
 West Hyattsville,ESC / Escalator between mezzanine and platform to Branch Ave,Modernization,8/24/25
