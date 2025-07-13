@@ -1,7 +1,6 @@
 station,type_location,reason,estimated_return_to_service
 Anacostia,ESC / Escalator between mezzanine and platform Kiss & Ride Entrance,Minor Repair,7/14/25
 Anacostia,ESC / Escalator between mezzanine and platform Howard Road Entrance,Minor Repair,7/13/25
-Ballston-MU,ESC / Escalator between street and middle landing,Service Call,7/15/25
 Benning Road,ESC / Escalator between mezzanine and platform,Service Call,7/15/25
 Bethesda,ESC / Escalator between bus terminal and mezzanine,Major Repair,7/11/25
 Bethesda,ESC / Escalator between mezzanine and platform,Other,7/10/25
@@ -13,29 +12,23 @@ Downtown Largo,ESC / Escalator between street and mezzanine,Other,7/13/25
 Dupont Circle,ELE / Elevator between street and mezzanine Q Street Entrance,Modernization,7/31/25
 Dupont Circle,ESC / Escalator between street and mezzanine Q Street Entrance,Modernization,12/5/25
 Farragut North,"ESC / Escalator between mezzanine and platform L Street Entrance, East of Connecticut, north side L Street",Minor Repair,7/13/25
-Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,
-Farragut North,ESC / Escalator between street and mezzanine K Street Entrance,Service Call,7/15/25
 Federal Center SW,ESC / Escalator between street and mezzanine,Other,7/14/25
 Federal Triangle,ESC / Escalator between mezzanine and platform,Service Call,7/15/25
 Fort Totten,ESC / Escalator between mezzanine and lower platform for Green Line,Service Call,7/15/25
 Gallery Pl-Chinatown,ELE / Elevator between platform for Green/Yellow lines and platform to Glenmont 7th and G Street/Arena Entrance,Modernization,8/19/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
 Gallery Pl-Chinatown,ESC / Escalator between street and mezzanine 7th and G Street/Arena Entrance,Modernization,10/24/25
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,7/14/25
-Gallery Pl-Chinatown,ESC / Escalator between middle landing and mezzanine 7th and H Street/Chinatown Entrance,Service Call,7/15/25
 Georgia Ave-Petworth,"ESC / Escalator between street and mezzanine, west side at New Hampshire & Georgia Ave.",Minor Repair,7/14/25
-Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Other,7/15/25
-Judiciary Square,ESC / Escalator between street and mezzanine 4th St/Courthouse Entrance,Service Call,7/14/25
+Judiciary Square,ESC / Escalator between street and mezzanine Building Museum Entrance,Minor Repair,7/15/25
 L'Enfant Plaza,ELE / Elevator between street and mezzanine 7th St/Maryland Ave./Smithsonian Museums Entrance/VRE trains,Minor Repair,7/15/25
 L'Enfant Plaza,ESC / Escalator between street and mezzanine 9th & D St  (L'Enfant Plaza Entrance),Modernization,9/29/25
 Landover,ESC / Escalator between mezzanine and platform,Minor Repair,7/14/25
-Loudoun Gateway,ELE / Elevator - north entry pavilion Loudoun Gateway,Service Call,7/13/25
+Loudoun Gateway,ELE / Elevator - north entry pavilion Loudoun Gateway,Minor Repair,7/13/25
 Metro Center,ELE / Elevator between upper platform to Glenmont and lower platform for Blue/Orange Lines,Minor Repair,7/14/25
-Metro Center,ESC / Escalator between upper and lower platforms G and 12th St Entrance,Service Call,7/15/25
 Minnesota Ave,ELE / Elevator between mezzanine and platform,Minor Repair,7/14/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Navy Yard Entrance,Modernization,9/29/25
 Navy Yard-Ballpark,ESC / Escalator between street and mezzanine Half Street Entrance,Major Repair,7/13/25
-NoMa-Gallaudet U,ESC / Escalator between platform and mezzanine M Street Entrance,Service Call,7/15/25
+Naylor Road,ESC / Escalator between mezzanine and platform,Service Call,7/15/25
 North Bethesda,ESC / Escalator between parking lot & pedestrian tunnel,Other,7/9/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Inspection Repair,7/21/25
 Pentagon,ESC / Escalator between the lower bus platform and the upper platform,Major Repair,7/21/25
